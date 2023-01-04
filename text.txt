@@ -1,0 +1,820 @@
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information you've provided to them or they've collected from your use of their services.
+
+Հայերեն Shqip ‫العربية Български Català 中文简体 Hrvatski Česky Dansk Nederlands English Eesti Filipino Suomi Français ქართული Deutsch Ελληνικά ‫עברית हिन्दी Magyar Indonesia Italiano Latviski Lietuviškai македонски Melayu Norsk Polski Português Româna Pyccкий Српски Slovenčina Slovenščina Español Svenska ไทย Türkçe Українська Tiếng Việt
+Lorem Ipsum
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+
+Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+Where can I get some?
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+
+5
+	paragraphs
+	words
+	bytes
+	lists
+	Start with 'Lorem
+ipsum dolor sit amet...'
+
+Translations: Can you help translate this site into a foreign language ? Please email us with details if you can help.
+There is a set of mock banners available here in three colours and in a range of standard banner sizes:
+BannersBannersBanners
+Donate: If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated - click here to donate using PayPal. Thank you for your support.
+Donate Bitcoin: 16UQLq1HZ3CNwhvgrarV6pMoA2CDjb4tyF
+NodeJS Python Interface GTK Lipsum Rails .NET Groovy
+The standard Lorem Ipsum passage, used since the 1500s
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+
+1914 translation by H. Rackham
+"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+
+Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+
+1914 translation by H. Rackham
+"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+
+help@lipsum.com
+Privacy Policy
+
+Real Python
+
+How to Check if a Python String Contains a Substring
+How to Check if a Python String Contains a Substring
+by Martin Breuss  Aug 22, 2022 2 Comments  basics best-practices
+Tweet Share Email
+Table of Contents
+
+How to Confirm That a Python String Contains Another String
+Generalize Your Check by Removing Case Sensitivity
+Learn More About the Substring
+Find a Substring With Conditions Using Regex
+Find a Substring in a pandas DataFrame Column
+Conclusion
+Remove ads
+If you’re new to programming or come from a programming language other than Python, you may be looking for the best way to check whether a string contains another string in Python.
+
+Identifying such substrings comes in handy when you’re working with text content from a file or after you’ve received user input. You may want to perform different actions in your program depending on whether a substring is present or not.
+
+In this tutorial, you’ll focus on the most Pythonic way to tackle this task, using the membership operator in. Additionally, you’ll learn how to identify the right string methods for related, but different, use cases.
+
+Finally, you’ll also learn how to find substrings in pandas columns. This is helpful if you need to search through data from a CSV file. You could use the approach that you’ll learn in the next section, but if you’re working with tabular data, it’s best to load the data into a pandas DataFrame and search for substrings in pandas.
+
+Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
+
+Real Python
+
+How to Check if a Python String Contains a Substring
+How to Check if a Python String Contains a Substring
+by Martin Breuss  Aug 22, 2022 2 Comments  basics best-practices
+Tweet Share Email
+Table of Contents
+
+How to Confirm That a Python String Contains Another String
+Generalize Your Check by Removing Case Sensitivity
+Learn More About the Substring
+Find a Substring With Conditions Using Regex
+Find a Substring in a pandas DataFrame Column
+Conclusion
+Remove ads
+If you’re new to programming or come from a programming language other than Python, you may be looking for the best way to check whether a string contains another string in Python.
+
+Identifying such substrings comes in handy when you’re working with text content from a file or after you’ve received user input. You may want to perform different actions in your program depending on whether a substring is present or not.
+
+In this tutorial, you’ll focus on the most Pythonic way to tackle this task, using the membership operator in. Additionally, you’ll learn how to identify the right string methods for related, but different, use cases.
+
+Finally, you’ll also learn how to find substrings in pandas columns. This is helpful if you need to search through data from a CSV file. You could use the approach that you’ll learn in the next section, but if you’re working with tabular data, it’s best to load the data into a pandas DataFrame and search for substrings in pandas.
+
+Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
+
+How to Confirm That a Python String Contains Another String
+If you need to check whether a string contains a substring, use Python’s membership operator in. In Python, this is the recommended way to confirm the existence of a substring in a string:
+
+>>> raw_file_content = """Hi there and welcome.
+... This is a special hidden file with a SECRET secret.
+... I don't want to tell you The Secret,
+... but I do want to secretly tell you that I have one."""
+
+>>> "secret" in raw_file_content
+True
+The in membership operator gives you a quick and readable way to check whether a substring is present in a string. You may notice that the line of code almost reads like English.
+
+Note: If you want to check whether the substring is not in the string, then you can use not in:
+
+>>> "secret" not in raw_file_content
+False
+Because the substring "secret" is present in raw_file_content, the not in operator returns False.
+
+When you use in, the expression returns a Boolean value:
+
+True if Python found the substring
+False if Python didn’t find the substring
+You can use this intuitive syntax in conditional statements to make decisions in your code:
+
+>>> if "secret" in raw_file_content:
+...    print("Found!")
+...
+Found!
+In this code snippet, you use the membership operator to check whether "secret" is a substring of raw_file_content. If it is, then you’ll print a message to the terminal. Any indented code will only execute if the Python string that you’re checking contains the substring that you provide.
+
+Note: Python considers empty strings always as a substring of any other string, so checking for the empty string in a string returns True:
+
+>>> "" in "secret"
+True
+This may be surprising because Python considers emtpy strings as false, but it’s an edge case that is helpful to keep in mind.
+
+The membership operator in is your best friend if you just need to check whether a Python string contains a substring.
+
+However, what if you want to know more about the substring? If you read through the text stored in raw_file_content, then you’ll notice that the substring occurs more than once, and even in different variations!
+
+Which of these occurrences did Python find? Does capitalization make a difference? How often does the substring show up in the text? And what’s the location of these substrings? If you need the answer to any of these questions, then keep on reading.
+
+
+Remove ads
+Generalize Your Check by Removing Case Sensitivity
+Python strings are case sensitive. If the substring that you provide uses different capitalization than the same word in your text, then Python won’t find it. For example, if you check for the lowercase word "secret" on a title-case version of the original text, the membership operator check returns False:
+
+>>> title_cased_file_content = """Hi There And Welcome.
+... This Is A Special Hidden File With A Secret Secret.
+... I Don't Want To Tell You The Secret,
+... But I Do Want To Secretly Tell You That I Have One."""
+
+>>> "secret" in title_cased_file_content
+False
+Despite the fact that the word secret appears multiple times in the title-case text title_cased_file_content, it never shows up in all lowercase. That’s why the check that you perform with the membership operator returns False. Python can’t find the all-lowercase string "secret" in the provided text.
+
+Humans have a different approach to language than computers do. This is why you’ll often want to disregard capitalization when you check whether a string contains a substring in Python.
+
+You can generalize your substring check by converting the whole input text to lowercase:
+
+>>> file_content = title_cased_file_content.lower()
+
+>>> print(file_content)
+hi there and welcome.
+this is a special hidden file with a secret secret.
+i don't want to tell you the secret,
+but i do want to secretly tell you that i have one.
+
+>>> "secret" in file_content
+True
+Converting your input text to lowercase is a common way to account for the fact that humans think of words that only differ in capitalization as the same word, while computers don’t.
+
+Note: For the following examples, you’ll keep working with file_content, the lowercase version of your text.
+
+If you work with the original string (raw_file_content) or the one in title case (title_cased_file_content), then you’ll get different results because they aren’t in lowercase. Feel free to give that a try while you work through the examples!
+
+Now that you’ve converted the string to lowercase to avoid unintended issues stemming from case sensitivity, it’s time to dig further and learn more about the substring.
+
+Learn More About the Substring
+The membership operator in is a great way to descriptively check whether there’s a substring in a string, but it doesn’t give you any more information than that. It’s perfect for conditional checks—but what if you need to know more about the substrings?
+
+Python provides many additonal string methods that allow you to check how many target substrings the string contains, to search for substrings according to elaborate conditions, or to locate the index of the substring in your text.
+
+In this section, you’ll cover some additional string methods that can help you learn more about the substring.
+
+Note: You may have seen the following methods used to check whether a string contains a substring. This is possible—but they aren’t meant to be used for that!
+
+Programming is a creative activity, and you can always find different ways to accomplish the same task. However, for your code’s readability, it’s best to use methods as they were intended in the language that you’re working with.
+
+By using in, you confirmed that the string contains the substring. But you didn’t get any information on where the substring is located.
+
+If you need to know where in your string the substring occurs, then you can use .index() on the string object:
+
+>>> file_content = """hi there and welcome.
+... this is a special hidden file with a secret secret.
+... i don't want to tell you the secret,
+... but i do want to secretly tell you that i have one."""
+
+>>> file_content.index("secret")
+59
+When you call .index() on the string and pass it the substring as an argument, you get the index position of the first character of the first occurrence of the substring.
+
+Note: If Python can’t find the substring, then .index() raises a ValueError exception.
+
+But what if you want to find other occurrences of the substring? The .index() method also takes a second argument that can define at which index position to start looking. By passing specific index positions, you can therefore skip over occurrences of the substring that you’ve already identified:
+
+>>> file_content.index("secret", 60)
+66
+When you pass a starting index that’s past the first occurrence of the substring, then Python searches starting from there. In this case, you get another match and not a ValueError.
+
+That means that the text contains the substring more than once. But how often is it in there?
+
+You can use .count() to get your answer quickly using descriptive and idiomatic Python code:
+
+>>> file_content.count("secret")
+4
+You used .count() on the lowercase string and passed the substring "secret" as an argument. Python counted how often the substring appears in the string and returned the answer. The text contains the substring four times. But what do these substrings look like?
+
+You can inspect all the substrings by splitting your text at default word borders and printing the words to your terminal using a for loop:
+
+>>> for word in file_content.split():
+...    if "secret" in word:
+...        print(word)
+...
+secret
+secret.
+secret,
+secretly
+In this example, you use .split() to separate the text at whitespaces into strings, which Python packs into a list. Then you iterate over this list and use in on each of these strings to see whether it contains the substring "secret".
+
+Note: Instead of printing the substrings, you could also save them in a new list, for example by using a list comprehension with a conditional expression:
+
+>>> [word for word in file_content.split() if "secret" in word]
+['secret', 'secret.', 'secret,', 'secretly']
+In this case, you build a list from only the words that contain the substring, which essentially filters the text.
+
+Now that you can inspect all the substrings that Python identifies, you may notice that Python doesn’t care whether there are any characters after the substring "secret" or not. It finds the word whether it’s followed by whitespace or punctuation. It even finds words such as "secretly".
+
+That’s good to know, but what can you do if you want to place stricter conditions on your substring check?
+
+
+Remove ads
+Find a Substring With Conditions Using Regex
+You may only want to match occurrences of your substring followed by punctuation, or identify words that contain the substring plus other letters, such as "secretly".
+
+For such cases that require more involved string matching, you can use regular expressions, or regex, with Python’s re module.
+
+For example, if you want to find all the words that start with "secret" but are then followed by at least one additional letter, then you can use the regex word character (\w) followed by the plus quantifier (+):
+
+>>> import re
+
+>>> file_content = """hi there and welcome.
+... this is a special hidden file with a secret secret.
+... i don't want to tell you the secret,
+... but i do want to secretly tell you that i have one."""
+
+>>> re.search(r"secret\w+", file_content)
+<re.Match object; span=(128, 136), match='secretly'>
+The re.search() function returns both the substring that matched the condition as well as its start and end index positions—rather than just True!
+
+You can then access these attributes through methods on the Match object, which is denoted by m:
+
+>>> m = re.search(r"secret\w+", file_content)
+
+>>> m.group()
+'secretly'
+
+>>> m.span()
+(128, 136)
+These results give you a lot of flexibility to continue working with the matched substring.
+
+For example, you could search for only the substrings that are followed by a comma (,) or a period (.):
+
+>>> re.search(r"secret[\.,]", file_content)
+<re.Match object; span=(66, 73), match='secret.'>
+There are two potential matches in your text, but you only matched the first result fitting your query. When you use re.search(), Python again finds only the first match. What if you wanted all the mentions of "secret" that fit a certain condition?
+
+To find all the matches using re, you can work with re.findall():
+
+>>> re.findall(r"secret[\.,]", file_content)
+['secret.', 'secret,']
+By using re.findall(), you can find all the matches of the pattern in your text. Python saves all the matches as strings in a list for you.
+
+When you use a capturing group, you can specify which part of the match you want to keep in your list by wrapping that part in parentheses:
+
+>>> re.findall(r"(secret)[\.,]", file_content)
+['secret', 'secret']
+By wrapping secret in parentheses, you defined a single capturing group. The findall() function returns a list of strings matching that capturing group, as long as there’s exactly one capturing group in the pattern. By adding the parentheses around secret, you managed to get rid of the punctuation!
+
+Note: Remember that there were four occurrences of the substring "secret" in your text, and by using re, you filtered out two specific occurrences that you matched according to special conditions.
+
+Using re.findall() with match groups is a powerful way to extract substrings from your text. But you only get a list of strings, which means that you’ve lost the index positions that you had access to when you were using re.search().
+
+If you want to keep that information around, then re can give you all the matches in an iterator:
+
+>>> for match in re.finditer(r"(secret)[\.,]", file_content):
+...    print(match)
+...
+<re.Match object; span=(66, 73), match='secret.'>
+<re.Match object; span=(103, 110), match='secret,'>
+When you use re.finditer() and pass it a search pattern and your text content as arguments, you can access each Match object that contains the substring, as well as its start and end index positions.
+
+You may notice that the punctuation shows up in these results even though you’re still using the capturing group. That’s because the string representation of a Match object displays the whole match rather than just the first capturing group.
+
+But the Match object is a powerful container of information and, like you’ve seen earlier, you can pick out just the information that you need:
+
+>>> for match in re.finditer(r"(secret)[\.,]", file_content):
+...    print(match.group(1))
+...
+secret
+secret
+By calling .group() and specifying that you want the first capturing group, you picked the word secret without the punctuation from each matched substring.
+
+You can go into much more detail with your substring matching when you use regular expressions. Instead of just checking whether a string contains another string, you can search for substrings according to elaborate conditions.
+
+Note: If you want to learn more about using capturing groups and composing more complex regex patterns, then you can dig deeper into regular expressions in Python.
+
+Using regular expressions with re is a good approach if you need information about the substrings, or if you need to continue working with them after you’ve found them in the text. But what if you’re working with tabular data? For that, you’ll turn to pandas.
+
+
+Remove ads
+Find a Substring in a pandas DataFrame Column
+If you work with data that doesn’t come from a plain text file or from user input, but from a CSV file or an Excel sheet, then you could use the same approach as discussed above.
+
+However, there’s a better way to identify which cells in a column contain a substring: you’ll use pandas! In this example, you’ll work with a CSV file that contains fake company names and slogans. You can download the file below if you want to work along:
+
+Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
+
+When you’re working with tabular data in Python, it’s usually best to load it into a pandas DataFrame first:
+
+>>> import pandas as pd
+
+>>> companies = pd.read_csv("companies.csv")
+
+>>> companies.shape
+(1000, 2)
+
+>>> companies.head()
+             company                                     slogan
+0      Kuvalis-Nolan      revolutionize next-generation metrics
+1  Dietrich-Champlin  envisioneer bleeding-edge functionalities
+2           West Inc            mesh user-centric infomediaries
+3         Wehner LLC               utilize sticky infomediaries
+4      Langworth Inc                 reinvent magnetic networks
+In this code block, you loaded a CSV file that contains one thousand rows of fake company data into a pandas DataFrame and inspected the first five rows using .head().
+
+Note: You’ll need to create a virtual environment and install pandas in order to work with the library.
+
+After you’ve loaded the data into the DataFrame, you can quickly query the whole pandas column to filter for entries that contain a substring:
+
+>>> companies[companies.slogan.str.contains("secret")]
+              company                                  slogan
+7          Maggio LLC                    target secret niches
+117      Kub and Sons              brand secret methodologies
+654       Koss-Zulauf              syndicate secret paradigms
+656      Bernier-Kihn  secretly synthesize back-end bandwidth
+921      Ward-Shields               embrace secret e-commerce
+945  Williamson Group             unleash secret action-items
+You can use .str.contains() on a pandas column and pass it the substring as an argument to filter for rows that contain the substring.
+
+Note: The indexing operator ([]) and attribute operator (.) offer intuitive ways of getting a single column or slice of a DataFrame.
+
+However, if you’re working with production code that’s concerned with performance, pandas recommends using the optimized data access methods for indexing and selecting data.
+
+When you’re working with .str.contains() and you need more complex match scenarios, you can also use regular expressions! You just need to pass a regex-compliant search pattern as the substring argument:
+
+>>> companies[companies.slogan.str.contains(r"secret\w+")]
+          company                                  slogan
+656  Bernier-Kihn  secretly synthesize back-end bandwidth
+In this code snippet, you’ve used the same pattern that you used earlier to match only words that contain secret but then continue with one or more word character (\w+). Only one of the companies in this fake dataset seems to operate secretly!
+
+You can write any complex regex pattern and pass it to .str.contains() to carve from your pandas column just the rows that you need for your analysis.
+
+Conclusion
+Like a persistent treasure hunter, you found each "secret", no matter how well it was hidden! In the process, you learned that the best way to check whether a string contains a substring in Python is to use the in membership operator.
+
+You also learned how to descriptively use two other string methods, which are often misused to check for substrings:
+
+.count() to count the occurrences of a substring in a string
+.index() to get the index position of the beginning of the substring
+After that, you explored how to find substrings according to more advanced conditions with regular expressions and a few functions in Python’s re module.
+
+Finally, you also learned how you can use the DataFrame method .str.contains() to check which entries in a pandas DataFrame contain a substring .
+
+You now know how to pick the most idiomatic approach when you’re working with substrings in Python. Keep using the most descriptive method for the job, and you’ll write code that’s delightful to read and quick for others to understand.
+
+Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
+
+ 
+🐍 Python Tricks 💌
+
+Get a short & sweet Python Trick delivered to your inbox every couple of days. No spam ever. Unsubscribe any time. Curated by the Real Python team.
+
+Python Tricks Dictionary Merge
+Email Address
+About Martin Breuss
+
+Martin Breuss
+Martin likes automation, goofy jokes, and snakes, all of which fit into the Python community. He enjoys learning and exploring and is up for talking about it, too. He writes and records content for Real Python and CodingNomads.
+
+» More about Martin
+Each tutorial at Real Python is created by a team of developers so that it meets our high quality standards. The team members who worked on this tutorial are:
+
+Aldren Santos
+Aldren
+
+Geir Arne Hjelle
+Geir Arne
+
+Ian Currie
+Ian
+
+Kate Finegan
+Kate
+
+Master Real-World Python Skills With Unlimited Access to Real Python
+
+
+
+Join us and get access to thousands of tutorials, hands-on video courses, and a community of expert Pythonistas:
+
+
+What Do You Think?
+
+Rate this article: 
+Tweet Share Share Email
+What’s your #1 takeaway or favorite thing you learned? How are you going to put your newfound skills to use? Leave a comment below and let us know.
+
+Commenting Tips: The most useful comments are those written with the goal of learning from or helping out other students. Get tips for asking good questions and get answers to common questions in our support portal.
+
+Looking for a real-time conversation? Visit the Real Python Community Chat or join the next “Office Hours” Live Q&A Session. Happy Pythoning!
+Keep Learning
+
+Related Tutorial Categories: basics best-practices
+
+— FREE Email Series —
+
+🐍 Python Tricks 💌
+
+Python Tricks Dictionary Merge
+
+Email…
+🔒 No spam. Unsubscribe any time.
+
+All Tutorial Topics
+
+advanced api basics best-practices community databases data-science devops django docker flask front-end gamedev gui intermediate machine-learning projects python testing tools web-dev web-scraping
+
+Table of Contents
+
+How to Confirm That a Python String Contains Another String
+Generalize Your Check by Removing Case Sensitivity
+Learn More About the Substring
+Find a Substring With Conditions Using Regex
+Find a Substring in a pandas DataFrame Column
+Conclusion
+Tweet Share Email
+
+Remove ads
+© 2012–2023 Real Python ⋅ Newsletter ⋅ Podcast ⋅ YouTube ⋅ Twitter ⋅ Facebook ⋅ Instagram ⋅ Python Tutorials ⋅ Search ⋅ Privacy Policy ⋅ Energy Policy ⋅ Advertise ⋅ Contact
+❤️ Happy Pythoning!
+
+Improve Your Python
+
+Improve Your Python
+...with a fresh 🐍 Python Trick 💌  
+code snippet every couple of days:
+Email Address
+
+Receive the Real Python newsletter and get notified about new tutorials we publish on the site, as well as occasional special offers.
+
+...    print("Found!")
+...
+Found!
+In this code snippet, you use the membership operator to check whether "secret" is a substring of raw_file_content. If it is, then you’ll print a message to the terminal. Any indented code will only execute if the Python string that you’re checking contains the substring that you provide.
+
+Note: Python considers empty strings always as a substring of any other string, so checking for the empty string in a string returns True:
+
+>>> "" in "secret"
+True
+This may be surprising because Python considers emtpy strings as false, but it’s an edge case that is helpful to keep in mind.
+
+The membership operator in is your best friend if you just need to check whether a Python string contains a substring.
+
+However, what if you want to know more about the substring? If you read through the text stored in raw_file_content, then you’ll notice that the substring occurs more than once, and even in different variations!
+
+Which of these occurrences did Python find? Does capitalization make a difference? How often does the substring show up in the text? And what’s the location of these substrings? If you need the answer to any of these questions, then keep on reading.
+
+
+Remove ads
+Generalize Your Check by Removing Case Sensitivity
+Python strings are case sensitive. If the substring that you provide uses different capitalization than the same word in your text, then Python won’t find it. For example, if you check for the lowercase word "secret" on a title-case version of the original text, the membership operator check returns False:
+
+>>> title_cased_file_content = """Hi There And Welcome.
+... This Is A Special Hidden File With A Secret Secret.
+... I Don't Want To Tell You The Secret,
+... But I Do Want To Secretly Tell You That I Have One."""
+
+>>> "secret" in title_cased_file_content
+False
+Despite the fact that the word secret appears multiple times in the title-case text title_cased_file_content, it never shows up in all lowercase. That’s why the check that you perform with the membership operator returns False. Python can’t find the all-lowercase string "secret" in the provided text.
+
+Humans have a different approach to language than computers do. This is why you’ll often want to disregard capitalization when you check whether a string contains a substring in Python.
+
+You can generalize your substring check by converting the whole input text to lowercase:
+
+>>> file_content = title_cased_file_content.lower()
+
+>>> print(file_content)
+hi there and welcome.
+this is a special hidden file with a secret secret.
+i don't want to tell you the secret,
+but i do want to secretly tell you that i have one.
+
+>>> "secret" in file_content
+True
+Converting your input text to lowercase is a common way to account for the fact that humans think of words that only differ in capitalization as the same word, while computers don’t.
+
+Note: For the following examples, you’ll keep working with file_content, the lowercase version of your text.
+
+If you work with the original string (raw_file_content) or the one in title case (title_cased_file_content), then you’ll get different results because they aren’t in lowercase. Feel free to give that a try while you work through the examples!
+
+Now that you’ve converted the string to lowercase to avoid unintended issues stemming from case sensitivity, it’s time to dig further and learn more about the substring.
+
+Learn More About the Substring
+The membership operator in is a great way to descriptively check whether there’s a substring in a string, but it doesn’t give you any more information than that. It’s perfect for conditional checks—but what if you need to know more about the substrings?
+
+Python provides many additonal string methods that allow you to check how many target substrings the string contains, to search for substrings according to elaborate conditions, or to locate the index of the substring in your text.
+
+In this section, you’ll cover some additional string methods that can help you learn more about the substring.
+
+Note: You may have seen the following methods used to check whether a string contains a substring. This is possible—but they aren’t meant to be used for that!
+
+Programming is a creative activity, and you can always find different ways to accomplish the same task. However, for your code’s readability, it’s best to use methods as they were intended in the language that you’re working with.
+
+By using in, you confirmed that the string contains the substring. But you didn’t get any information on where the substring is located.
+
+If you need to know where in your string the substring occurs, then you can use .index() on the string object:
+
+>>> file_content = """hi there and welcome.
+... this is a special hidden file with a secret secret.
+... i don't want to tell you the secret,
+... but i do want to secretly tell you that i have one."""
+
+>>> file_content.index("secret")
+59
+When you call .index() on the string and pass it the substring as an argument, you get the index position of the first character of the first occurrence of the substring.
+
+Note: If Python can’t find the substring, then .index() raises a ValueError exception.
+
+But what if you want to find other occurrences of the substring? The .index() method also takes a second argument that can define at which index position to start looking. By passing specific index positions, you can therefore skip over occurrences of the substring that you’ve already identified:
+
+>>> file_content.index("secret", 60)
+66
+When you pass a starting index that’s past the first occurrence of the substring, then Python searches starting from there. In this case, you get another match and not a ValueError.
+
+That means that the text contains the substring more than once. But how often is it in there?
+
+You can use .count() to get your answer quickly using descriptive and idiomatic Python code:
+
+>>> file_content.count("secret")
+4
+You used .count() on the lowercase string and passed the substring "secret" as an argument. Python counted how often the substring appears in the string and returned the answer. The text contains the substring four times. But what do these substrings look like?
+
+You can inspect all the substrings by splitting your text at default word borders and printing the words to your terminal using a for loop:
+
+>>> for word in file_content.split():
+...    if "secret" in word:
+...        print(word)
+...
+secret
+secret.
+secret,
+secretly
+In this example, you use .split() to separate the text at whitespaces into strings, which Python packs into a list. Then you iterate over this list and use in on each of these strings to see whether it contains the substring "secret".
+
+Note: Instead of printing the substrings, you could also save them in a new list, for example by using a list comprehension with a conditional expression:
+
+>>> [word for word in file_content.split() if "secret" in word]
+['secret', 'secret.', 'secret,', 'secretly']
+In this case, you build a list from only the words that contain the substring, which essentially filters the text.
+
+Now that you can inspect all the substrings that Python identifies, you may notice that Python doesn’t care whether there are any characters after the substring "secret" or not. It finds the word whether it’s followed by whitespace or punctuation. It even finds words such as "secretly".
+
+That’s good to know, but what can you do if you want to place stricter conditions on your substring check?
+
+
+Remove ads
+Find a Substring With Conditions Using Regex
+You may only want to match occurrences of your substring followed by punctuation, or identify words that contain the substring plus other letters, such as "secretly".
+
+For such cases that require more involved string matching, you can use regular expressions, or regex, with Python’s re module.
+
+For example, if you want to find all the words that start with "secret" but are then followed by at least one additional letter, then you can use the regex word character (\w) followed by the plus quantifier (+):
+
+>>> import re
+
+>>> file_content = """hi there and welcome.
+... this is a special hidden file with a secret secret.
+... i don't want to tell you the secret,
+... but i do want to secretly tell you that i have one."""
+
+>>> re.search(r"secret\w+", file_content)
+<re.Match object; span=(128, 136), match='secretly'>
+The re.search() function returns both the substring that matched the condition as well as its start and end index positions—rather than just True!
+
+You can then access these attributes through methods on the Match object, which is denoted by m:
+
+>>> m = re.search(r"secret\w+", file_content)
+
+>>> m.group()
+'secretly'
+
+>>> m.span()
+(128, 136)
+These results give you a lot of flexibility to continue working with the matched substring.
+
+For example, you could search for only the substrings that are followed by a comma (,) or a period (.):
+
+>>> re.search(r"secret[\.,]", file_content)
+<re.Match object; span=(66, 73), match='secret.'>
+There are two potential matches in your text, but you only matched the first result fitting your query. When you use re.search(), Python again finds only the first match. What if you wanted all the mentions of "secret" that fit a certain condition?
+
+To find all the matches using re, you can work with re.findall():
+
+>>> re.findall(r"secret[\.,]", file_content)
+['secret.', 'secret,']
+By using re.findall(), you can find all the matches of the pattern in your text. Python saves all the matches as strings in a list for you.
+
+When you use a capturing group, you can specify which part of the match you want to keep in your list by wrapping that part in parentheses:
+
+>>> re.findall(r"(secret)[\.,]", file_content)
+['secret', 'secret']
+By wrapping secret in parentheses, you defined a single capturing group. The findall() function returns a list of strings matching that capturing group, as long as there’s exactly one capturing group in the pattern. By adding the parentheses around secret, you managed to get rid of the punctuation!
+
+Note: Remember that there were four occurrences of the substring "secret" in your text, and by using re, you filtered out two specific occurrences that you matched according to special conditions.
+
+Using re.findall() with match groups is a powerful way to extract substrings from your text. But you only get a list of strings, which means that you’ve lost the index positions that you had access to when you were using re.search().
+
+If you want to keep that information around, then re can give you all the matches in an iterator:
+
+>>> for match in re.finditer(r"(secret)[\.,]", file_content):
+...    print(match)
+...
+<re.Match object; span=(66, 73), match='secret.'>
+<re.Match object; span=(103, 110), match='secret,'>
+When you use re.finditer() and pass it a search pattern and your text content as arguments, you can access each Match object that contains the substring, as well as its start and end index positions.
+
+You may notice that the punctuation shows up in these results even though you’re still using the capturing group. That’s because the string representation of a Match object displays the whole match rather than just the first capturing group.
+
+But the Match object is a powerful container of information and, like you’ve seen earlier, you can pick out just the information that you need:
+
+>>> for match in re.finditer(r"(secret)[\.,]", file_content):
+...    print(match.group(1))
+...
+secret
+secret
+By calling .group() and specifying that you want the first capturing group, you picked the word secret without the punctuation from each matched substring.
+
+You can go into much more detail with your substring matching when you use regular expressions. Instead of just checking whether a string contains another string, you can search for substrings according to elaborate conditions.
+
+Note: If you want to learn more about using capturing groups and composing more complex regex patterns, then you can dig deeper into regular expressions in Python.
+
+Using regular expressions with re is a good approach if you need information about the substrings, or if you need to continue working with them after you’ve found them in the text. But what if you’re working with tabular data? For that, you’ll turn to pandas.
+
+
+Remove ads
+Find a Substring in a pandas DataFrame Column
+If you work with data that doesn’t come from a plain text file or from user input, but from a CSV file or an Excel sheet, then you could use the same approach as discussed above.
+
+However, there’s a better way to identify which cells in a column contain a substring: you’ll use pandas! In this example, you’ll work with a CSV file that contains fake company names and slogans. You can download the file below if you want to work along:
+
+Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
+
+When you’re working with tabular data in Python, it’s usually best to load it into a pandas DataFrame first:
+
+>>> import pandas as pd
+
+>>> companies = pd.read_csv("companies.csv")
+
+>>> companies.shape
+(1000, 2)
+
+>>> companies.head()
+             company                                     slogan
+0      Kuvalis-Nolan      revolutionize next-generation metrics
+1  Dietrich-Champlin  envisioneer bleeding-edge functionalities
+2           West Inc            mesh user-centric infomediaries
+3         Wehner LLC               utilize sticky infomediaries
+4      Langworth Inc                 reinvent magnetic networks
+In this code block, you loaded a CSV file that contains one thousand rows of fake company data into a pandas DataFrame and inspected the first five rows using .head().
+
+Note: You’ll need to create a virtual environment and install pandas in order to work with the library.
+
+After you’ve loaded the data into the DataFrame, you can quickly query the whole pandas column to filter for entries that contain a substring:
+
+>>> companies[companies.slogan.str.contains("secret")]
+              company                                  slogan
+7          Maggio LLC                    target secret niches
+117      Kub and Sons              brand secret methodologies
+654       Koss-Zulauf              syndicate secret paradigms
+656      Bernier-Kihn  secretly synthesize back-end bandwidth
+921      Ward-Shields               embrace secret e-commerce
+945  Williamson Group             unleash secret action-items
+You can use .str.contains() on a pandas column and pass it the substring as an argument to filter for rows that contain the substring.
+
+Note: The indexing operator ([]) and attribute operator (.) offer intuitive ways of getting a single column or slice of a DataFrame.
+
+However, if you’re working with production code that’s concerned with performance, pandas recommends using the optimized data access methods for indexing and selecting data.
+
+When you’re working with .str.contains() and you need more complex match scenarios, you can also use regular expressions! You just need to pass a regex-compliant search pattern as the substring argument:
+
+>>> companies[companies.slogan.str.contains(r"secret\w+")]
+          company                                  slogan
+656  Bernier-Kihn  secretly synthesize back-end bandwidth
+In this code snippet, you’ve used the same pattern that you used earlier to match only words that contain secret but then continue with one or more word character (\w+). Only one of the companies in this fake dataset seems to operate secretly!
+
+You can write any complex regex pattern and pass it to .str.contains() to carve from your pandas column just the rows that you need for your analysis.
+
+Conclusion
+Like a persistent treasure hunter, you found each "secret", no matter how well it was hidden! In the process, you learned that the best way to check whether a string contains a substring in Python is to use the in membership operator.
+
+You also learned how to descriptively use two other string methods, which are often misused to check for substrings:
+
+.count() to count the occurrences of a substring in a string
+.index() to get the index position of the beginning of the substring
+After that, you explored how to find substrings according to more advanced conditions with regular expressions and a few functions in Python’s re module.
+
+Finally, you also learned how you can use the DataFrame method .str.contains() to check which entries in a pandas DataFrame contain a substring .
+
+You now know how to pick the most idiomatic approach when you’re working with substrings in Python. Keep using the most descriptive method for the job, and you’ll write code that’s delightful to read and quick for others to understand.
+
+Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
+
+ 
+🐍 Python Tricks 💌
+
+Get a short & sweet Python Trick delivered to your inbox every couple of days. No spam ever. Unsubscribe any time. Curated by the Real Python team.
+
+Python Tricks Dictionary Merge
+Email Address
+About Martin Breuss
+
+Martin Breuss
+Martin likes automation, goofy jokes, and snakes, all of which fit into the Python community. He enjoys learning and exploring and is up for talking about it, too. He writes and records content for Real Python and CodingNomads.
+
+» More about Martin
+Each tutorial at Real Python is created by a team of developers so that it meets our high quality standards. The team members who worked on this tutorial are:
+
+Aldren Santos
+Aldren
+
+Geir Arne Hjelle
+Geir Arne
+
+Ian Currie
+Ian
+
+Kate Finegan
+Kate
+
+Master Real-World Python Skills With Unlimited Access to Real Python
+
+
+
+Join us and get access to thousands of tutorials, hands-on video courses, and a community of expert Pythonistas:
+
+
+What Do You Think?
+
+Rate this article: 
+Tweet Share Share Email
+What’s your #1 takeaway or favorite thing you learned? How are you going to put your newfound skills to use? Leave a comment below and let us know.
+
+Commenting Tips: The most useful comments are those written with the goal of learning from or helping out other students. Get tips for asking good questions and get answers to common questions in our support portal.
+
+Looking for a real-time conversation? Visit the Real Python Community Chat or join the next “Office Hours” Live Q&A Session. Happy Pythoning!
+Keep Learning
+
+Related Tutorial Categories: basics best-practices
+
+— FREE Email Series —
+
+🐍 Python Tricks 💌
+
+Python Tricks Dictionary Merge
+
+Email…
+🔒 No spam. Unsubscribe any time.
+
+All Tutorial Topics
+
+advanced api basics best-practices community databases data-science devops django docker flask front-end gamedev gui intermediate machine-learning projects python testing tools web-dev web-scraping
+
+Table of Contents
+
+How to Confirm That a Python String Contains Another String
+Generalize Your Check by Removing Case Sensitivity
+Learn More About the Substring
+Find a Substring With Conditions Using Regex
+Find a Substring in a pandas DataFrame Column
+Conclusion
+Tweet Share Email
+
+Remove ads
+© 2012–2023 Real Python ⋅ Newsletter ⋅ Podcast ⋅ YouTube ⋅ Twitter ⋅ Facebook ⋅ Instagram ⋅ Python Tutorials ⋅ Search ⋅ Privacy Policy ⋅ Energy Policy ⋅ Advertise ⋅ Contact
+❤️ Happy Pythoning!
+
+Improve Your Python
+
+Improve Your Python
+...with a fresh 🐍 Python Trick 💌  
+code snippet every couple of days:
+Email Address
+
+Receive the Real Python newsletter and get notified about new tutorials we publish on the site, as well as occasional special offers.
+
