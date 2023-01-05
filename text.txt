@@ -1,820 +1,2610 @@
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information you've provided to them or they've collected from your use of their services.
-
-Հայերեն Shqip ‫العربية Български Català 中文简体 Hrvatski Česky Dansk Nederlands English Eesti Filipino Suomi Français ქართული Deutsch Ελληνικά ‫עברית हिन्दी Magyar Indonesia Italiano Latviski Lietuviškai македонски Melayu Norsk Polski Português Româna Pyccкий Српски Slovenčina Slovenščina Español Svenska ไทย Türkçe Українська Tiếng Việt
-Lorem Ipsum
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
-What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-
-
-Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-
-Where can I get some?
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-5
-	paragraphs
-	words
-	bytes
-	lists
-	Start with 'Lorem
-ipsum dolor sit amet...'
-
-Translations: Can you help translate this site into a foreign language ? Please email us with details if you can help.
-There is a set of mock banners available here in three colours and in a range of standard banner sizes:
-BannersBannersBanners
-Donate: If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated - click here to donate using PayPal. Thank you for your support.
-Donate Bitcoin: 16UQLq1HZ3CNwhvgrarV6pMoA2CDjb4tyF
-NodeJS Python Interface GTK Lipsum Rails .NET Groovy
-The standard Lorem Ipsum passage, used since the 1500s
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-
-1914 translation by H. Rackham
-"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
-
-Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
-"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
-
-1914 translation by H. Rackham
-"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
-
-help@lipsum.com
-Privacy Policy
-
-Real Python
-
-How to Check if a Python String Contains a Substring
-How to Check if a Python String Contains a Substring
-by Martin Breuss  Aug 22, 2022 2 Comments  basics best-practices
-Tweet Share Email
-Table of Contents
-
-How to Confirm That a Python String Contains Another String
-Generalize Your Check by Removing Case Sensitivity
-Learn More About the Substring
-Find a Substring With Conditions Using Regex
-Find a Substring in a pandas DataFrame Column
-Conclusion
-Remove ads
-If you’re new to programming or come from a programming language other than Python, you may be looking for the best way to check whether a string contains another string in Python.
-
-Identifying such substrings comes in handy when you’re working with text content from a file or after you’ve received user input. You may want to perform different actions in your program depending on whether a substring is present or not.
-
-In this tutorial, you’ll focus on the most Pythonic way to tackle this task, using the membership operator in. Additionally, you’ll learn how to identify the right string methods for related, but different, use cases.
-
-Finally, you’ll also learn how to find substrings in pandas columns. This is helpful if you need to search through data from a CSV file. You could use the approach that you’ll learn in the next section, but if you’re working with tabular data, it’s best to load the data into a pandas DataFrame and search for substrings in pandas.
-
-Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
-
-Real Python
-
-How to Check if a Python String Contains a Substring
-How to Check if a Python String Contains a Substring
-by Martin Breuss  Aug 22, 2022 2 Comments  basics best-practices
-Tweet Share Email
-Table of Contents
-
-How to Confirm That a Python String Contains Another String
-Generalize Your Check by Removing Case Sensitivity
-Learn More About the Substring
-Find a Substring With Conditions Using Regex
-Find a Substring in a pandas DataFrame Column
-Conclusion
-Remove ads
-If you’re new to programming or come from a programming language other than Python, you may be looking for the best way to check whether a string contains another string in Python.
-
-Identifying such substrings comes in handy when you’re working with text content from a file or after you’ve received user input. You may want to perform different actions in your program depending on whether a substring is present or not.
-
-In this tutorial, you’ll focus on the most Pythonic way to tackle this task, using the membership operator in. Additionally, you’ll learn how to identify the right string methods for related, but different, use cases.
-
-Finally, you’ll also learn how to find substrings in pandas columns. This is helpful if you need to search through data from a CSV file. You could use the approach that you’ll learn in the next section, but if you’re working with tabular data, it’s best to load the data into a pandas DataFrame and search for substrings in pandas.
-
-Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
-
-How to Confirm That a Python String Contains Another String
-If you need to check whether a string contains a substring, use Python’s membership operator in. In Python, this is the recommended way to confirm the existence of a substring in a string:
-
->>> raw_file_content = """Hi there and welcome.
-... This is a special hidden file with a SECRET secret.
-... I don't want to tell you The Secret,
-... but I do want to secretly tell you that I have one."""
-
->>> "secret" in raw_file_content
-True
-The in membership operator gives you a quick and readable way to check whether a substring is present in a string. You may notice that the line of code almost reads like English.
-
-Note: If you want to check whether the substring is not in the string, then you can use not in:
-
->>> "secret" not in raw_file_content
-False
-Because the substring "secret" is present in raw_file_content, the not in operator returns False.
-
-When you use in, the expression returns a Boolean value:
-
-True if Python found the substring
-False if Python didn’t find the substring
-You can use this intuitive syntax in conditional statements to make decisions in your code:
-
->>> if "secret" in raw_file_content:
-...    print("Found!")
-...
-Found!
-In this code snippet, you use the membership operator to check whether "secret" is a substring of raw_file_content. If it is, then you’ll print a message to the terminal. Any indented code will only execute if the Python string that you’re checking contains the substring that you provide.
-
-Note: Python considers empty strings always as a substring of any other string, so checking for the empty string in a string returns True:
-
->>> "" in "secret"
-True
-This may be surprising because Python considers emtpy strings as false, but it’s an edge case that is helpful to keep in mind.
-
-The membership operator in is your best friend if you just need to check whether a Python string contains a substring.
-
-However, what if you want to know more about the substring? If you read through the text stored in raw_file_content, then you’ll notice that the substring occurs more than once, and even in different variations!
-
-Which of these occurrences did Python find? Does capitalization make a difference? How often does the substring show up in the text? And what’s the location of these substrings? If you need the answer to any of these questions, then keep on reading.
-
-
-Remove ads
-Generalize Your Check by Removing Case Sensitivity
-Python strings are case sensitive. If the substring that you provide uses different capitalization than the same word in your text, then Python won’t find it. For example, if you check for the lowercase word "secret" on a title-case version of the original text, the membership operator check returns False:
-
->>> title_cased_file_content = """Hi There And Welcome.
-... This Is A Special Hidden File With A Secret Secret.
-... I Don't Want To Tell You The Secret,
-... But I Do Want To Secretly Tell You That I Have One."""
-
->>> "secret" in title_cased_file_content
-False
-Despite the fact that the word secret appears multiple times in the title-case text title_cased_file_content, it never shows up in all lowercase. That’s why the check that you perform with the membership operator returns False. Python can’t find the all-lowercase string "secret" in the provided text.
-
-Humans have a different approach to language than computers do. This is why you’ll often want to disregard capitalization when you check whether a string contains a substring in Python.
-
-You can generalize your substring check by converting the whole input text to lowercase:
-
->>> file_content = title_cased_file_content.lower()
-
->>> print(file_content)
-hi there and welcome.
-this is a special hidden file with a secret secret.
-i don't want to tell you the secret,
-but i do want to secretly tell you that i have one.
-
->>> "secret" in file_content
-True
-Converting your input text to lowercase is a common way to account for the fact that humans think of words that only differ in capitalization as the same word, while computers don’t.
-
-Note: For the following examples, you’ll keep working with file_content, the lowercase version of your text.
-
-If you work with the original string (raw_file_content) or the one in title case (title_cased_file_content), then you’ll get different results because they aren’t in lowercase. Feel free to give that a try while you work through the examples!
-
-Now that you’ve converted the string to lowercase to avoid unintended issues stemming from case sensitivity, it’s time to dig further and learn more about the substring.
-
-Learn More About the Substring
-The membership operator in is a great way to descriptively check whether there’s a substring in a string, but it doesn’t give you any more information than that. It’s perfect for conditional checks—but what if you need to know more about the substrings?
-
-Python provides many additonal string methods that allow you to check how many target substrings the string contains, to search for substrings according to elaborate conditions, or to locate the index of the substring in your text.
-
-In this section, you’ll cover some additional string methods that can help you learn more about the substring.
-
-Note: You may have seen the following methods used to check whether a string contains a substring. This is possible—but they aren’t meant to be used for that!
-
-Programming is a creative activity, and you can always find different ways to accomplish the same task. However, for your code’s readability, it’s best to use methods as they were intended in the language that you’re working with.
-
-By using in, you confirmed that the string contains the substring. But you didn’t get any information on where the substring is located.
-
-If you need to know where in your string the substring occurs, then you can use .index() on the string object:
-
->>> file_content = """hi there and welcome.
-... this is a special hidden file with a secret secret.
-... i don't want to tell you the secret,
-... but i do want to secretly tell you that i have one."""
-
->>> file_content.index("secret")
-59
-When you call .index() on the string and pass it the substring as an argument, you get the index position of the first character of the first occurrence of the substring.
-
-Note: If Python can’t find the substring, then .index() raises a ValueError exception.
-
-But what if you want to find other occurrences of the substring? The .index() method also takes a second argument that can define at which index position to start looking. By passing specific index positions, you can therefore skip over occurrences of the substring that you’ve already identified:
-
->>> file_content.index("secret", 60)
-66
-When you pass a starting index that’s past the first occurrence of the substring, then Python searches starting from there. In this case, you get another match and not a ValueError.
-
-That means that the text contains the substring more than once. But how often is it in there?
-
-You can use .count() to get your answer quickly using descriptive and idiomatic Python code:
-
->>> file_content.count("secret")
-4
-You used .count() on the lowercase string and passed the substring "secret" as an argument. Python counted how often the substring appears in the string and returned the answer. The text contains the substring four times. But what do these substrings look like?
-
-You can inspect all the substrings by splitting your text at default word borders and printing the words to your terminal using a for loop:
-
->>> for word in file_content.split():
-...    if "secret" in word:
-...        print(word)
-...
-secret
-secret.
-secret,
-secretly
-In this example, you use .split() to separate the text at whitespaces into strings, which Python packs into a list. Then you iterate over this list and use in on each of these strings to see whether it contains the substring "secret".
-
-Note: Instead of printing the substrings, you could also save them in a new list, for example by using a list comprehension with a conditional expression:
-
->>> [word for word in file_content.split() if "secret" in word]
-['secret', 'secret.', 'secret,', 'secretly']
-In this case, you build a list from only the words that contain the substring, which essentially filters the text.
-
-Now that you can inspect all the substrings that Python identifies, you may notice that Python doesn’t care whether there are any characters after the substring "secret" or not. It finds the word whether it’s followed by whitespace or punctuation. It even finds words such as "secretly".
-
-That’s good to know, but what can you do if you want to place stricter conditions on your substring check?
-
-
-Remove ads
-Find a Substring With Conditions Using Regex
-You may only want to match occurrences of your substring followed by punctuation, or identify words that contain the substring plus other letters, such as "secretly".
-
-For such cases that require more involved string matching, you can use regular expressions, or regex, with Python’s re module.
-
-For example, if you want to find all the words that start with "secret" but are then followed by at least one additional letter, then you can use the regex word character (\w) followed by the plus quantifier (+):
-
->>> import re
-
->>> file_content = """hi there and welcome.
-... this is a special hidden file with a secret secret.
-... i don't want to tell you the secret,
-... but i do want to secretly tell you that i have one."""
-
->>> re.search(r"secret\w+", file_content)
-<re.Match object; span=(128, 136), match='secretly'>
-The re.search() function returns both the substring that matched the condition as well as its start and end index positions—rather than just True!
-
-You can then access these attributes through methods on the Match object, which is denoted by m:
-
->>> m = re.search(r"secret\w+", file_content)
-
->>> m.group()
-'secretly'
-
->>> m.span()
-(128, 136)
-These results give you a lot of flexibility to continue working with the matched substring.
-
-For example, you could search for only the substrings that are followed by a comma (,) or a period (.):
-
->>> re.search(r"secret[\.,]", file_content)
-<re.Match object; span=(66, 73), match='secret.'>
-There are two potential matches in your text, but you only matched the first result fitting your query. When you use re.search(), Python again finds only the first match. What if you wanted all the mentions of "secret" that fit a certain condition?
-
-To find all the matches using re, you can work with re.findall():
-
->>> re.findall(r"secret[\.,]", file_content)
-['secret.', 'secret,']
-By using re.findall(), you can find all the matches of the pattern in your text. Python saves all the matches as strings in a list for you.
-
-When you use a capturing group, you can specify which part of the match you want to keep in your list by wrapping that part in parentheses:
-
->>> re.findall(r"(secret)[\.,]", file_content)
-['secret', 'secret']
-By wrapping secret in parentheses, you defined a single capturing group. The findall() function returns a list of strings matching that capturing group, as long as there’s exactly one capturing group in the pattern. By adding the parentheses around secret, you managed to get rid of the punctuation!
-
-Note: Remember that there were four occurrences of the substring "secret" in your text, and by using re, you filtered out two specific occurrences that you matched according to special conditions.
-
-Using re.findall() with match groups is a powerful way to extract substrings from your text. But you only get a list of strings, which means that you’ve lost the index positions that you had access to when you were using re.search().
-
-If you want to keep that information around, then re can give you all the matches in an iterator:
-
->>> for match in re.finditer(r"(secret)[\.,]", file_content):
-...    print(match)
-...
-<re.Match object; span=(66, 73), match='secret.'>
-<re.Match object; span=(103, 110), match='secret,'>
-When you use re.finditer() and pass it a search pattern and your text content as arguments, you can access each Match object that contains the substring, as well as its start and end index positions.
-
-You may notice that the punctuation shows up in these results even though you’re still using the capturing group. That’s because the string representation of a Match object displays the whole match rather than just the first capturing group.
-
-But the Match object is a powerful container of information and, like you’ve seen earlier, you can pick out just the information that you need:
-
->>> for match in re.finditer(r"(secret)[\.,]", file_content):
-...    print(match.group(1))
-...
-secret
-secret
-By calling .group() and specifying that you want the first capturing group, you picked the word secret without the punctuation from each matched substring.
-
-You can go into much more detail with your substring matching when you use regular expressions. Instead of just checking whether a string contains another string, you can search for substrings according to elaborate conditions.
-
-Note: If you want to learn more about using capturing groups and composing more complex regex patterns, then you can dig deeper into regular expressions in Python.
-
-Using regular expressions with re is a good approach if you need information about the substrings, or if you need to continue working with them after you’ve found them in the text. But what if you’re working with tabular data? For that, you’ll turn to pandas.
-
-
-Remove ads
-Find a Substring in a pandas DataFrame Column
-If you work with data that doesn’t come from a plain text file or from user input, but from a CSV file or an Excel sheet, then you could use the same approach as discussed above.
-
-However, there’s a better way to identify which cells in a column contain a substring: you’ll use pandas! In this example, you’ll work with a CSV file that contains fake company names and slogans. You can download the file below if you want to work along:
-
-Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
-
-When you’re working with tabular data in Python, it’s usually best to load it into a pandas DataFrame first:
-
->>> import pandas as pd
-
->>> companies = pd.read_csv("companies.csv")
-
->>> companies.shape
-(1000, 2)
-
->>> companies.head()
-             company                                     slogan
-0      Kuvalis-Nolan      revolutionize next-generation metrics
-1  Dietrich-Champlin  envisioneer bleeding-edge functionalities
-2           West Inc            mesh user-centric infomediaries
-3         Wehner LLC               utilize sticky infomediaries
-4      Langworth Inc                 reinvent magnetic networks
-In this code block, you loaded a CSV file that contains one thousand rows of fake company data into a pandas DataFrame and inspected the first five rows using .head().
-
-Note: You’ll need to create a virtual environment and install pandas in order to work with the library.
-
-After you’ve loaded the data into the DataFrame, you can quickly query the whole pandas column to filter for entries that contain a substring:
-
->>> companies[companies.slogan.str.contains("secret")]
-              company                                  slogan
-7          Maggio LLC                    target secret niches
-117      Kub and Sons              brand secret methodologies
-654       Koss-Zulauf              syndicate secret paradigms
-656      Bernier-Kihn  secretly synthesize back-end bandwidth
-921      Ward-Shields               embrace secret e-commerce
-945  Williamson Group             unleash secret action-items
-You can use .str.contains() on a pandas column and pass it the substring as an argument to filter for rows that contain the substring.
-
-Note: The indexing operator ([]) and attribute operator (.) offer intuitive ways of getting a single column or slice of a DataFrame.
-
-However, if you’re working with production code that’s concerned with performance, pandas recommends using the optimized data access methods for indexing and selecting data.
-
-When you’re working with .str.contains() and you need more complex match scenarios, you can also use regular expressions! You just need to pass a regex-compliant search pattern as the substring argument:
-
->>> companies[companies.slogan.str.contains(r"secret\w+")]
-          company                                  slogan
-656  Bernier-Kihn  secretly synthesize back-end bandwidth
-In this code snippet, you’ve used the same pattern that you used earlier to match only words that contain secret but then continue with one or more word character (\w+). Only one of the companies in this fake dataset seems to operate secretly!
-
-You can write any complex regex pattern and pass it to .str.contains() to carve from your pandas column just the rows that you need for your analysis.
-
-Conclusion
-Like a persistent treasure hunter, you found each "secret", no matter how well it was hidden! In the process, you learned that the best way to check whether a string contains a substring in Python is to use the in membership operator.
-
-You also learned how to descriptively use two other string methods, which are often misused to check for substrings:
-
-.count() to count the occurrences of a substring in a string
-.index() to get the index position of the beginning of the substring
-After that, you explored how to find substrings according to more advanced conditions with regular expressions and a few functions in Python’s re module.
-
-Finally, you also learned how you can use the DataFrame method .str.contains() to check which entries in a pandas DataFrame contain a substring .
-
-You now know how to pick the most idiomatic approach when you’re working with substrings in Python. Keep using the most descriptive method for the job, and you’ll write code that’s delightful to read and quick for others to understand.
-
-Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
-
- 
-🐍 Python Tricks 💌
-
-Get a short & sweet Python Trick delivered to your inbox every couple of days. No spam ever. Unsubscribe any time. Curated by the Real Python team.
-
-Python Tricks Dictionary Merge
-Email Address
-About Martin Breuss
-
-Martin Breuss
-Martin likes automation, goofy jokes, and snakes, all of which fit into the Python community. He enjoys learning and exploring and is up for talking about it, too. He writes and records content for Real Python and CodingNomads.
-
-» More about Martin
-Each tutorial at Real Python is created by a team of developers so that it meets our high quality standards. The team members who worked on this tutorial are:
-
-Aldren Santos
-Aldren
-
-Geir Arne Hjelle
-Geir Arne
-
-Ian Currie
-Ian
-
-Kate Finegan
-Kate
-
-Master Real-World Python Skills With Unlimited Access to Real Python
-
-
-
-Join us and get access to thousands of tutorials, hands-on video courses, and a community of expert Pythonistas:
-
-
-What Do You Think?
-
-Rate this article: 
-Tweet Share Share Email
-What’s your #1 takeaway or favorite thing you learned? How are you going to put your newfound skills to use? Leave a comment below and let us know.
-
-Commenting Tips: The most useful comments are those written with the goal of learning from or helping out other students. Get tips for asking good questions and get answers to common questions in our support portal.
-
-Looking for a real-time conversation? Visit the Real Python Community Chat or join the next “Office Hours” Live Q&A Session. Happy Pythoning!
-Keep Learning
-
-Related Tutorial Categories: basics best-practices
-
-— FREE Email Series —
-
-🐍 Python Tricks 💌
-
-Python Tricks Dictionary Merge
-
-Email…
-🔒 No spam. Unsubscribe any time.
-
-All Tutorial Topics
-
-advanced api basics best-practices community databases data-science devops django docker flask front-end gamedev gui intermediate machine-learning projects python testing tools web-dev web-scraping
-
-Table of Contents
-
-How to Confirm That a Python String Contains Another String
-Generalize Your Check by Removing Case Sensitivity
-Learn More About the Substring
-Find a Substring With Conditions Using Regex
-Find a Substring in a pandas DataFrame Column
-Conclusion
-Tweet Share Email
-
-Remove ads
-© 2012–2023 Real Python ⋅ Newsletter ⋅ Podcast ⋅ YouTube ⋅ Twitter ⋅ Facebook ⋅ Instagram ⋅ Python Tutorials ⋅ Search ⋅ Privacy Policy ⋅ Energy Policy ⋅ Advertise ⋅ Contact
-❤️ Happy Pythoning!
-
-Improve Your Python
-
-Improve Your Python
-...with a fresh 🐍 Python Trick 💌  
-code snippet every couple of days:
-Email Address
-
-Receive the Real Python newsletter and get notified about new tutorials we publish on the site, as well as occasional special offers.
-
-...    print("Found!")
-...
-Found!
-In this code snippet, you use the membership operator to check whether "secret" is a substring of raw_file_content. If it is, then you’ll print a message to the terminal. Any indented code will only execute if the Python string that you’re checking contains the substring that you provide.
-
-Note: Python considers empty strings always as a substring of any other string, so checking for the empty string in a string returns True:
-
->>> "" in "secret"
-True
-This may be surprising because Python considers emtpy strings as false, but it’s an edge case that is helpful to keep in mind.
-
-The membership operator in is your best friend if you just need to check whether a Python string contains a substring.
-
-However, what if you want to know more about the substring? If you read through the text stored in raw_file_content, then you’ll notice that the substring occurs more than once, and even in different variations!
-
-Which of these occurrences did Python find? Does capitalization make a difference? How often does the substring show up in the text? And what’s the location of these substrings? If you need the answer to any of these questions, then keep on reading.
-
-
-Remove ads
-Generalize Your Check by Removing Case Sensitivity
-Python strings are case sensitive. If the substring that you provide uses different capitalization than the same word in your text, then Python won’t find it. For example, if you check for the lowercase word "secret" on a title-case version of the original text, the membership operator check returns False:
-
->>> title_cased_file_content = """Hi There And Welcome.
-... This Is A Special Hidden File With A Secret Secret.
-... I Don't Want To Tell You The Secret,
-... But I Do Want To Secretly Tell You That I Have One."""
-
->>> "secret" in title_cased_file_content
-False
-Despite the fact that the word secret appears multiple times in the title-case text title_cased_file_content, it never shows up in all lowercase. That’s why the check that you perform with the membership operator returns False. Python can’t find the all-lowercase string "secret" in the provided text.
-
-Humans have a different approach to language than computers do. This is why you’ll often want to disregard capitalization when you check whether a string contains a substring in Python.
-
-You can generalize your substring check by converting the whole input text to lowercase:
-
->>> file_content = title_cased_file_content.lower()
-
->>> print(file_content)
-hi there and welcome.
-this is a special hidden file with a secret secret.
-i don't want to tell you the secret,
-but i do want to secretly tell you that i have one.
-
->>> "secret" in file_content
-True
-Converting your input text to lowercase is a common way to account for the fact that humans think of words that only differ in capitalization as the same word, while computers don’t.
-
-Note: For the following examples, you’ll keep working with file_content, the lowercase version of your text.
-
-If you work with the original string (raw_file_content) or the one in title case (title_cased_file_content), then you’ll get different results because they aren’t in lowercase. Feel free to give that a try while you work through the examples!
-
-Now that you’ve converted the string to lowercase to avoid unintended issues stemming from case sensitivity, it’s time to dig further and learn more about the substring.
-
-Learn More About the Substring
-The membership operator in is a great way to descriptively check whether there’s a substring in a string, but it doesn’t give you any more information than that. It’s perfect for conditional checks—but what if you need to know more about the substrings?
-
-Python provides many additonal string methods that allow you to check how many target substrings the string contains, to search for substrings according to elaborate conditions, or to locate the index of the substring in your text.
-
-In this section, you’ll cover some additional string methods that can help you learn more about the substring.
-
-Note: You may have seen the following methods used to check whether a string contains a substring. This is possible—but they aren’t meant to be used for that!
-
-Programming is a creative activity, and you can always find different ways to accomplish the same task. However, for your code’s readability, it’s best to use methods as they were intended in the language that you’re working with.
-
-By using in, you confirmed that the string contains the substring. But you didn’t get any information on where the substring is located.
-
-If you need to know where in your string the substring occurs, then you can use .index() on the string object:
-
->>> file_content = """hi there and welcome.
-... this is a special hidden file with a secret secret.
-... i don't want to tell you the secret,
-... but i do want to secretly tell you that i have one."""
-
->>> file_content.index("secret")
-59
-When you call .index() on the string and pass it the substring as an argument, you get the index position of the first character of the first occurrence of the substring.
-
-Note: If Python can’t find the substring, then .index() raises a ValueError exception.
-
-But what if you want to find other occurrences of the substring? The .index() method also takes a second argument that can define at which index position to start looking. By passing specific index positions, you can therefore skip over occurrences of the substring that you’ve already identified:
-
->>> file_content.index("secret", 60)
-66
-When you pass a starting index that’s past the first occurrence of the substring, then Python searches starting from there. In this case, you get another match and not a ValueError.
-
-That means that the text contains the substring more than once. But how often is it in there?
-
-You can use .count() to get your answer quickly using descriptive and idiomatic Python code:
-
->>> file_content.count("secret")
-4
-You used .count() on the lowercase string and passed the substring "secret" as an argument. Python counted how often the substring appears in the string and returned the answer. The text contains the substring four times. But what do these substrings look like?
-
-You can inspect all the substrings by splitting your text at default word borders and printing the words to your terminal using a for loop:
-
->>> for word in file_content.split():
-...    if "secret" in word:
-...        print(word)
-...
-secret
-secret.
-secret,
-secretly
-In this example, you use .split() to separate the text at whitespaces into strings, which Python packs into a list. Then you iterate over this list and use in on each of these strings to see whether it contains the substring "secret".
-
-Note: Instead of printing the substrings, you could also save them in a new list, for example by using a list comprehension with a conditional expression:
-
->>> [word for word in file_content.split() if "secret" in word]
-['secret', 'secret.', 'secret,', 'secretly']
-In this case, you build a list from only the words that contain the substring, which essentially filters the text.
-
-Now that you can inspect all the substrings that Python identifies, you may notice that Python doesn’t care whether there are any characters after the substring "secret" or not. It finds the word whether it’s followed by whitespace or punctuation. It even finds words such as "secretly".
-
-That’s good to know, but what can you do if you want to place stricter conditions on your substring check?
-
-
-Remove ads
-Find a Substring With Conditions Using Regex
-You may only want to match occurrences of your substring followed by punctuation, or identify words that contain the substring plus other letters, such as "secretly".
-
-For such cases that require more involved string matching, you can use regular expressions, or regex, with Python’s re module.
-
-For example, if you want to find all the words that start with "secret" but are then followed by at least one additional letter, then you can use the regex word character (\w) followed by the plus quantifier (+):
-
->>> import re
-
->>> file_content = """hi there and welcome.
-... this is a special hidden file with a secret secret.
-... i don't want to tell you the secret,
-... but i do want to secretly tell you that i have one."""
-
->>> re.search(r"secret\w+", file_content)
-<re.Match object; span=(128, 136), match='secretly'>
-The re.search() function returns both the substring that matched the condition as well as its start and end index positions—rather than just True!
-
-You can then access these attributes through methods on the Match object, which is denoted by m:
-
->>> m = re.search(r"secret\w+", file_content)
-
->>> m.group()
-'secretly'
-
->>> m.span()
-(128, 136)
-These results give you a lot of flexibility to continue working with the matched substring.
-
-For example, you could search for only the substrings that are followed by a comma (,) or a period (.):
-
->>> re.search(r"secret[\.,]", file_content)
-<re.Match object; span=(66, 73), match='secret.'>
-There are two potential matches in your text, but you only matched the first result fitting your query. When you use re.search(), Python again finds only the first match. What if you wanted all the mentions of "secret" that fit a certain condition?
-
-To find all the matches using re, you can work with re.findall():
-
->>> re.findall(r"secret[\.,]", file_content)
-['secret.', 'secret,']
-By using re.findall(), you can find all the matches of the pattern in your text. Python saves all the matches as strings in a list for you.
-
-When you use a capturing group, you can specify which part of the match you want to keep in your list by wrapping that part in parentheses:
-
->>> re.findall(r"(secret)[\.,]", file_content)
-['secret', 'secret']
-By wrapping secret in parentheses, you defined a single capturing group. The findall() function returns a list of strings matching that capturing group, as long as there’s exactly one capturing group in the pattern. By adding the parentheses around secret, you managed to get rid of the punctuation!
-
-Note: Remember that there were four occurrences of the substring "secret" in your text, and by using re, you filtered out two specific occurrences that you matched according to special conditions.
-
-Using re.findall() with match groups is a powerful way to extract substrings from your text. But you only get a list of strings, which means that you’ve lost the index positions that you had access to when you were using re.search().
-
-If you want to keep that information around, then re can give you all the matches in an iterator:
-
->>> for match in re.finditer(r"(secret)[\.,]", file_content):
-...    print(match)
-...
-<re.Match object; span=(66, 73), match='secret.'>
-<re.Match object; span=(103, 110), match='secret,'>
-When you use re.finditer() and pass it a search pattern and your text content as arguments, you can access each Match object that contains the substring, as well as its start and end index positions.
-
-You may notice that the punctuation shows up in these results even though you’re still using the capturing group. That’s because the string representation of a Match object displays the whole match rather than just the first capturing group.
-
-But the Match object is a powerful container of information and, like you’ve seen earlier, you can pick out just the information that you need:
-
->>> for match in re.finditer(r"(secret)[\.,]", file_content):
-...    print(match.group(1))
-...
-secret
-secret
-By calling .group() and specifying that you want the first capturing group, you picked the word secret without the punctuation from each matched substring.
-
-You can go into much more detail with your substring matching when you use regular expressions. Instead of just checking whether a string contains another string, you can search for substrings according to elaborate conditions.
-
-Note: If you want to learn more about using capturing groups and composing more complex regex patterns, then you can dig deeper into regular expressions in Python.
-
-Using regular expressions with re is a good approach if you need information about the substrings, or if you need to continue working with them after you’ve found them in the text. But what if you’re working with tabular data? For that, you’ll turn to pandas.
-
-
-Remove ads
-Find a Substring in a pandas DataFrame Column
-If you work with data that doesn’t come from a plain text file or from user input, but from a CSV file or an Excel sheet, then you could use the same approach as discussed above.
-
-However, there’s a better way to identify which cells in a column contain a substring: you’ll use pandas! In this example, you’ll work with a CSV file that contains fake company names and slogans. You can download the file below if you want to work along:
-
-Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
-
-When you’re working with tabular data in Python, it’s usually best to load it into a pandas DataFrame first:
-
->>> import pandas as pd
-
->>> companies = pd.read_csv("companies.csv")
-
->>> companies.shape
-(1000, 2)
-
->>> companies.head()
-             company                                     slogan
-0      Kuvalis-Nolan      revolutionize next-generation metrics
-1  Dietrich-Champlin  envisioneer bleeding-edge functionalities
-2           West Inc            mesh user-centric infomediaries
-3         Wehner LLC               utilize sticky infomediaries
-4      Langworth Inc                 reinvent magnetic networks
-In this code block, you loaded a CSV file that contains one thousand rows of fake company data into a pandas DataFrame and inspected the first five rows using .head().
-
-Note: You’ll need to create a virtual environment and install pandas in order to work with the library.
-
-After you’ve loaded the data into the DataFrame, you can quickly query the whole pandas column to filter for entries that contain a substring:
-
->>> companies[companies.slogan.str.contains("secret")]
-              company                                  slogan
-7          Maggio LLC                    target secret niches
-117      Kub and Sons              brand secret methodologies
-654       Koss-Zulauf              syndicate secret paradigms
-656      Bernier-Kihn  secretly synthesize back-end bandwidth
-921      Ward-Shields               embrace secret e-commerce
-945  Williamson Group             unleash secret action-items
-You can use .str.contains() on a pandas column and pass it the substring as an argument to filter for rows that contain the substring.
-
-Note: The indexing operator ([]) and attribute operator (.) offer intuitive ways of getting a single column or slice of a DataFrame.
-
-However, if you’re working with production code that’s concerned with performance, pandas recommends using the optimized data access methods for indexing and selecting data.
-
-When you’re working with .str.contains() and you need more complex match scenarios, you can also use regular expressions! You just need to pass a regex-compliant search pattern as the substring argument:
-
->>> companies[companies.slogan.str.contains(r"secret\w+")]
-          company                                  slogan
-656  Bernier-Kihn  secretly synthesize back-end bandwidth
-In this code snippet, you’ve used the same pattern that you used earlier to match only words that contain secret but then continue with one or more word character (\w+). Only one of the companies in this fake dataset seems to operate secretly!
-
-You can write any complex regex pattern and pass it to .str.contains() to carve from your pandas column just the rows that you need for your analysis.
-
-Conclusion
-Like a persistent treasure hunter, you found each "secret", no matter how well it was hidden! In the process, you learned that the best way to check whether a string contains a substring in Python is to use the in membership operator.
-
-You also learned how to descriptively use two other string methods, which are often misused to check for substrings:
-
-.count() to count the occurrences of a substring in a string
-.index() to get the index position of the beginning of the substring
-After that, you explored how to find substrings according to more advanced conditions with regular expressions and a few functions in Python’s re module.
-
-Finally, you also learned how you can use the DataFrame method .str.contains() to check which entries in a pandas DataFrame contain a substring .
-
-You now know how to pick the most idiomatic approach when you’re working with substrings in Python. Keep using the most descriptive method for the job, and you’ll write code that’s delightful to read and quick for others to understand.
-
-Free Download: Click here to download the sample code that you’ll use to check if a string contains a substring.
-
- 
-🐍 Python Tricks 💌
-
-Get a short & sweet Python Trick delivered to your inbox every couple of days. No spam ever. Unsubscribe any time. Curated by the Real Python team.
-
-Python Tricks Dictionary Merge
-Email Address
-About Martin Breuss
-
-Martin Breuss
-Martin likes automation, goofy jokes, and snakes, all of which fit into the Python community. He enjoys learning and exploring and is up for talking about it, too. He writes and records content for Real Python and CodingNomads.
-
-» More about Martin
-Each tutorial at Real Python is created by a team of developers so that it meets our high quality standards. The team members who worked on this tutorial are:
-
-Aldren Santos
-Aldren
-
-Geir Arne Hjelle
-Geir Arne
-
-Ian Currie
-Ian
-
-Kate Finegan
-Kate
-
-Master Real-World Python Skills With Unlimited Access to Real Python
-
-
-
-Join us and get access to thousands of tutorials, hands-on video courses, and a community of expert Pythonistas:
-
-
-What Do You Think?
-
-Rate this article: 
-Tweet Share Share Email
-What’s your #1 takeaway or favorite thing you learned? How are you going to put your newfound skills to use? Leave a comment below and let us know.
-
-Commenting Tips: The most useful comments are those written with the goal of learning from or helping out other students. Get tips for asking good questions and get answers to common questions in our support portal.
-
-Looking for a real-time conversation? Visit the Real Python Community Chat or join the next “Office Hours” Live Q&A Session. Happy Pythoning!
-Keep Learning
-
-Related Tutorial Categories: basics best-practices
-
-— FREE Email Series —
-
-🐍 Python Tricks 💌
-
-Python Tricks Dictionary Merge
-
-Email…
-🔒 No spam. Unsubscribe any time.
-
-All Tutorial Topics
-
-advanced api basics best-practices community databases data-science devops django docker flask front-end gamedev gui intermediate machine-learning projects python testing tools web-dev web-scraping
-
-Table of Contents
-
-How to Confirm That a Python String Contains Another String
-Generalize Your Check by Removing Case Sensitivity
-Learn More About the Substring
-Find a Substring With Conditions Using Regex
-Find a Substring in a pandas DataFrame Column
-Conclusion
-Tweet Share Email
-
-Remove ads
-© 2012–2023 Real Python ⋅ Newsletter ⋅ Podcast ⋅ YouTube ⋅ Twitter ⋅ Facebook ⋅ Instagram ⋅ Python Tutorials ⋅ Search ⋅ Privacy Policy ⋅ Energy Policy ⋅ Advertise ⋅ Contact
-❤️ Happy Pythoning!
-
-Improve Your Python
-
-Improve Your Python
-...with a fresh 🐍 Python Trick 💌  
-code snippet every couple of days:
-Email Address
-
-Receive the Real Python newsletter and get notified about new tutorials we publish on the site, as well as occasional special offers.
-
+https://www.youtube.com/watch?v=-4SijRVPmr0
+https://www.youtube.com/watch?v=-7Z1fd0nwAo
+https://www.youtube.com/watch?v=-AKWPg22slU
+https://www.youtube.com/watch?v=-THN8leH-nc
+https://www.youtube.com/watch?v=-mmruzndjEU&list=RD-mmruzndjEU&start_radio=1
+https://www.youtube.com/watch?v=-zzBE8wAYhA
+https://www.youtube.com/watch?v=02mgrA51974
+https://www.youtube.com/watch?v=07F1RJipB90
+https://www.youtube.com/watch?v=09cYQJBgKEs
+https://www.youtube.com/watch?v=0Kjr4UupF6I
+https://www.youtube.com/watch?v=0MHEWG11Csg
+https://www.youtube.com/watch?v=0NcvNaUIC6o
+https://www.youtube.com/watch?v=0QZeqvrVpiU
+https://www.youtube.com/watch?v=0Qb_lbQtftY
+https://www.youtube.com/watch?v=0fE4-rR-8G0&list=RD0fE4-rR-8G0&start_radio=1
+https://www.youtube.com/watch?v=0oqrt8PlXC0
+https://www.youtube.com/watch?v=1HyDiw6MpLM
+https://www.youtube.com/watch?v=1TEcHGHNwqg
+https://www.youtube.com/watch?v=1U973ef6kJE
+https://www.youtube.com/watch?v=1ae4sz2WWdk
+https://www.youtube.com/watch?v=1gR2sK7YWOo
+https://www.youtube.com/watch?v=273Kow05WFc
+https://www.youtube.com/watch?v=2JeQENo2XXQ
+https://www.youtube.com/watch?v=2W9PV_kuqgM
+https://www.youtube.com/watch?v=2ck_7vq601A
+https://www.youtube.com/watch?v=2hzNtVIkFwA
+https://www.youtube.com/watch?v=3Yi8jCWksOk
+https://www.youtube.com/watch?v=3ZTR7nIlOTg
+https://www.youtube.com/watch?v=3iuuuHtCTLQ
+https://www.youtube.com/watch?v=4Bi7zYo99Ok
+https://www.youtube.com/watch?v=4LUNXRHrnT4
+https://www.youtube.com/watch?v=4P23_rhyTgc
+https://www.youtube.com/watch?v=4cWkVbC2bNE
+https://www.youtube.com/watch?v=4rLW7zg21gI
+https://www.youtube.com/watch?v=4sJjPswo4kM
+https://www.youtube.com/watch?v=56fW7D_Ykzg
+https://www.youtube.com/watch?v=5QDaCcFNsZE
+https://www.youtube.com/watch?v=6Ci-pVJV-mM
+https://www.youtube.com/watch?v=6P7TfKHrzxk
+https://www.youtube.com/watch?v=6vXRiuyW18s
+https://www.youtube.com/watch?v=756kby8CHUg
+https://www.youtube.com/watch?v=7CJWC1_aPuA
+https://www.youtube.com/watch?v=7DlAv3oOTqY
+https://www.youtube.com/watch?v=7JJmCAJs9pM
+https://www.youtube.com/watch?v=7QoZ8AmVGZQ&list=RD7QoZ8AmVGZQ&start_radio=1
+https://www.youtube.com/watch?v=7_yp7PhN-HM
+https://www.youtube.com/watch?v=7hufH-_3EFA
+https://www.youtube.com/watch?v=7j7v638QJkk
+https://www.youtube.com/watch?v=7yincWCheZ8
+https://www.youtube.com/watch?v=80t8BwsQ_XA
+https://www.youtube.com/watch?v=8dx9SYCyTKs
+https://www.youtube.com/watch?v=8hYsr9TjyxE
+https://www.youtube.com/watch?v=8uBEaTr1o_4
+https://www.youtube.com/watch?v=90BhDT2a55o
+https://www.youtube.com/watch?v=94TmdZaXQZ0&list=RD94TmdZaXQZ0&start_radio=1
+https://www.youtube.com/watch?v=9DmWVQRs_Fg
+https://www.youtube.com/watch?v=9MMNXxmn24Y
+https://www.youtube.com/watch?v=9Ss79XuNWo4
+https://www.youtube.com/watch?v=9V3b-aiRsgg
+https://www.youtube.com/watch?v=9a06bc0fpG8
+https://www.youtube.com/watch?v=9cf8cZSbTM4
+https://www.youtube.com/watch?v=A-tX5PI3V0o
+https://www.youtube.com/watch?v=A4gYAKry7P0
+https://www.youtube.com/watch?v=ADa5B-YFf-M
+https://www.youtube.com/watch?v=AX382uO1IBo
+https://www.youtube.com/watch?v=AXSGCj-ET18
+https://www.youtube.com/watch?v=AmkF7Qm8cD4
+https://www.youtube.com/watch?v=AyFCZJKawHs
+https://www.youtube.com/watch?v=B21TzYRRre4
+https://www.youtube.com/watch?v=B31LgI4Y4DQ
+https://www.youtube.com/watch?v=BDkeiYiaU90
+https://www.youtube.com/watch?v=BGSMfgcC6tI
+https://www.youtube.com/watch?v=Bbba3VWtBw8
+https://www.youtube.com/watch?v=Bmou5u2p14E
+https://www.youtube.com/watch?v=BwcXj-Nrbrc
+https://www.youtube.com/watch?v=CPf4BBkarEY
+https://www.youtube.com/watch?v=Cjlr3JY-Qyw
+https://www.youtube.com/watch?v=Cm1xfWtqzP0
+https://www.youtube.com/watch?v=D-tK1o9qzQA
+https://www.youtube.com/watch?v=D3Uy8FDythc
+https://www.youtube.com/watch?v=D99w4pAwJOo
+https://www.youtube.com/watch?v=DAX1VysKMqM
+https://www.youtube.com/watch?v=DZGFuqs5VGU
+https://www.youtube.com/watch?v=DjaM5vGVwPA
+https://www.youtube.com/watch?v=E9PTur1G_Q8
+https://www.youtube.com/watch?v=EGzITlC7Ouw
+https://www.youtube.com/watch?v=EH2Q2rD74PU
+https://www.youtube.com/watch?v=ERzEjC0cNhg
+https://www.youtube.com/watch?v=EXaSbZEbArI&list=RDEXaSbZEbArI&start_radio=1
+https://www.youtube.com/watch?v=EaJ6Wx7iaSw
+https://www.youtube.com/watch?v=EzQ-p41wNEE
+https://www.youtube.com/watch?v=Ezv-cH_t7bc
+https://www.youtube.com/watch?v=F0YbBckJTI8
+https://www.youtube.com/watch?v=FIXDAr9qJPE
+https://www.youtube.com/watch?v=FR1Luc-WfYg
+https://www.youtube.com/watch?v=FW36CqdL8E4
+https://www.youtube.com/watch?v=FYXrb1D1xvQ
+https://www.youtube.com/watch?v=Fh_UDQnboRw
+https://www.youtube.com/watch?v=G1h7QVhM2cg
+https://www.youtube.com/watch?v=GIsEdN4r_Fg
+https://www.youtube.com/watch?v=GXlckaGr0Eo
+https://www.youtube.com/watch?v=GaXwlYk6ad0
+https://www.youtube.com/watch?v=GdI3RLJtues
+https://www.youtube.com/watch?v=GeU-wjkhGbg
+https://www.youtube.com/watch?v=Ghu4KtPV6TU
+https://www.youtube.com/watch?v=Gos85xoO5o8
+https://www.youtube.com/watch?v=GoyV5fLhBJY
+https://www.youtube.com/watch?v=H5l5VurKZKE
+https://www.youtube.com/watch?v=HLZ24Snp060
+https://www.youtube.com/watch?v=Hvs2AckQ4l8
+https://www.youtube.com/watch?v=HwWmxlAQipU
+https://www.youtube.com/watch?v=HyCNjuqy7c8
+https://www.youtube.com/watch?v=I5UjSoGxwNA
+https://www.youtube.com/watch?v=IKAcLgJRUx0
+https://www.youtube.com/watch?v=IM5wBrEJH9A
+https://www.youtube.com/watch?v=IMccv8xbguE
+https://www.youtube.com/watch?v=IRHrPviGR8Q
+https://www.youtube.com/watch?v=IaL5evhAUD0
+https://www.youtube.com/watch?v=J5o23mJAbpc
+https://www.youtube.com/watch?v=JHNWIrT6pOo
+https://www.youtube.com/watch?v=JLZc-ztGI0Y
+https://www.youtube.com/watch?v=JzOtLeKAHMs
+https://www.youtube.com/watch?v=K3L8J0DbuT8
+https://www.youtube.com/watch?v=K3wp8YgeQ5M
+https://www.youtube.com/watch?v=K8kXiYM09u4
+https://www.youtube.com/watch?v=KGL0LVjfBEU
+https://www.youtube.com/watch?v=KSPebSr9kIw
+https://www.youtube.com/watch?v=KavXSXuR-tM
+https://www.youtube.com/watch?v=KuiWwasUfh0&list=RDKuiWwasUfh0&start_radio=1
+https://www.youtube.com/watch?v=KxBfNGADvGM
+https://www.youtube.com/watch?v=L8fxew7K-RQ
+https://www.youtube.com/watch?v=LA7fW87KV4k
+https://www.youtube.com/watch?v=LGUhbXPVETA
+https://www.youtube.com/watch?v=LgFp0abtnQI
+https://www.youtube.com/watch?v=LhdejX7G1_o
+https://www.youtube.com/watch?v=McKKvnNJ83E
+https://www.youtube.com/watch?v=MiRSW4K5k40
+https://www.youtube.com/watch?v=MyYOoz6WgxQ
+https://www.youtube.com/watch?v=NJHax40jVAU
+https://www.youtube.com/watch?v=NNWhJQYZt3Y
+https://www.youtube.com/watch?v=NWw6dwU2his
+https://www.youtube.com/watch?v=NZ_3tZ-BvY8
+https://www.youtube.com/watch?v=N_w5fhfQzfI
+https://www.youtube.com/watch?v=O0fnx2hQKl4
+https://www.youtube.com/watch?v=OBDck9m8htM
+https://www.youtube.com/watch?v=OuSiuySr6_Q
+https://www.youtube.com/watch?v=P4q094yp_D8
+https://www.youtube.com/watch?v=P5nm194dnQI
+https://www.youtube.com/watch?v=PXIcas22MtQ
+https://www.youtube.com/watch?v=PfJFDjDNljE
+https://www.youtube.com/watch?v=Pu8_JOAZ7i4
+https://www.youtube.com/watch?v=PwNzkCKJSBE
+https://www.youtube.com/watch?v=QAx0T6V5lh8&list=RDQAx0T6V5lh8&start_radio=1
+https://www.youtube.com/watch?v=QCSVIaf37Gc
+https://www.youtube.com/watch?v=QHiFy5ZiDVg
+https://www.youtube.com/watch?v=QN7K_WGHSRI
+https://www.youtube.com/watch?v=QSlBF7pMTlg
+https://www.youtube.com/watch?v=QWLyIBkBrl0
+https://www.youtube.com/watch?v=QYVGczdflyY
+https://www.youtube.com/watch?v=QrwCEwYSJyQ
+https://www.youtube.com/watch?v=R2cQxAVb9FU
+https://www.youtube.com/watch?v=RArjohZ1yko
+https://www.youtube.com/watch?v=RBsRww0s78M
+https://www.youtube.com/watch?v=RVj2fmOGzo8
+https://www.youtube.com/watch?v=RlluLmsqgAk
+https://www.youtube.com/watch?v=RmaCJyvSyUE
+https://www.youtube.com/watch?v=Rq1iRT2LL-8
+https://www.youtube.com/watch?v=S6bqNbpbZE8
+https://www.youtube.com/watch?v=SQSCxDCaMnU
+https://www.youtube.com/watch?v=ST2RtXFp9kc
+https://www.youtube.com/watch?v=SaQ53O0NwxI
+https://www.youtube.com/watch?v=ScjtKg3g4pM
+https://www.youtube.com/watch?v=T8-OpKELVHA
+https://www.youtube.com/watch?v=TGl5TcRNfX0
+https://www.youtube.com/watch?v=TUQvJtF_ajA
+https://www.youtube.com/watch?v=TaozP--ZNUY
+https://www.youtube.com/watch?v=Tl8NrY7uX3c
+https://www.youtube.com/watch?v=U-omALWIBos
+https://www.youtube.com/watch?v=UD8TTLEUTgk
+https://www.youtube.com/watch?v=UIlTTTdv7c0
+https://www.youtube.com/watch?v=UX6ZJyTBrow
+https://www.youtube.com/watch?v=UYrXsMWIePg
+https://www.youtube.com/watch?v=U_uJg4zagZ4
+https://www.youtube.com/watch?v=Uf96xQ13Bdw
+https://www.youtube.com/watch?v=UqKVL56IJB8&list=RDUqKVL56IJB8&start_radio=1
+https://www.youtube.com/watch?v=UxMc3YO3vYI
+https://www.youtube.com/watch?v=VHEm1LQbn8Y
+https://www.youtube.com/watch?v=VNv6PPcDHMM
+https://www.youtube.com/watch?v=VOxiYLVC6sk
+https://www.youtube.com/watch?v=VUvFqnTU35k
+https://www.youtube.com/watch?v=Vav-WX4Qru4
+https://www.youtube.com/watch?v=VgeYBSgZ7-M
+https://www.youtube.com/watch?v=Vx-Mt05Rpeo
+https://www.youtube.com/watch?v=W3uymzwBjNA
+https://www.youtube.com/watch?v=WIbvhqkv5bM&list=RDWIbvhqkv5bM&start_radio=1
+https://www.youtube.com/watch?v=WNz7EEC1MO4
+https://www.youtube.com/watch?v=WQAKmFuVOaI
+https://www.youtube.com/watch?v=WX7dUj14Z00&list=RDWX7dUj14Z00&start_radio=1
+https://www.youtube.com/watch?v=Wb5jHC4AsvI
+https://www.youtube.com/watch?v=Wgv5lSDpEfg
+https://www.youtube.com/watch?v=WhQpEhXV0KU
+https://www.youtube.com/watch?v=WnhhO06xMdo
+https://www.youtube.com/watch?v=WymYVLY93dk
+https://www.youtube.com/watch?v=X27yUBRQqt4
+https://www.youtube.com/watch?v=X4uwvM10O4g
+https://www.youtube.com/watch?v=X9rF43W9E-s&list=RDX9rF43W9E-s&start_radio=1
+https://www.youtube.com/watch?v=XCPpdz9W2Xw
+https://www.youtube.com/watch?v=XO1eyeSKmHs
+https://www.youtube.com/watch?v=XPffMoqXg9c
+https://www.youtube.com/watch?v=XbreD3aaaqs
+https://www.youtube.com/watch?v=XgqnbrB4pEY
+https://www.youtube.com/watch?v=YA2_XwoACPU
+https://www.youtube.com/watch?v=YExXx3cH_zw
+https://www.youtube.com/watch?v=YFaRDZw54lQ
+https://www.youtube.com/watch?v=YPV6BitbPmM
+https://www.youtube.com/watch?v=YS4e4q9oBaU
+https://www.youtube.com/watch?v=YURq3sjju8c
+https://www.youtube.com/watch?v=Yp5INKZ_sXU
+https://www.youtube.com/watch?v=ZFs6_BIBE7s
+https://www.youtube.com/watch?v=ZI4OnfDvOMo
+https://www.youtube.com/watch?v=ZWvSqNy9r6s
+https://www.youtube.com/watch?v=Ze-50KvrNL0
+https://www.youtube.com/watch?v=ZkfJBM55FB0
+https://www.youtube.com/watch?v=ZwQuMYx0wOc
+https://www.youtube.com/watch?v=_CuHBJY0dtI
+https://www.youtube.com/watch?v=_Dcmk9mEP9s
+https://www.youtube.com/watch?v=_JmirDndKIg
+https://www.youtube.com/watch?v=_PZ1yPBpPJM
+https://www.youtube.com/watch?v=_QW52d1fxi0
+https://www.youtube.com/watch?v=_WuLZDiXLV0
+https://www.youtube.com/watch?v=aAtQQs_jvr4
+https://www.youtube.com/watch?v=aElFY3ZrP3s
+https://www.youtube.com/watch?v=aPAfE3H6cKg
+https://www.youtube.com/watch?v=aU3g15vO_Uk
+https://www.youtube.com/watch?v=aeXfA8edOG0
+https://www.youtube.com/watch?v=aeuC1fggsgg
+https://www.youtube.com/watch?v=apoiU9RB160
+https://www.youtube.com/watch?v=b-3gSdvFpq0
+https://www.youtube.com/watch?v=b2gQ1Clzvt0
+https://www.youtube.com/watch?v=bAmcnLK_v8c
+https://www.youtube.com/watch?v=bD3B1I3Zgog&list=RDbD3B1I3Zgog&start_radio=1
+https://www.youtube.com/watch?v=bQTjKvrz350&list=RDbQTjKvrz350&start_radio=1
+https://www.youtube.com/watch?v=bZgIN5PXk2s
+https://www.youtube.com/watch?v=bd_le5Uo-5k
+https://www.youtube.com/watch?v=biXR8e1fvuA
+https://www.youtube.com/watch?v=brnCe8lL7l4
+https://www.youtube.com/watch?v=bw6eabnUn7Q
+https://www.youtube.com/watch?v=bzmn7VI7H1c
+https://www.youtube.com/watch?v=c0Ob0n453l0
+https://www.youtube.com/watch?v=c2uFik12yRQ
+https://www.youtube.com/watch?v=c8P-eZRsHzg
+https://www.youtube.com/watch?v=cAFJeYcLHQg
+https://www.youtube.com/watch?v=cGAuCjJbhqo
+https://www.youtube.com/watch?v=cJR4mv8wnTg
+https://www.youtube.com/watch?v=cREhDgRaM2I
+https://www.youtube.com/watch?v=cT4v8HPYzSI
+https://www.youtube.com/watch?v=cUeg-KdNYS8
+https://www.youtube.com/watch?v=cmyg9SMMy7s
+https://www.youtube.com/watch?v=cuHDQhDhvPE
+https://www.youtube.com/watch?v=d18e5pXC4j8
+https://www.youtube.com/watch?v=d2F1tbqFM9s
+https://www.youtube.com/watch?v=d9YLPGHdZ3w
+https://www.youtube.com/watch?v=dEu5ie25U0Y
+https://www.youtube.com/watch?v=dFKxrClL7B8
+https://www.youtube.com/watch?v=dJMjv7EPl00
+https://www.youtube.com/watch?v=dnZIIOCBgOo
+https://www.youtube.com/watch?v=e-acbB0dzzY
+https://www.youtube.com/watch?v=eQAfvvqDDCY
+https://www.youtube.com/watch?v=ebSdqBcpUN4
+https://www.youtube.com/watch?v=eeDuQgxxdqA&list=RDGMEMPipJmhsMq3GHGrfqf4WIqAVMeeDuQgxxdqA&start_radio=1
+https://www.youtube.com/watch?v=ehEzl-OxElc
+https://www.youtube.com/watch?v=epVOpUCjJDw
+https://www.youtube.com/watch?v=etuXKnr1yQY
+https://www.youtube.com/watch?v=f7mUgZXTy7k
+https://www.youtube.com/watch?v=fNU3NPEnETs
+https://www.youtube.com/watch?v=ffN0G-3490c
+https://www.youtube.com/watch?v=fog6jfyQiYc
+https://www.youtube.com/watch?v=fxuH2qZMLgY
+https://www.youtube.com/watch?v=gDyXG0oeK3I
+https://www.youtube.com/watch?v=gKAfHRaPoyE
+https://www.youtube.com/watch?v=g_Irol-q54s
+https://www.youtube.com/watch?v=gebbuGJdXrs
+https://www.youtube.com/watch?v=goCtcsTe5g8
+https://www.youtube.com/watch?v=hQUR8T1gvtY
+https://www.youtube.com/watch?v=hUdB232fIXM
+https://www.youtube.com/watch?v=hVFzstvcJU8
+https://www.youtube.com/watch?v=hg6I8EWoO5M
+https://www.youtube.com/watch?v=hh9jEdZu2OY
+https://www.youtube.com/watch?v=hiPOS4WMFXg
+https://www.youtube.com/watch?v=hjvRIpU6acQ
+https://www.youtube.com/watch?v=i2e_9Ms7Jg4
+https://www.youtube.com/watch?v=iVCLg60ofKk
+https://www.youtube.com/watch?v=iVJNGEFE4ls
+https://www.youtube.com/watch?v=iWoUT4v6wIk
+https://www.youtube.com/watch?v=ia4JTX03rKA
+https://www.youtube.com/watch?v=ilP9OXAY5p8
+https://www.youtube.com/watch?v=j1U9-ZhE_Vs
+https://www.youtube.com/watch?v=j4lpc6jc8Sw
+https://www.youtube.com/watch?v=j8U06veqxdU
+https://www.youtube.com/watch?v=jaDp4JuTToQ
+https://www.youtube.com/watch?v=jhcoKu4Ycz0
+https://www.youtube.com/watch?v=jjc3FCgyQIY
+https://www.youtube.com/watch?v=kF2oTSyzYbg
+https://www.youtube.com/watch?v=ka66P3BHkTA
+https://www.youtube.com/watch?v=kqOybgUwTGY
+https://www.youtube.com/watch?v=lW4ASnnbZ7Y
+https://www.youtube.com/watch?v=leQ_kJQfYwA
+https://www.youtube.com/watch?v=lh_1yj7JNwc
+https://www.youtube.com/watch?v=lrWDynnGYtA
+https://www.youtube.com/watch?v=ltTOn6bxXhU&list=RDltTOn6bxXhU&start_radio=1
+https://www.youtube.com/watch?v=lugF9EkxwSQ
+https://www.youtube.com/watch?v=lw3PKhH0PGs
+https://www.youtube.com/watch?v=m8OaJOgW_-0
+https://www.youtube.com/watch?v=mXkz5boNvng
+https://www.youtube.com/watch?v=mbF2izbbxjw&list=RDMMmbF2izbbxjw&start_radio=1
+https://www.youtube.com/watch?v=mrMI2xiDvwI
+https://www.youtube.com/watch?v=mti2cyD14fc
+https://www.youtube.com/watch?v=mxzY1yNzeQg
+https://www.youtube.com/watch?v=mzjSKq8iqKg
+https://www.youtube.com/watch?v=n9SDe3BEcok
+https://www.youtube.com/watch?v=nRUroDLTEIs&list=RDnRUroDLTEIs&start_radio=1
+https://www.youtube.com/watch?v=ndqKrHduHlU
+https://www.youtube.com/watch?v=ngpWLma3_p8
+https://www.youtube.com/watch?v=ntt68N2uR24
+https://www.youtube.com/watch?v=o5VKMzoBFVs
+https://www.youtube.com/watch?v=oCL_BymlM4A
+https://www.youtube.com/watch?v=oHR8vStUXUY
+https://www.youtube.com/watch?v=oPwI_rtzqkE
+https://www.youtube.com/watch?v=oXZfl1Ayw24
+https://www.youtube.com/watch?v=oyPBcUNbdjc
+https://www.youtube.com/watch?v=p3UBvqT3Fc4
+https://www.youtube.com/watch?v=pE9TuV8K1YY
+https://www.youtube.com/watch?v=pQ21lDbh-iY
+https://www.youtube.com/watch?v=pljllLDxTac
+https://www.youtube.com/watch?v=ptDiYSuTsUQ
+https://www.youtube.com/watch?v=pwUANph11O8
+https://www.youtube.com/watch?v=pxQjj3oDvz4
+https://www.youtube.com/watch?v=qACTvCW_yDc
+https://www.youtube.com/watch?v=qF-Kk--ENUU
+https://www.youtube.com/watch?v=qG1j_Kzm85A
+https://www.youtube.com/watch?v=qQXXI5QFUfw
+https://www.youtube.com/watch?v=qYseaIgfL-g
+https://www.youtube.com/watch?v=qp159K0kh7E
+https://www.youtube.com/watch?v=r1zlgBB8DiE
+https://www.youtube.com/watch?v=rM8zGaMty-g
+https://www.youtube.com/watch?v=rWkQ9Azx3FU
+https://www.youtube.com/watch?v=sA48Sfw0xZs
+https://www.youtube.com/watch?v=sUyWhZALQaU
+https://www.youtube.com/watch?v=smuq1h5pc4Y
+https://www.youtube.com/watch?v=sssMcDu9P-k
+https://www.youtube.com/watch?v=tFKLInBh26Y
+https://www.youtube.com/watch?v=tSOvSVrNKXc
+https://www.youtube.com/watch?v=tgPAgLbHvWI
+https://www.youtube.com/watch?v=tqOHhBkLqrE
+https://www.youtube.com/watch?v=twADDr7sEuM
+https://www.youtube.com/watch?v=tzQmv_T1FkY
+https://www.youtube.com/watch?v=u8czdHwAKZ4
+https://www.youtube.com/watch?v=uC_Gx2h5MVU
+https://www.youtube.com/watch?v=uNXeCx5P8go
+https://www.youtube.com/watch?v=uS5d5ui3GJc
+https://www.youtube.com/watch?v=u_XVyDXs6fQ
+https://www.youtube.com/watch?v=uggLXDf-SAs
+https://www.youtube.com/watch?v=v88JosVYfbM
+https://www.youtube.com/watch?v=vLnPwxZdW4Y
+https://www.youtube.com/watch?v=wJ3sthmSVPw
+https://www.youtube.com/watch?v=wLTzTWXhYhE
+https://www.youtube.com/watch?v=wixKXQmyg9M
+https://www.youtube.com/watch?v=xHv1muPKH6Y
+https://www.youtube.com/watch?v=xIJjcPHJFCI
+https://www.youtube.com/watch?v=xPKU5WkLOqA
+https://www.youtube.com/watch?v=xUFo5gguGo4
+https://www.youtube.com/watch?v=xVDJkEvNfaU
+https://www.youtube.com/watch?v=xhITLdy4p8g
+https://www.youtube.com/watch?v=yDdtFbWuCfQ
+https://www.youtube.com/watch?v=yGbnCZfYI7Y
+https://www.youtube.com/watch?v=yajUbh0H6-s
+https://www.youtube.com/watch?v=yb8MA1lOosA
+https://www.youtube.com/watch?v=yddp6vjeVYM
+https://www.youtube.com/watch?v=ydkgBksj6Nw
+https://www.youtube.com/watch?v=ymPmeT-6kOg
+https://www.youtube.com/watch?v=ypBNKzfq3bc&list=RDypBNKzfq3bc&start_radio=1
+https://www.youtube.com/watch?v=ywc7LNS3wNM
+https://www.youtube.com/watch?v=yyUHQIec83I
+https://www.youtube.com/watch?v=yzxav9vF0ik
+https://www.youtube.com/watch?v=z-TAfbNge5E
+https://www.youtube.com/watch?v=z4JnQkMSSF4
+https://www.youtube.com/watch?v=z97DkoH7Q8o
+https://www.youtube.com/watch?v=zJme1VK9Zm8
+https://www.youtube.com/watch?v=zKp7s4U4dP0
+https://www.youtube.com/watch?v=zmLrn1co__Q
+https://www.youtube.com/watch?v=zydmlEN0Ojo
+https://www.youtube.com/watch?v=--hE7XW0_NM
+https://www.youtube.com/watch?v=-4SijRVPmr0
+https://www.youtube.com/watch?v=-7Z1fd0nwAo
+https://www.youtube.com/watch?v=-89-BYE0gws
+https://www.youtube.com/watch?v=-9F4ueCNGAs
+https://www.youtube.com/watch?v=-AKWPg22slU
+https://www.youtube.com/watch?v=-B4cVqPGou0
+https://www.youtube.com/watch?v=-Bf4z3aRIYU
+https://www.youtube.com/watch?v=-CxbFN9B17c
+https://www.youtube.com/watch?v=-DuNxwAM2p8
+https://www.youtube.com/watch?v=-FL1iQASU08
+https://www.youtube.com/watch?v=-GBFeCfQJdE
+https://www.youtube.com/watch?v=-H0Q_xgGMKQ
+https://www.youtube.com/watch?v=-HVU2Jr086s
+https://www.youtube.com/watch?v=-HWq9MMsWmk
+https://www.youtube.com/watch?v=-MV2j7sdoI8
+https://www.youtube.com/watch?v=-Nvo-E4023E
+https://www.youtube.com/watch?v=-OmfGX9NIdg
+https://www.youtube.com/watch?v=-RXcdkNcCVE
+https://www.youtube.com/watch?v=-STHCl8W_Gw
+https://www.youtube.com/watch?v=-THN8leH-nc
+https://www.youtube.com/watch?v=-Usoav0ZocM
+https://www.youtube.com/watch?v=-Vq8ugXAlss
+https://www.youtube.com/watch?v=-XDyquv9F4A
+https://www.youtube.com/watch?v=-Xiag6BAqxU
+https://www.youtube.com/watch?v=-Yzmvw-xg14
+https://www.youtube.com/watch?v=-_69V-HpFYY
+https://www.youtube.com/watch?v=-eG15aazrsY
+https://www.youtube.com/watch?v=-iroGKTaT54
+https://www.youtube.com/watch?v=-l4m908AtUI
+https://www.youtube.com/watch?v=-lfqOmfEPUg
+https://www.youtube.com/watch?v=-mmruzndjEU&list=RD-mmruzndjEU&start_radio=1
+https://www.youtube.com/watch?v=-nL3Q-y71B4
+https://www.youtube.com/watch?v=-nUiN9YKBJw
+https://www.youtube.com/watch?v=-pBtBmLgLDA
+https://www.youtube.com/watch?v=-pQy17MBUVk
+https://www.youtube.com/watch?v=-pnq_RDOueM
+https://www.youtube.com/watch?v=-r2PgPgfuLU
+https://www.youtube.com/watch?v=-tgldtvPd6U
+https://www.youtube.com/watch?v=-zzBE8wAYhA
+https://www.youtube.com/watch?v=02mgrA51974
+https://www.youtube.com/watch?v=07F1RJipB90
+https://www.youtube.com/watch?v=07cVyUgSIAM
+https://www.youtube.com/watch?v=09cYQJBgKEs
+https://www.youtube.com/watch?v=0D8Wtsc7GW4
+https://www.youtube.com/watch?v=0EEMc_GoRnk
+https://www.youtube.com/watch?v=0HTVFiLsWqE
+https://www.youtube.com/watch?v=0HoDopnOQtE
+https://www.youtube.com/watch?v=0K_H8zP0WCI
+https://www.youtube.com/watch?v=0Kjr4UupF6I
+https://www.youtube.com/watch?v=0Ktwn7C3oN4
+https://www.youtube.com/watch?v=0MHEWG11Csg
+https://www.youtube.com/watch?v=0NcvNaUIC6o
+https://www.youtube.com/watch?v=0PyFNnKOzn0
+https://www.youtube.com/watch?v=0QZeqvrVpiU
+https://www.youtube.com/watch?v=0Qb_lbQtftY
+https://www.youtube.com/watch?v=0TkIUO5GBR0
+https://www.youtube.com/watch?v=0V3-Vmqs4-I
+https://www.youtube.com/watch?v=0Vt1Lx7OANM
+https://www.youtube.com/watch?v=0_n_w00WZMg
+https://www.youtube.com/watch?v=0cMEPRH-ZDc
+https://www.youtube.com/watch?v=0ennMIpmrpw
+https://www.youtube.com/watch?v=0ewMvWwaRVk
+https://www.youtube.com/watch?v=0f1adZVnhAo
+https://www.youtube.com/watch?v=0fE4-rR-8G0&list=RD0fE4-rR-8G0&start_radio=1
+https://www.youtube.com/watch?v=0gtRqd8hSXM
+https://www.youtube.com/watch?v=0hLPqAyz4-E
+https://www.youtube.com/watch?v=0jT49ojWEkA
+https://www.youtube.com/watch?v=0mtx7PvjmG4
+https://www.youtube.com/watch?v=0oqrt8PlXC0
+https://www.youtube.com/watch?v=0p7JhUx7pc8
+https://www.youtube.com/watch?v=0qkASeWxNtc
+https://www.youtube.com/watch?v=0skzKWNNE_E
+https://www.youtube.com/watch?v=0tA2LdlzgI4
+https://www.youtube.com/watch?v=0vbc2QoWoew
+https://www.youtube.com/watch?v=0wQlJAW4rYg
+https://www.youtube.com/watch?v=0wbTC3zmwqQ
+https://www.youtube.com/watch?v=0x65D1sy86c
+https://www.youtube.com/watch?v=11HAZc9v4BY
+https://www.youtube.com/watch?v=12H3j0LtP70
+https://www.youtube.com/watch?v=12byS5nruvQ
+https://www.youtube.com/watch?v=13HOWIh7Y5A
+https://www.youtube.com/watch?v=14PIRUMHmcw
+https://www.youtube.com/watch?v=15R6iz9Wcls
+https://www.youtube.com/watch?v=15wIqaJp4Pw
+https://www.youtube.com/watch?v=17PCJPUyUiA
+https://www.youtube.com/watch?v=18hF3_5sEIo
+https://www.youtube.com/watch?v=19BBlExbf74
+https://www.youtube.com/watch?v=19w4-WBujqQ
+https://www.youtube.com/watch?v=1DMEglMCKDs
+https://www.youtube.com/watch?v=1DSI0EleKpE
+https://www.youtube.com/watch?v=1HyDiw6MpLM
+https://www.youtube.com/watch?v=1I-YKWX9HbY
+https://www.youtube.com/watch?v=1JRjeNvlvDE
+https://www.youtube.com/watch?v=1J_4qmCs5Tc
+https://www.youtube.com/watch?v=1NNYIbBySh0
+https://www.youtube.com/watch?v=1O0zORF9EYw
+https://www.youtube.com/watch?v=1P51tJMk34w
+https://www.youtube.com/watch?v=1PC4eWi1MWk
+https://www.youtube.com/watch?v=1PDXaczIDvk
+https://www.youtube.com/watch?v=1PUSRZEuvUc
+https://www.youtube.com/watch?v=1Q5yI79BUkk
+https://www.youtube.com/watch?v=1RqI1kjBIS0
+https://www.youtube.com/watch?v=1TEcHGHNwqg
+https://www.youtube.com/watch?v=1U973ef6kJE
+https://www.youtube.com/watch?v=1XnCXRfMvh8
+https://www.youtube.com/watch?v=1_QvUEjlxXM
+https://www.youtube.com/watch?v=1ae4sz2WWdk
+https://www.youtube.com/watch?v=1bwktEhLM_U
+https://www.youtube.com/watch?v=1dZmiOqAjxg
+https://www.youtube.com/watch?v=1gR2sK7YWOo
+https://www.youtube.com/watch?v=1ixBNlDBySk
+https://www.youtube.com/watch?v=1qLY00BBnV8
+https://www.youtube.com/watch?v=1rg-zgpRFzw
+https://www.youtube.com/watch?v=1t4quluSOYs
+https://www.youtube.com/watch?v=1uf29dL1y1M
+https://www.youtube.com/watch?v=1usow2QnCRU
+https://www.youtube.com/watch?v=1xQ6oD0GSmU
+https://www.youtube.com/watch?v=2-B5AYcYrIs
+https://www.youtube.com/watch?v=238VT9iLgCA
+https://www.youtube.com/watch?v=23p5KB5_m7I
+https://www.youtube.com/watch?v=273Kow05WFc
+https://www.youtube.com/watch?v=2AgJ6duPLuk
+https://www.youtube.com/watch?v=2HWNKbuOe9Y
+https://www.youtube.com/watch?v=2IkXiJ1BNTg
+https://www.youtube.com/watch?v=2JeQENo2XXQ
+https://www.youtube.com/watch?v=2K7u0JQu5Fs
+https://www.youtube.com/watch?v=2R74zO6PR04
+https://www.youtube.com/watch?v=2RGuQMqUQZI
+https://www.youtube.com/watch?v=2Rjnvc0qOiE
+https://www.youtube.com/watch?v=2ShtEzBzq6s
+https://www.youtube.com/watch?v=2W9PV_kuqgM
+https://www.youtube.com/watch?v=2WFUMJOTYJY
+https://www.youtube.com/watch?v=2_FMVUaMEv8
+https://www.youtube.com/watch?v=2b_tJZtCjjA
+https://www.youtube.com/watch?v=2ck_7vq601A
+https://www.youtube.com/watch?v=2gf4JdQKcDc
+https://www.youtube.com/watch?v=2hzNtVIkFwA
+https://www.youtube.com/watch?v=2l_vJYfh8Vs
+https://www.youtube.com/watch?v=2lgmPrSrptA
+https://www.youtube.com/watch?v=2pAXD1cQdYk
+https://www.youtube.com/watch?v=2qkpg5e84zQ
+https://www.youtube.com/watch?v=2r5N0Q1IW30
+https://www.youtube.com/watch?v=2s3pjTXSDwI
+https://www.youtube.com/watch?v=2tG-6JuUZg4
+https://www.youtube.com/watch?v=2vL1c4bwzbA
+https://www.youtube.com/watch?v=2zGXmDaW1aY
+https://www.youtube.com/watch?v=2zLtMgNNUpU
+https://www.youtube.com/watch?v=32zFUAlW6rc
+https://www.youtube.com/watch?v=33WM1rKi6BM
+https://www.youtube.com/watch?v=37E-sbmQgcE
+https://www.youtube.com/watch?v=3B280vLv8n4
+https://www.youtube.com/watch?v=3Chp5m-0Whs
+https://www.youtube.com/watch?v=3CrAIjmPCL0
+https://www.youtube.com/watch?v=3EZ7YSIijG4
+https://www.youtube.com/watch?v=3K0sk9Dbwi4
+https://www.youtube.com/watch?v=3KlIp-ctad4
+https://www.youtube.com/watch?v=3OE8dtSZZbQ
+https://www.youtube.com/watch?v=3Qb9vb_qp0U
+https://www.youtube.com/watch?v=3RYFNbQxB30
+https://www.youtube.com/watch?v=3UXutROu9ok
+https://www.youtube.com/watch?v=3V2YfP3gWbY
+https://www.youtube.com/watch?v=3WplF5ddsNM
+https://www.youtube.com/watch?v=3XZk2XUsqm8
+https://www.youtube.com/watch?v=3YC3MibsvT0
+https://www.youtube.com/watch?v=3Yi8jCWksOk
+https://www.youtube.com/watch?v=3Z9X2tq9EOM
+https://www.youtube.com/watch?v=3ZTR7nIlOTg
+https://www.youtube.com/watch?v=3_kIZPfFXq0
+https://www.youtube.com/watch?v=3ed6aKVAnVM
+https://www.youtube.com/watch?v=3g5hOOLKejc
+https://www.youtube.com/watch?v=3gNyP-HN19o
+https://www.youtube.com/watch?v=3iieXyY1Dgk
+https://www.youtube.com/watch?v=3iuuuHtCTLQ
+https://www.youtube.com/watch?v=3mNcgyMX81g
+https://www.youtube.com/watch?v=3oUdMUyOPTM
+https://www.youtube.com/watch?v=3r-30PlL3A4
+https://www.youtube.com/watch?v=3rh-NBkfLxk
+https://www.youtube.com/watch?v=3rsMcAtxvP0
+https://www.youtube.com/watch?v=3vuBH4dYkO8
+https://www.youtube.com/watch?v=3xnmFQgnnNY
+https://www.youtube.com/watch?v=3zQo4ZhonIM
+https://www.youtube.com/watch?v=3zdy5SaSqKg
+https://www.youtube.com/watch?v=418Tnsz6RGQ
+https://www.youtube.com/watch?v=41Fx4IdVCH0
+https://www.youtube.com/watch?v=41QRVDJB8aY
+https://www.youtube.com/watch?v=41V8BzWm2yg
+https://www.youtube.com/watch?v=42d897r_cSc
+https://www.youtube.com/watch?v=46J2aD8_mAE
+https://www.youtube.com/watch?v=4Bi7zYo99Ok
+https://www.youtube.com/watch?v=4Dyh0iXk6ek
+https://www.youtube.com/watch?v=4FF2KmfF_4Y
+https://www.youtube.com/watch?v=4G2_MxsF7ys
+https://www.youtube.com/watch?v=4IFlCCm-Mwo
+https://www.youtube.com/watch?v=4LUNXRHrnT4
+https://www.youtube.com/watch?v=4OBKWrc9NpQ
+https://www.youtube.com/watch?v=4P23_rhyTgc
+https://www.youtube.com/watch?v=4PPT9gXPXJg
+https://www.youtube.com/watch?v=4SvMoDuToaw
+https://www.youtube.com/watch?v=4UgPJYKxLGc
+https://www.youtube.com/watch?v=4WXDumLGXu4
+https://www.youtube.com/watch?v=4awJ3Kjq5tM
+https://www.youtube.com/watch?v=4cWkVbC2bNE
+https://www.youtube.com/watch?v=4fHGUusHEKI
+https://www.youtube.com/watch?v=4jvYINnglnE
+https://www.youtube.com/watch?v=4k0GDx_iJXA
+https://www.youtube.com/watch?v=4lYzRkU__h8
+https://www.youtube.com/watch?v=4oyWiKimGdw
+https://www.youtube.com/watch?v=4rLW7zg21gI
+https://www.youtube.com/watch?v=4sJjPswo4kM
+https://www.youtube.com/watch?v=4sjV3M6p3SM
+https://www.youtube.com/watch?v=4sr4oukW9Qk
+https://www.youtube.com/watch?v=4wAjM4AVdkA
+https://www.youtube.com/watch?v=4yZScO5oHDc
+https://www.youtube.com/watch?v=4z8JxHY9JBs
+https://www.youtube.com/watch?v=51v4hVon5m4
+https://www.youtube.com/watch?v=52KWU4TiWSg
+https://www.youtube.com/watch?v=546Ch8p5ysk
+https://www.youtube.com/watch?v=55dDH2Md0I0
+https://www.youtube.com/watch?v=56fW7D_Ykzg
+https://www.youtube.com/watch?v=5740NZ7c9Xk
+https://www.youtube.com/watch?v=57e2fFt8ka0
+https://www.youtube.com/watch?v=59kma61y-ZQ
+https://www.youtube.com/watch?v=5CF_S2FO0GA
+https://www.youtube.com/watch?v=5D81kTIZD8I
+https://www.youtube.com/watch?v=5DXN102ACHI
+https://www.youtube.com/watch?v=5E9AFrp98Hk
+https://www.youtube.com/watch?v=5Gr9gUjZ5v0
+https://www.youtube.com/watch?v=5NzBseZx5zo
+https://www.youtube.com/watch?v=5O2kD2zGC9k
+https://www.youtube.com/watch?v=5P6PXKF4OsU
+https://www.youtube.com/watch?v=5QDaCcFNsZE
+https://www.youtube.com/watch?v=5QLllno-HtQ
+https://www.youtube.com/watch?v=5QMF9QxuwR8
+https://www.youtube.com/watch?v=5RhSyfLgP4w
+https://www.youtube.com/watch?v=5S3DW-3dGcA
+https://www.youtube.com/watch?v=5SrSLIQSQss
+https://www.youtube.com/watch?v=5U8EwgBqX6s
+https://www.youtube.com/watch?v=5V0Oe395Eus
+https://www.youtube.com/watch?v=5ZU-msqS3ps
+https://www.youtube.com/watch?v=5j5FQP5zG4A
+https://www.youtube.com/watch?v=5j7y9px6HQE
+https://www.youtube.com/watch?v=5kFfIvSW5Ag
+https://www.youtube.com/watch?v=5mmc8rdvmFk
+https://www.youtube.com/watch?v=5nki8KzExa0
+https://www.youtube.com/watch?v=5paybV4Iw7k
+https://www.youtube.com/watch?v=5pqLpi9UW_E
+https://www.youtube.com/watch?v=5tiy9RdfIBM
+https://www.youtube.com/watch?v=5vopwAal-RI
+https://www.youtube.com/watch?v=5w1ht2CfesU
+https://www.youtube.com/watch?v=5wDTC6jdhaw
+https://www.youtube.com/watch?v=5x21uRg3pzg
+https://www.youtube.com/watch?v=5xTbDIcjmKw
+https://www.youtube.com/watch?v=5xay2n3gliQ
+https://www.youtube.com/watch?v=61_ZrxLrzJI
+https://www.youtube.com/watch?v=64UiNjYYSQk
+https://www.youtube.com/watch?v=654OmFQgsJw
+https://www.youtube.com/watch?v=65CGorFGZoQ
+https://www.youtube.com/watch?v=65K6AjDlcv8
+https://www.youtube.com/watch?v=662d-u1e-Kk
+https://www.youtube.com/watch?v=66mjGEAUitM
+https://www.youtube.com/watch?v=68W8YPhw43Q
+https://www.youtube.com/watch?v=6CHtSj1g2YY
+https://www.youtube.com/watch?v=6COYk-OoorE
+https://www.youtube.com/watch?v=6Ci-pVJV-mM
+https://www.youtube.com/watch?v=6Eg00y1Uefg
+https://www.youtube.com/watch?v=6F3m5SrHqhw
+https://www.youtube.com/watch?v=6H0iDwx5YXM
+https://www.youtube.com/watch?v=6MpGaM1QfDU
+https://www.youtube.com/watch?v=6Nx-NDUPiAs
+https://www.youtube.com/watch?v=6ONXt2EZG8Q
+https://www.youtube.com/watch?v=6P7TfKHrzxk
+https://www.youtube.com/watch?v=6T9pJH-bJS4
+https://www.youtube.com/watch?v=6TRNRajTA2o
+https://www.youtube.com/watch?v=6Ufc95BztOk
+https://www.youtube.com/watch?v=6YRjkk_gTBU
+https://www.youtube.com/watch?v=6aPmqQN-ALA
+https://www.youtube.com/watch?v=6b-L1wWcc98
+https://www.youtube.com/watch?v=6e97gE72TAk
+https://www.youtube.com/watch?v=6eE71D3z0g4
+https://www.youtube.com/watch?v=6gOgs6H-bT8
+https://www.youtube.com/watch?v=6gkqKZcbAVA
+https://www.youtube.com/watch?v=6jUW7r0zCI0
+https://www.youtube.com/watch?v=6jgHHpvi_j0
+https://www.youtube.com/watch?v=6nNgY84JY8g
+https://www.youtube.com/watch?v=6o0xwjjzrZE
+https://www.youtube.com/watch?v=6pvuNu3gytk
+https://www.youtube.com/watch?v=6uskplrXTfs
+https://www.youtube.com/watch?v=6vXRiuyW18s
+https://www.youtube.com/watch?v=6xZTpNt_hHI
+https://www.youtube.com/watch?v=6yoqAlfQJM8
+https://www.youtube.com/watch?v=70H5Oa6pEX0
+https://www.youtube.com/watch?v=70wu8E4bcbE
+https://www.youtube.com/watch?v=71Un8VpMD78
+https://www.youtube.com/watch?v=73qNRVlyMys
+https://www.youtube.com/watch?v=73vDYktEhsM
+https://www.youtube.com/watch?v=756kby8CHUg
+https://www.youtube.com/watch?v=7BQ5XkFKB0U
+https://www.youtube.com/watch?v=7Bj5ULgQ6LE
+https://www.youtube.com/watch?v=7CJWC1_aPuA
+https://www.youtube.com/watch?v=7DlAv3oOTqY
+https://www.youtube.com/watch?v=7DvoaAPoqpg
+https://www.youtube.com/watch?v=7DyHEvRbihY
+https://www.youtube.com/watch?v=7IxmbS9PWWo
+https://www.youtube.com/watch?v=7JJmCAJs9pM
+https://www.youtube.com/watch?v=7QVh8d_JHns
+https://www.youtube.com/watch?v=7QoZ8AmVGZQ&list=RD7QoZ8AmVGZQ&start_radio=1
+https://www.youtube.com/watch?v=7QrbBEz7SD0
+https://www.youtube.com/watch?v=7RCjSwFAO58
+https://www.youtube.com/watch?v=7SlP9aIKNJI
+https://www.youtube.com/watch?v=7WiZ5HHw0Dc
+https://www.youtube.com/watch?v=7WyvEwoPl2U
+https://www.youtube.com/watch?v=7Xb_pnauJyA
+https://www.youtube.com/watch?v=7ZA6fjawgYI
+https://www.youtube.com/watch?v=7ZCnh7HPJFM
+https://www.youtube.com/watch?v=7_yp7PhN-HM
+https://www.youtube.com/watch?v=7b54SN-Y--0
+https://www.youtube.com/watch?v=7c4I_Ay5Qeo
+https://www.youtube.com/watch?v=7hufH-_3EFA
+https://www.youtube.com/watch?v=7j4rzmOlbhc
+https://www.youtube.com/watch?v=7j7v638QJkk
+https://www.youtube.com/watch?v=7kY2j8wifLk
+https://www.youtube.com/watch?v=7mj9lCTLqxc
+https://www.youtube.com/watch?v=7vvWPfo4BuY
+https://www.youtube.com/watch?v=7vxmy0dy200
+https://www.youtube.com/watch?v=7wkUi53GxSo
+https://www.youtube.com/watch?v=7xssoPGw4X4
+https://www.youtube.com/watch?v=7yincWCheZ8
+https://www.youtube.com/watch?v=7zadzhSqfBU
+https://www.youtube.com/watch?v=8-_jXfPk8M0
+https://www.youtube.com/watch?v=80t8BwsQ_XA
+https://www.youtube.com/watch?v=84Acdg46UD4
+https://www.youtube.com/watch?v=84Du8jZEi58
+https://www.youtube.com/watch?v=87Th5ThwVgQ
+https://www.youtube.com/watch?v=8BFMZpZ_oYI
+https://www.youtube.com/watch?v=8DFBfD96nuk
+https://www.youtube.com/watch?v=8ERt4KdELFg
+https://www.youtube.com/watch?v=8EvvCIOM13w
+https://www.youtube.com/watch?v=8G9iDHri9Y4
+https://www.youtube.com/watch?v=8GI9jrxz73E
+https://www.youtube.com/watch?v=8GMTJcgdzMg
+https://www.youtube.com/watch?v=8N3U96oqTLc
+https://www.youtube.com/watch?v=8NWm3GjBr6w
+https://www.youtube.com/watch?v=8PG88CoRP-8
+https://www.youtube.com/watch?v=8QIX2VoiolI
+https://www.youtube.com/watch?v=8QJHyvmaX8A
+https://www.youtube.com/watch?v=8QTT5NGKcVI
+https://www.youtube.com/watch?v=8RRhmkiqKeM
+https://www.youtube.com/watch?v=8RwwH-QkX3g
+https://www.youtube.com/watch?v=8SBb7nvlsMw
+https://www.youtube.com/watch?v=8UuRpyxRFv0
+https://www.youtube.com/watch?v=8VGKSUXdw_Q
+https://www.youtube.com/watch?v=8_95TgHnwgE
+https://www.youtube.com/watch?v=8aD622cgarA
+https://www.youtube.com/watch?v=8dx9SYCyTKs
+https://www.youtube.com/watch?v=8eGpApT--jg
+https://www.youtube.com/watch?v=8hYsr9TjyxE
+https://www.youtube.com/watch?v=8iaWHJEa8Dw
+https://www.youtube.com/watch?v=8nDUHRtPPa4
+https://www.youtube.com/watch?v=8oS7GvYx0eQ
+https://www.youtube.com/watch?v=8p_M08oCWHI
+https://www.youtube.com/watch?v=8sfFjgdQLJE
+https://www.youtube.com/watch?v=8uBEaTr1o_4
+https://www.youtube.com/watch?v=8u_fOPvoQDI
+https://www.youtube.com/watch?v=8xjSNbmSBRA
+https://www.youtube.com/watch?v=9-suj0QDT0Y
+https://www.youtube.com/watch?v=90BhDT2a55o
+https://www.youtube.com/watch?v=91LzfxUsQX0
+https://www.youtube.com/watch?v=94TmdZaXQZ0&list=RD94TmdZaXQZ0&start_radio=1
+https://www.youtube.com/watch?v=97uHP00NFr0
+https://www.youtube.com/watch?v=98eJouuWaQA
+https://www.youtube.com/watch?v=99iXwOkjVlU
+https://www.youtube.com/watch?v=9BwMVJbqOnA
+https://www.youtube.com/watch?v=9DmWVQRs_Fg
+https://www.youtube.com/watch?v=9F15kZcBqvI
+https://www.youtube.com/watch?v=9GISkF1Yrjk
+https://www.youtube.com/watch?v=9GkgnsyMsMk
+https://www.youtube.com/watch?v=9M8rchYByNY
+https://www.youtube.com/watch?v=9MMNXxmn24Y
+https://www.youtube.com/watch?v=9OYi0SdwVKA
+https://www.youtube.com/watch?v=9QAyAcalZiU
+https://www.youtube.com/watch?v=9QQeXQ3u89I
+https://www.youtube.com/watch?v=9ScTJjEMNPc
+https://www.youtube.com/watch?v=9Ss79XuNWo4
+https://www.youtube.com/watch?v=9U8t8rgWGz8
+https://www.youtube.com/watch?v=9UaCmyVGMsU
+https://www.youtube.com/watch?v=9V3b-aiRsgg
+https://www.youtube.com/watch?v=9WUmtpknZZ4
+https://www.youtube.com/watch?v=9Yjf687Bh8s
+https://www.youtube.com/watch?v=9Zt_-6aVXYU
+https://www.youtube.com/watch?v=9a06bc0fpG8
+https://www.youtube.com/watch?v=9ayp2lUXYu4
+https://www.youtube.com/watch?v=9bCpdf8v3HI
+https://www.youtube.com/watch?v=9cf8cZSbTM4
+https://www.youtube.com/watch?v=9dV3mOVa9y8
+https://www.youtube.com/watch?v=9eje69CKHrM
+https://www.youtube.com/watch?v=9hyviOGGm2k
+https://www.youtube.com/watch?v=9iSfHWudyC0
+https://www.youtube.com/watch?v=9jYHK2Zxrfg
+https://www.youtube.com/watch?v=9maQbHjeDDU
+https://www.youtube.com/watch?v=9oDZyFPVuVM
+https://www.youtube.com/watch?v=9oH3xLTpzTQ
+https://www.youtube.com/watch?v=9qtM4QrYVxs
+https://www.youtube.com/watch?v=9qvjJ2i61T4
+https://www.youtube.com/watch?v=9r6mmqmMqcc
+https://www.youtube.com/watch?v=9rKKhjki9cU
+https://www.youtube.com/watch?v=9s3JTim3-58
+https://www.youtube.com/watch?v=9v7hSinBjK0
+https://www.youtube.com/watch?v=9vKL6L4PxjE
+https://www.youtube.com/watch?v=9vkU7Kn2HoA
+https://www.youtube.com/watch?v=9wQ7YW-EmLY
+https://www.youtube.com/watch?v=9xUghUThALA
+https://www.youtube.com/watch?v=9ypl4Ek3R1U
+https://www.youtube.com/watch?v=9zIxmES8Z6A
+https://www.youtube.com/watch?v=A-149Lfgwro
+https://www.youtube.com/watch?v=A-tX5PI3V0o
+https://www.youtube.com/watch?v=A0md3kGEuIc
+https://www.youtube.com/watch?v=A4gYAKry7P0
+https://www.youtube.com/watch?v=A5Jnr1Mrxv4
+https://www.youtube.com/watch?v=A5v_ZejL0uw
+https://www.youtube.com/watch?v=A61PCpoQHRs
+https://www.youtube.com/watch?v=A6ApO0DGugk
+https://www.youtube.com/watch?v=A7U6mhdKOaY
+https://www.youtube.com/watch?v=A91xqBGGUgE
+https://www.youtube.com/watch?v=ABJD9UlUm-Y
+https://www.youtube.com/watch?v=ACIJ9i8GRqg
+https://www.youtube.com/watch?v=ADa5B-YFf-M
+https://www.youtube.com/watch?v=AGqCldkCmwE
+https://www.youtube.com/watch?v=AHVMc2dtA2I
+https://www.youtube.com/watch?v=ALHYJgqqLIA
+https://www.youtube.com/watch?v=ALtL1NadthI
+https://www.youtube.com/watch?v=AMcs88mb1bY
+https://www.youtube.com/watch?v=AP-mo5LMZmE
+https://www.youtube.com/watch?v=AW9oN71Hxls
+https://www.youtube.com/watch?v=AWiHvOhEvpM
+https://www.youtube.com/watch?v=AX382uO1IBo
+https://www.youtube.com/watch?v=AXSGCj-ET18
+https://www.youtube.com/watch?v=AZ5zIrj-OaM
+https://www.youtube.com/watch?v=A_hcMPfXPTo
+https://www.youtube.com/watch?v=AbAmopHdpNk
+https://www.youtube.com/watch?v=AerptEF65n4
+https://www.youtube.com/watch?v=Akseh6p_mdA
+https://www.youtube.com/watch?v=Al6sGNQiMy8
+https://www.youtube.com/watch?v=AmSMxL5GLQ4
+https://www.youtube.com/watch?v=AmkF7Qm8cD4
+https://www.youtube.com/watch?v=AoDn3NLMQbI
+https://www.youtube.com/watch?v=Ap1xwnEFOuc
+https://www.youtube.com/watch?v=Aqub61MAX8k
+https://www.youtube.com/watch?v=AscJbbO1R0A
+https://www.youtube.com/watch?v=AtdZ-K6gkzg
+https://www.youtube.com/watch?v=AyFCZJKawHs
+https://www.youtube.com/watch?v=Ay_elZPGt5w
+https://www.youtube.com/watch?v=B0Xg2mZy6E4
+https://www.youtube.com/watch?v=B0q1U7f_eCw
+https://www.youtube.com/watch?v=B21TzYRRre4
+https://www.youtube.com/watch?v=B2Obj_N1150
+https://www.youtube.com/watch?v=B31LgI4Y4DQ
+https://www.youtube.com/watch?v=B4O6IJ5ilxk
+https://www.youtube.com/watch?v=B5-o6VFnJmk
+https://www.youtube.com/watch?v=B7-3MwMdzyM
+https://www.youtube.com/watch?v=B97aOIKAF0w
+https://www.youtube.com/watch?v=B9Q-PlGYLyw
+https://www.youtube.com/watch?v=B9twq0Q7vFU
+https://www.youtube.com/watch?v=BBERD8JZc0w
+https://www.youtube.com/watch?v=BBcRyLOxF10
+https://www.youtube.com/watch?v=BCVsg3BHH10
+https://www.youtube.com/watch?v=BDIN67KPY8w
+https://www.youtube.com/watch?v=BDkeiYiaU90
+https://www.youtube.com/watch?v=BG9aWnVYYLc
+https://www.youtube.com/watch?v=BGSMfgcC6tI
+https://www.youtube.com/watch?v=BKQJmWjT_Go
+https://www.youtube.com/watch?v=BNwx-kaIQ2k
+https://www.youtube.com/watch?v=BPD3TKvbOVc
+https://www.youtube.com/watch?v=BP_VajTj3UE
+https://www.youtube.com/watch?v=BPcUJcPMqMY
+https://www.youtube.com/watch?v=BPg6ker5Oos
+https://www.youtube.com/watch?v=BQs9MavmJ3s
+https://www.youtube.com/watch?v=BSVzpotNRzw
+https://www.youtube.com/watch?v=BS_rCIFnY4U
+https://www.youtube.com/watch?v=BXQhkqU-008
+https://www.youtube.com/watch?v=BaFM4oVJ3iQ
+https://www.youtube.com/watch?v=BakAGmYoPvc
+https://www.youtube.com/watch?v=Bbba3VWtBw8
+https://www.youtube.com/watch?v=BiE2Tou7p_4
+https://www.youtube.com/watch?v=Bmou5u2p14E
+https://www.youtube.com/watch?v=Bo-7qIVmmZI
+https://www.youtube.com/watch?v=Bqe4d_ny3LM
+https://www.youtube.com/watch?v=BrbXZiAAGlI
+https://www.youtube.com/watch?v=BwcXj-Nrbrc
+https://www.youtube.com/watch?v=BwgHtp3w8vI
+https://www.youtube.com/watch?v=BxLRGGNJK9A
+https://www.youtube.com/watch?v=C09ZWCydQ0o
+https://www.youtube.com/watch?v=C2y6Zd-JN8E
+https://www.youtube.com/watch?v=C6CkVg-aMvE
+https://www.youtube.com/watch?v=C9T0os8DCps
+https://www.youtube.com/watch?v=CAF4OzJkTbY
+https://www.youtube.com/watch?v=CCyOc1vdRxM
+https://www.youtube.com/watch?v=CGlWJDJ1u7Y
+https://www.youtube.com/watch?v=CIzuV2wGMWk
+https://www.youtube.com/watch?v=CKlNYAa0yFE
+https://www.youtube.com/watch?v=CPf4BBkarEY
+https://www.youtube.com/watch?v=CUwpi3-TTw4
+https://www.youtube.com/watch?v=CViVPL_bt-I
+https://www.youtube.com/watch?v=CW-NyaaQD7s
+https://www.youtube.com/watch?v=CWp_k5CBMjc
+https://www.youtube.com/watch?v=C_5SGGipnBw
+https://www.youtube.com/watch?v=CcRjmTvd9aw
+https://www.youtube.com/watch?v=Cd_JiZCdR7U
+https://www.youtube.com/watch?v=Ch0B3JMuUh8
+https://www.youtube.com/watch?v=CiKuRzy1s04
+https://www.youtube.com/watch?v=Cjlr3JY-Qyw
+https://www.youtube.com/watch?v=ClCY6nnK1mM
+https://www.youtube.com/watch?v=Cm1xfWtqzP0
+https://www.youtube.com/watch?v=Cm6rnReNeyM
+https://www.youtube.com/watch?v=Cq8r6x3lyQI
+https://www.youtube.com/watch?v=CtGuyw54BX0
+https://www.youtube.com/watch?v=CvKcplmUA50
+https://www.youtube.com/watch?v=CxRJFAYWUsU
+https://www.youtube.com/watch?v=Cypaa6uH63Q
+https://www.youtube.com/watch?v=D-tK1o9qzQA
+https://www.youtube.com/watch?v=D1jGZ3G2CZA
+https://www.youtube.com/watch?v=D3Uy8FDythc
+https://www.youtube.com/watch?v=D3dPoo_LdDo
+https://www.youtube.com/watch?v=D5RBDmj3ois
+https://www.youtube.com/watch?v=D5wFo5gM7cQ
+https://www.youtube.com/watch?v=D99w4pAwJOo
+https://www.youtube.com/watch?v=D9TcyEL8IDI
+https://www.youtube.com/watch?v=D9em9pyalyQ
+https://www.youtube.com/watch?v=DAX1VysKMqM
+https://www.youtube.com/watch?v=DB2vFNLh0C4
+https://www.youtube.com/watch?v=DE19OH2GOZE
+https://www.youtube.com/watch?v=DGJlekAOoQ4
+https://www.youtube.com/watch?v=DGjkMqvhhfA
+https://www.youtube.com/watch?v=DJTgtDAnOKw
+https://www.youtube.com/watch?v=DLCawad4aEg
+https://www.youtube.com/watch?v=DQ2v8-pxP_0
+https://www.youtube.com/watch?v=DS3Kh-RGxYU
+https://www.youtube.com/watch?v=DUcQv7ah2M8
+https://www.youtube.com/watch?v=DVmyJX7RdaA
+https://www.youtube.com/watch?v=DWrQc0kV9OY
+https://www.youtube.com/watch?v=DZ6eDpKabQA
+https://www.youtube.com/watch?v=DZGFuqs5VGU
+https://www.youtube.com/watch?v=D_wc5lVK9ts
+https://www.youtube.com/watch?v=Da6dU-Jp9ag
+https://www.youtube.com/watch?v=DamJ3BoAMsI
+https://www.youtube.com/watch?v=DbfYcGFzfMQ
+https://www.youtube.com/watch?v=DdRqwdUZe0s
+https://www.youtube.com/watch?v=DgjKcVPOjfI
+https://www.youtube.com/watch?v=DinqOYWzqvg
+https://www.youtube.com/watch?v=DjUxOBeVu3g
+https://www.youtube.com/watch?v=DjaM5vGVwPA
+https://www.youtube.com/watch?v=DkMQF-Qrvbw
+https://www.youtube.com/watch?v=DlVuR7tk2bA
+https://www.youtube.com/watch?v=DlliyYn5COU
+https://www.youtube.com/watch?v=Do4Bl_DIXzk
+https://www.youtube.com/watch?v=Dp_0_3d316g
+https://www.youtube.com/watch?v=DuJMc-aezMk
+https://www.youtube.com/watch?v=DvDBfONnYek
+https://www.youtube.com/watch?v=DvStykPb_dQ
+https://www.youtube.com/watch?v=DxAn1imiapY
+https://www.youtube.com/watch?v=E2AE2teX988
+https://www.youtube.com/watch?v=E5kvaU0WGd8
+https://www.youtube.com/watch?v=E6WUKQcmY5Y
+https://www.youtube.com/watch?v=E7plugiURIo
+https://www.youtube.com/watch?v=E9BaF_6klVM
+https://www.youtube.com/watch?v=E9PTur1G_Q8
+https://www.youtube.com/watch?v=EGzITlC7Ouw
+https://www.youtube.com/watch?v=EH2Q2rD74PU
+https://www.youtube.com/watch?v=EHPHYw4LCfI
+https://www.youtube.com/watch?v=ERzEjC0cNhg
+https://www.youtube.com/watch?v=ETldY7jG8YY
+https://www.youtube.com/watch?v=EVHw36tmpHs
+https://www.youtube.com/watch?v=EXaSbZEbArI&list=RDEXaSbZEbArI&start_radio=1
+https://www.youtube.com/watch?v=EaJ6Wx7iaSw
+https://www.youtube.com/watch?v=Eb4L80h23Vo
+https://www.youtube.com/watch?v=Eeo3EbtP4vE
+https://www.youtube.com/watch?v=Eh7Ysa-1Lmg
+https://www.youtube.com/watch?v=EhU6T2NSYTU
+https://www.youtube.com/watch?v=EloHVIzWEXI
+https://www.youtube.com/watch?v=EpaTdSesJFE
+https://www.youtube.com/watch?v=ErZH4tK-aEA
+https://www.youtube.com/watch?v=Eu0olRzZaig
+https://www.youtube.com/watch?v=EwLBKQLscJ0
+https://www.youtube.com/watch?v=EwXco8GWiVo
+https://www.youtube.com/watch?v=EzQ-p41wNEE
+https://www.youtube.com/watch?v=Ezv-cH_t7bc
+https://www.youtube.com/watch?v=F0EcLP_I7LI
+https://www.youtube.com/watch?v=F0YbBckJTI8
+https://www.youtube.com/watch?v=F4HJVicsSlw
+https://www.youtube.com/watch?v=F7wWY4V22Gk
+https://www.youtube.com/watch?v=FASoIDzAtSY
+https://www.youtube.com/watch?v=FHL2MUxeEao
+https://www.youtube.com/watch?v=FHxBCMI_y6s
+https://www.youtube.com/watch?v=FIXDAr9qJPE
+https://www.youtube.com/watch?v=FLRL0UaQ0xQ
+https://www.youtube.com/watch?v=FLcZpmLn0RQ
+https://www.youtube.com/watch?v=FNQ8TorUW_s
+https://www.youtube.com/watch?v=FR1Luc-WfYg
+https://www.youtube.com/watch?v=FS0tQ02Z9yc
+https://www.youtube.com/watch?v=FUJR2WDhaqI
+https://www.youtube.com/watch?v=FW36CqdL8E4
+https://www.youtube.com/watch?v=FXHv9nc74GE
+https://www.youtube.com/watch?v=FYFpU17ez-g
+https://www.youtube.com/watch?v=FYXrb1D1xvQ
+https://www.youtube.com/watch?v=F_dPCg-CQP8
+https://www.youtube.com/watch?v=F_wx5z4MyIs
+https://www.youtube.com/watch?v=FbhaOth6jQ0
+https://www.youtube.com/watch?v=Fccz1Ai5fjw
+https://www.youtube.com/watch?v=FeW6_9SYL0s
+https://www.youtube.com/watch?v=FfEWf7T0b1g
+https://www.youtube.com/watch?v=FgWV6IBHlNs
+https://www.youtube.com/watch?v=Fh_UDQnboRw
+https://www.youtube.com/watch?v=FiNymReVZmA
+https://www.youtube.com/watch?v=Fl3z88morSg
+https://www.youtube.com/watch?v=Fl4kh4A-Cmw
+https://www.youtube.com/watch?v=FsJMuceCCeY
+https://www.youtube.com/watch?v=FsnsTIKwgfs
+https://www.youtube.com/watch?v=Ft1sxD9Lkz0
+https://www.youtube.com/watch?v=FxD2r8ALNV8
+https://www.youtube.com/watch?v=G--zlPXMnXo
+https://www.youtube.com/watch?v=G1h7QVhM2cg
+https://www.youtube.com/watch?v=G1sJPjG2DzY
+https://www.youtube.com/watch?v=G24LJ-kzhIA
+https://www.youtube.com/watch?v=GAmbofNHsUE
+https://www.youtube.com/watch?v=GDITEuqNl5I
+https://www.youtube.com/watch?v=GGitkpdvjj4
+https://www.youtube.com/watch?v=GHHqH55c1sQ
+https://www.youtube.com/watch?v=GIsEdN4r_Fg
+https://www.youtube.com/watch?v=GUKo9ridReY
+https://www.youtube.com/watch?v=GUPUULT_9HI
+https://www.youtube.com/watch?v=GXlckaGr0Eo
+https://www.youtube.com/watch?v=G_zOWfTH_X0
+https://www.youtube.com/watch?v=GaXwlYk6ad0
+https://www.youtube.com/watch?v=GcAtk8CPNhk
+https://www.youtube.com/watch?v=GchkoPCEtOI
+https://www.youtube.com/watch?v=GdI3RLJtues
+https://www.youtube.com/watch?v=GeKRi2LnZZw
+https://www.youtube.com/watch?v=GeU-wjkhGbg
+https://www.youtube.com/watch?v=Ghu4KtPV6TU
+https://www.youtube.com/watch?v=GmEeHU5bbyA
+https://www.youtube.com/watch?v=Gos85xoO5o8
+https://www.youtube.com/watch?v=GoyV5fLhBJY
+https://www.youtube.com/watch?v=Gqb3UiO04rA
+https://www.youtube.com/watch?v=Grn3myBh84k
+https://www.youtube.com/watch?v=GsvkIt-bcZc
+https://www.youtube.com/watch?v=GydZtD0Rwa0
+https://www.youtube.com/watch?v=H-QqL-K4h-U
+https://www.youtube.com/watch?v=H0RNgUiUr6I
+https://www.youtube.com/watch?v=H0mEDbgQlQk
+https://www.youtube.com/watch?v=H4FpRjrDQ8U
+https://www.youtube.com/watch?v=H5l5VurKZKE
+https://www.youtube.com/watch?v=H9oICTXcLXs
+https://www.youtube.com/watch?v=HBZ5yzIv-4A
+https://www.youtube.com/watch?v=HBsp06btMwY
+https://www.youtube.com/watch?v=HCCVH6KJngs
+https://www.youtube.com/watch?v=HDoX41qenyc
+https://www.youtube.com/watch?v=HFbs03sgch0
+https://www.youtube.com/watch?v=HGuyX65AIRM
+https://www.youtube.com/watch?v=HHFJJ-cyQaI
+https://www.youtube.com/watch?v=HL88MqGi4g4
+https://www.youtube.com/watch?v=HLZ24Snp060
+https://www.youtube.com/watch?v=HRhSGtDcr8s
+https://www.youtube.com/watch?v=HXW2sXr1upk
+https://www.youtube.com/watch?v=HZKb3Z0_GBk
+https://www.youtube.com/watch?v=HZyUu4Tbyu0
+https://www.youtube.com/watch?v=H_mg9K-2Sxk
+https://www.youtube.com/watch?v=Hd0j7Z5cKn0
+https://www.youtube.com/watch?v=HdBmWy6C2MM
+https://www.youtube.com/watch?v=HfdTdbrp4m0
+https://www.youtube.com/watch?v=Hg7hi47MiTg
+https://www.youtube.com/watch?v=Hh3NtMCR0O4
+https://www.youtube.com/watch?v=HjkFb-GG4UQ
+https://www.youtube.com/watch?v=HvbnJh6rtls
+https://www.youtube.com/watch?v=Hvs2AckQ4l8
+https://www.youtube.com/watch?v=HwWmxlAQipU
+https://www.youtube.com/watch?v=HyCNjuqy7c8
+https://www.youtube.com/watch?v=I-1thYb2PRE
+https://www.youtube.com/watch?v=I-7MC_U112E
+https://www.youtube.com/watch?v=I-xYsegk-c0
+https://www.youtube.com/watch?v=I1M7VZ4oxPQ
+https://www.youtube.com/watch?v=I2a4oKjt3IA
+https://www.youtube.com/watch?v=I5UjSoGxwNA
+https://www.youtube.com/watch?v=I9YBuOyI8G8
+https://www.youtube.com/watch?v=IA2tp4kNo18
+https://www.youtube.com/watch?v=IDdhrSR_xx4
+https://www.youtube.com/watch?v=IEnnkJGd-7k
+https://www.youtube.com/watch?v=IFXWnaqyLkY
+https://www.youtube.com/watch?v=IIxyhAGXz9o
+https://www.youtube.com/watch?v=IJet9oY3-Ck
+https://www.youtube.com/watch?v=IKAcLgJRUx0
+https://www.youtube.com/watch?v=ILpLhAKw5QU
+https://www.youtube.com/watch?v=IM5wBrEJH9A
+https://www.youtube.com/watch?v=IMccv8xbguE
+https://www.youtube.com/watch?v=IP9DBNpoKyY
+https://www.youtube.com/watch?v=IRHrPviGR8Q
+https://www.youtube.com/watch?v=IRoHYsT-7ps
+https://www.youtube.com/watch?v=IW2kNoHPTIM
+https://www.youtube.com/watch?v=IY1Mb76z3RA
+https://www.youtube.com/watch?v=IaL5evhAUD0
+https://www.youtube.com/watch?v=Icgbd8HyZMI
+https://www.youtube.com/watch?v=IhXxNoiAtUk
+https://www.youtube.com/watch?v=Ihkw5B70xO0
+https://www.youtube.com/watch?v=IipC-3bq8cg
+https://www.youtube.com/watch?v=IoRJTP3MII4
+https://www.youtube.com/watch?v=Iomp-qxqFk0
+https://www.youtube.com/watch?v=IrJF4Vbs8mo
+https://www.youtube.com/watch?v=IxJ81DjmenA
+https://www.youtube.com/watch?v=IyAIFrTGvi4
+https://www.youtube.com/watch?v=IzxAD_M-uPk
+https://www.youtube.com/watch?v=J-9g0KXHkmQ
+https://www.youtube.com/watch?v=J3eDz6nozfA
+https://www.youtube.com/watch?v=J5o23mJAbpc
+https://www.youtube.com/watch?v=J64uhbL_WX0
+https://www.youtube.com/watch?v=J73Iq98z8Kc
+https://www.youtube.com/watch?v=J91IBvQg_-U
+https://www.youtube.com/watch?v=J9JBqF7v4yA
+https://www.youtube.com/watch?v=JC4IKhPP7E8
+https://www.youtube.com/watch?v=JECQf1DUrd8
+https://www.youtube.com/watch?v=JEYWzNLE_Ps
+https://www.youtube.com/watch?v=JExMHFkIIPI
+https://www.youtube.com/watch?v=JGOqrG_zVf0
+https://www.youtube.com/watch?v=JGTybV2uJXw
+https://www.youtube.com/watch?v=JHNWIrT6pOo
+https://www.youtube.com/watch?v=JK0beJkGpX8
+https://www.youtube.com/watch?v=JLZc-ztGI0Y
+https://www.youtube.com/watch?v=JNG59MNcw8k
+https://www.youtube.com/watch?v=JO0VZoGRHXg
+https://www.youtube.com/watch?v=JRY_2RqB9qI
+https://www.youtube.com/watch?v=JTzs_7xlHx4
+https://www.youtube.com/watch?v=JW_nFmMZeA4
+https://www.youtube.com/watch?v=JWvRll5HFBk
+https://www.youtube.com/watch?v=JXM7GMdWMJ8
+https://www.youtube.com/watch?v=JZAbG1r9F4Y
+https://www.youtube.com/watch?v=JZZSTurE-v4
+https://www.youtube.com/watch?v=J_0UPsEU_P8
+https://www.youtube.com/watch?v=J__UqgbXZqg
+https://www.youtube.com/watch?v=J_baTucZCSs
+https://www.youtube.com/watch?v=Ja0uaYfPtn0
+https://www.youtube.com/watch?v=JcYok32y7jQ
+https://www.youtube.com/watch?v=JcfpJ-ZBmF8
+https://www.youtube.com/watch?v=Je9ejI5hGqo
+https://www.youtube.com/watch?v=JhrE0FvNyc8
+https://www.youtube.com/watch?v=Jj7-oTUyHtY
+https://www.youtube.com/watch?v=JuT6jXhg0SI
+https://www.youtube.com/watch?v=JuffN3CKrAs
+https://www.youtube.com/watch?v=JvKf1Grxcfg
+https://www.youtube.com/watch?v=Jx652mLzxJM
+https://www.youtube.com/watch?v=Jy1DTtc5juQ
+https://www.youtube.com/watch?v=Jz3eBAyrmaA
+https://www.youtube.com/watch?v=JzOtLeKAHMs
+https://www.youtube.com/watch?v=K3L8J0DbuT8
+https://www.youtube.com/watch?v=K3wp8YgeQ5M
+https://www.youtube.com/watch?v=K4Dg6uOphq8
+https://www.youtube.com/watch?v=K5vsMb1WywY
+https://www.youtube.com/watch?v=K71NvlAptFM
+https://www.youtube.com/watch?v=K7lEWAm5Xqk
+https://www.youtube.com/watch?v=K887OUQQGAM
+https://www.youtube.com/watch?v=K8QOpCVwpFY
+https://www.youtube.com/watch?v=K8kXiYM09u4
+https://www.youtube.com/watch?v=K9AFYhpMFrU
+https://www.youtube.com/watch?v=KA9HY0Wr0Ng
+https://www.youtube.com/watch?v=KAF3u3m6OC0
+https://www.youtube.com/watch?v=KC89SUSL-ko
+https://www.youtube.com/watch?v=KFnh-rK7ORU
+https://www.youtube.com/watch?v=KGL0LVjfBEU
+https://www.youtube.com/watch?v=KGoFhPYgOX4
+https://www.youtube.com/watch?v=KJZqu6Xu4uo
+https://www.youtube.com/watch?v=KNY-2Vnmo2A
+https://www.youtube.com/watch?v=KR0X1BlLr1g
+https://www.youtube.com/watch?v=KRrtwNYHsZQ
+https://www.youtube.com/watch?v=KSPebSr9kIw
+https://www.youtube.com/watch?v=KZLg2SIviWE
+https://www.youtube.com/watch?v=KZdYTdcpogg
+https://www.youtube.com/watch?v=KaCAD7LL_UY
+https://www.youtube.com/watch?v=KavXSXuR-tM
+https://www.youtube.com/watch?v=KcNDdEiDgsE
+https://www.youtube.com/watch?v=Kf-ecPjD2w0
+https://www.youtube.com/watch?v=Kg-1nCcPJYk
+https://www.youtube.com/watch?v=KmsF9puxLDA
+https://www.youtube.com/watch?v=KuEuRKI08-E
+https://www.youtube.com/watch?v=KuiWwasUfh0&list=RDKuiWwasUfh0&start_radio=1
+https://www.youtube.com/watch?v=KuoC68qKyVM
+https://www.youtube.com/watch?v=KwkPs6wnw3o
+https://www.youtube.com/watch?v=KxBfNGADvGM
+https://www.youtube.com/watch?v=L0zTBXGw4oM
+https://www.youtube.com/watch?v=L14tLy9ESoE
+https://www.youtube.com/watch?v=L4tmO7A3AFk
+https://www.youtube.com/watch?v=L57XS30Y0aU
+https://www.youtube.com/watch?v=L69K4c6v2_w
+https://www.youtube.com/watch?v=L7Nil8iBBzI
+https://www.youtube.com/watch?v=L8fxew7K-RQ
+https://www.youtube.com/watch?v=L960-wN2K38
+https://www.youtube.com/watch?v=LA7A07cU4d4
+https://www.youtube.com/watch?v=LA7fW87KV4k
+https://www.youtube.com/watch?v=LAoatLQFX2U
+https://www.youtube.com/watch?v=LGUhbXPVETA
+https://www.youtube.com/watch?v=LHprQpKqUQo
+https://www.youtube.com/watch?v=LJZ-snWxlB8
+https://www.youtube.com/watch?v=LKWPync0ZcQ
+https://www.youtube.com/watch?v=LMtOMcKpkB0
+https://www.youtube.com/watch?v=LUg_RXWDOLE
+https://www.youtube.com/watch?v=LWgoAkGyCIo
+https://www.youtube.com/watch?v=Lbb_UHql9ho
+https://www.youtube.com/watch?v=LcvomhlY8p8
+https://www.youtube.com/watch?v=Le2-9gwPips
+https://www.youtube.com/watch?v=LgFp0abtnQI
+https://www.youtube.com/watch?v=LhXBn7B__OY
+https://www.youtube.com/watch?v=LhdejX7G1_o
+https://www.youtube.com/watch?v=LiO7HT9bMiE
+https://www.youtube.com/watch?v=Lnr4czj4NjM
+https://www.youtube.com/watch?v=LodtZ1AhZsE
+https://www.youtube.com/watch?v=Lov_UMduYG0
+https://www.youtube.com/watch?v=LpcSV2vEj50
+https://www.youtube.com/watch?v=LvxxQJ_tWoA
+https://www.youtube.com/watch?v=LyyFwMsxf3E
+https://www.youtube.com/watch?v=M07KcRjNYVg
+https://www.youtube.com/watch?v=M0QN7Ic_NYU
+https://www.youtube.com/watch?v=M4uWDKt2MTA
+https://www.youtube.com/watch?v=M74VwQAsuec
+https://www.youtube.com/watch?v=M8deU2VQ4t0
+https://www.youtube.com/watch?v=M8oDpIzoD3c
+https://www.youtube.com/watch?v=MC1RPFq9RFE
+https://www.youtube.com/watch?v=MCItZnDJiRE
+https://www.youtube.com/watch?v=MFTbTQ4jGR8
+https://www.youtube.com/watch?v=MIMaHxP5oFY
+https://www.youtube.com/watch?v=MIUAzzP3JmA
+https://www.youtube.com/watch?v=MIqIk6t5ITw
+https://www.youtube.com/watch?v=MMKOu8516gg
+https://www.youtube.com/watch?v=MMPoXU9yoew
+https://www.youtube.com/watch?v=MMrECJS94T8
+https://www.youtube.com/watch?v=MY0gQ1z6OIM
+https://www.youtube.com/watch?v=MYD9sS1nZnQ
+https://www.youtube.com/watch?v=MZN_hHZ95oM
+https://www.youtube.com/watch?v=M_GP86k4VtM
+https://www.youtube.com/watch?v=MbN8dRQfqd4
+https://www.youtube.com/watch?v=McKKvnNJ83E
+https://www.youtube.com/watch?v=MiJnEHL9Axw
+https://www.youtube.com/watch?v=MiRSW4K5k40
+https://www.youtube.com/watch?v=Mobzm-hpPIw
+https://www.youtube.com/watch?v=MpqUpSaD-x0
+https://www.youtube.com/watch?v=MqcdzcIbmaQ
+https://www.youtube.com/watch?v=MrT9MNjYpQc
+https://www.youtube.com/watch?v=Mt0GVmT47fI
+https://www.youtube.com/watch?v=Mv60MHerSoE
+https://www.youtube.com/watch?v=Mxx7Oo5S8hs
+https://www.youtube.com/watch?v=MyDwhlpTGf4
+https://www.youtube.com/watch?v=MyL0eQBChGI
+https://www.youtube.com/watch?v=MyYOoz6WgxQ
+https://www.youtube.com/watch?v=N0Kd--Ytbc4
+https://www.youtube.com/watch?v=N95maO3E4ls
+https://www.youtube.com/watch?v=N9sLOsxHPW0
+https://www.youtube.com/watch?v=NB2Jf7JCEqM
+https://www.youtube.com/watch?v=NCxkpTMO7Wk
+https://www.youtube.com/watch?v=NEZUzdqL8PQ
+https://www.youtube.com/watch?v=NG6G6B7uXBo
+https://www.youtube.com/watch?v=NJHax40jVAU
+https://www.youtube.com/watch?v=NKGTC5mokw0
+https://www.youtube.com/watch?v=NLANUqQSATU
+https://www.youtube.com/watch?v=NLm8wCflJ6c
+https://www.youtube.com/watch?v=NNWhJQYZt3Y
+https://www.youtube.com/watch?v=NOTrdCBGUPA
+https://www.youtube.com/watch?v=NOXPZduwhpc
+https://www.youtube.com/watch?v=NPAn928JDk8
+https://www.youtube.com/watch?v=NQSN8d6euQ8
+https://www.youtube.com/watch?v=NRw-2LLf6C0
+https://www.youtube.com/watch?v=NSyMx3G4Y8s
+https://www.youtube.com/watch?v=NTCTnqITdBM
+https://www.youtube.com/watch?v=NVZ1tTJlNRY
+https://www.youtube.com/watch?v=NVlQqD0umxc
+https://www.youtube.com/watch?v=NWw6dwU2his
+https://www.youtube.com/watch?v=NZPluMqjBpM
+https://www.youtube.com/watch?v=NZ_3tZ-BvY8
+https://www.youtube.com/watch?v=N_cSKYLjHF0
+https://www.youtube.com/watch?v=N_w5fhfQzfI
+https://www.youtube.com/watch?v=NbPqLBoizpI
+https://www.youtube.com/watch?v=Ncqipr-iKhU
+https://www.youtube.com/watch?v=NcsPrgdCwJY
+https://www.youtube.com/watch?v=Nen-P_sFhe4
+https://www.youtube.com/watch?v=NiCFMuaVMiI
+https://www.youtube.com/watch?v=NiPNjsWf5JY
+https://www.youtube.com/watch?v=NkshmgXBC8w
+https://www.youtube.com/watch?v=NsbEo0kTJgo
+https://www.youtube.com/watch?v=Nt_Ahv8SQbY
+https://www.youtube.com/watch?v=Nv2wMt3kTmM
+https://www.youtube.com/watch?v=NwTRm29oCN4
+https://www.youtube.com/watch?v=O03mDWq6wgM
+https://www.youtube.com/watch?v=O0fnx2hQKl4
+https://www.youtube.com/watch?v=O2NsP67l8O0
+https://www.youtube.com/watch?v=O3ViSMWNcBY
+https://www.youtube.com/watch?v=O9Xdl0Gom4M
+https://www.youtube.com/watch?v=OAWXGAWDONc
+https://www.youtube.com/watch?v=OAfwl98FVwY
+https://www.youtube.com/watch?v=OBDck9m8htM
+https://www.youtube.com/watch?v=OCac9ux_ViM
+https://www.youtube.com/watch?v=OCeymz51mDk
+https://www.youtube.com/watch?v=OKqiW6DSPY8
+https://www.youtube.com/watch?v=OSWpan8kozQ
+https://www.youtube.com/watch?v=OU5SatweTX4
+https://www.youtube.com/watch?v=OUgmh1fUqqU
+https://www.youtube.com/watch?v=OYuLfTUTb2s
+https://www.youtube.com/watch?v=OZuFHAMzMmw
+https://www.youtube.com/watch?v=OZw89_wnfbg
+https://www.youtube.com/watch?v=OcSxNAtmSzs
+https://www.youtube.com/watch?v=OdHh0mx03ok
+https://www.youtube.com/watch?v=Oe6Qa083dLQ
+https://www.youtube.com/watch?v=OkAGC6oxyRE
+https://www.youtube.com/watch?v=OkJWOXmcr0c
+https://www.youtube.com/watch?v=Oky19XMhpvQ
+https://www.youtube.com/watch?v=OlnMQDtc3Ss
+https://www.youtube.com/watch?v=OoI9FVrxs30
+https://www.youtube.com/watch?v=OoJWrDBrfcM
+https://www.youtube.com/watch?v=OqF_aDX4Zhk
+https://www.youtube.com/watch?v=Os6ZUpd7TTM
+https://www.youtube.com/watch?v=Osvp9KIi7e4
+https://www.youtube.com/watch?v=OtCkElHE3Mw
+https://www.youtube.com/watch?v=Oty-dlcp2W4
+https://www.youtube.com/watch?v=OuSiuySr6_Q
+https://www.youtube.com/watch?v=OukOTOofp2I
+https://www.youtube.com/watch?v=OyV2tZCGj6I
+https://www.youtube.com/watch?v=Ozqexi8seAM
+https://www.youtube.com/watch?v=P2ey1zfxVD0
+https://www.youtube.com/watch?v=P4q094yp_D8
+https://www.youtube.com/watch?v=P5nm194dnQI
+https://www.youtube.com/watch?v=P7fTWZ6JcvE
+https://www.youtube.com/watch?v=P7jlwQ-GSCc
+https://www.youtube.com/watch?v=PBhvbXqNPf4
+https://www.youtube.com/watch?v=PDvsLWjdbJk
+https://www.youtube.com/watch?v=PEbeHZHKJ3g
+https://www.youtube.com/watch?v=PF5T0BBTHyE
+https://www.youtube.com/watch?v=PHJf8GPJ2wk
+https://www.youtube.com/watch?v=PJllfMzKaE0
+https://www.youtube.com/watch?v=PL-V58-SNuY
+https://www.youtube.com/watch?v=POVS7s77AsA
+https://www.youtube.com/watch?v=PQ53eTAl518
+https://www.youtube.com/watch?v=PQXIqVzP2Zc
+https://www.youtube.com/watch?v=PTbPegmCSO4
+https://www.youtube.com/watch?v=PVsxa2bDw8E
+https://www.youtube.com/watch?v=PXI55WoSxNY
+https://www.youtube.com/watch?v=PXIcas22MtQ
+https://www.youtube.com/watch?v=PardKRuryHs
+https://www.youtube.com/watch?v=PbsGUky7Miw
+https://www.youtube.com/watch?v=Pc44VKLC0-o
+https://www.youtube.com/watch?v=PdPce93vBJg
+https://www.youtube.com/watch?v=PeEpGTzaFhg
+https://www.youtube.com/watch?v=PfJFDjDNljE
+https://www.youtube.com/watch?v=PhSf6SgFhz8
+https://www.youtube.com/watch?v=PhtrOCsPjNQ
+https://www.youtube.com/watch?v=PjExca9N9FA
+https://www.youtube.com/watch?v=PmAYOzbZJE0
+https://www.youtube.com/watch?v=PmWGzMzgG5c
+https://www.youtube.com/watch?v=PrJprbykqXo
+https://www.youtube.com/watch?v=Pu8_JOAZ7i4
+https://www.youtube.com/watch?v=PwNzkCKJSBE
+https://www.youtube.com/watch?v=Px2FT4jsjNE
+https://www.youtube.com/watch?v=Pyw0WkEAAgo
+https://www.youtube.com/watch?v=PzwsD94uHfo
+https://www.youtube.com/watch?v=Q07PRsO2Fr0
+https://www.youtube.com/watch?v=Q15rMwqNNnE
+https://www.youtube.com/watch?v=Q1WbSJjNxEw
+https://www.youtube.com/watch?v=Q2A45XW4VrQ
+https://www.youtube.com/watch?v=Q8i7i4iEh34
+https://www.youtube.com/watch?v=QAx0T6V5lh8&list=RDQAx0T6V5lh8&start_radio=1
+https://www.youtube.com/watch?v=QCSVIaf37Gc
+https://www.youtube.com/watch?v=QEW8GNIrni0
+https://www.youtube.com/watch?v=QHT2vhp_nlw
+https://www.youtube.com/watch?v=QHiFy5ZiDVg
+https://www.youtube.com/watch?v=QJHf5Yg1VQM
+https://www.youtube.com/watch?v=QMeGlDFzKqA
+https://www.youtube.com/watch?v=QN7K_WGHSRI
+https://www.youtube.com/watch?v=QOZU9HHwJlA
+https://www.youtube.com/watch?v=QPf0B9Sjv-E
+https://www.youtube.com/watch?v=QSlBF7pMTlg
+https://www.youtube.com/watch?v=QT5WYS7oFGs
+https://www.youtube.com/watch?v=QUbhfESsumI
+https://www.youtube.com/watch?v=QWLyIBkBrl0
+https://www.youtube.com/watch?v=QYVGczdflyY
+https://www.youtube.com/watch?v=Qc01RYGw6b8
+https://www.youtube.com/watch?v=QcYtKXSpgEA
+https://www.youtube.com/watch?v=QgriTb3l-JI
+https://www.youtube.com/watch?v=Qhl9fdZ3j5Y
+https://www.youtube.com/watch?v=QiZDBZ6FGE0
+https://www.youtube.com/watch?v=Qj6Y0ax2rys
+https://www.youtube.com/watch?v=Qjp-7RZZCGo
+https://www.youtube.com/watch?v=QnNdIU3EvEQ
+https://www.youtube.com/watch?v=QoF8VZvfP00
+https://www.youtube.com/watch?v=QoJt2fxG6vE
+https://www.youtube.com/watch?v=QqewIOF3JIY
+https://www.youtube.com/watch?v=Qqw2rjXDRNY
+https://www.youtube.com/watch?v=QrwCEwYSJyQ
+https://www.youtube.com/watch?v=QtdvR0i9RYA
+https://www.youtube.com/watch?v=QwtnfxVyf5U
+https://www.youtube.com/watch?v=R-hg96jOXVM
+https://www.youtube.com/watch?v=R1Rrgjzhp1I
+https://www.youtube.com/watch?v=R2cQxAVb9FU
+https://www.youtube.com/watch?v=R4wi_oRBGwk
+https://www.youtube.com/watch?v=R63CHCjr2P8
+https://www.youtube.com/watch?v=R6dGK14omEU
+https://www.youtube.com/watch?v=R6eANPEuDQA
+https://www.youtube.com/watch?v=R8S98RL9QtE
+https://www.youtube.com/watch?v=R9UcaZfHvPA
+https://www.youtube.com/watch?v=RArjohZ1yko
+https://www.youtube.com/watch?v=RBsRww0s78M
+https://www.youtube.com/watch?v=RDj_GhtNG4I
+https://www.youtube.com/watch?v=RGDYKX7YrKg
+https://www.youtube.com/watch?v=RIaBVKpk_gI
+https://www.youtube.com/watch?v=RMDCNqNgrts
+https://www.youtube.com/watch?v=RU22qm-27vs
+https://www.youtube.com/watch?v=RVj2fmOGzo8
+https://www.youtube.com/watch?v=RY50rRsrwUs
+https://www.youtube.com/watch?v=RZdz-NfxR0M
+https://www.youtube.com/watch?v=RcuF3XeL4BY
+https://www.youtube.com/watch?v=ReQ8tbWYcko
+https://www.youtube.com/watch?v=RgOSxUd_QsU
+https://www.youtube.com/watch?v=Rh3hyYySBjE
+https://www.youtube.com/watch?v=RlluLmsqgAk
+https://www.youtube.com/watch?v=RmaCJyvSyUE
+https://www.youtube.com/watch?v=RnR7G6KIQ9k
+https://www.youtube.com/watch?v=RnmUs-AXANU
+https://www.youtube.com/watch?v=RnnDYbhmot0
+https://www.youtube.com/watch?v=RoZp92VLaAY
+https://www.youtube.com/watch?v=Rq1iRT2LL-8
+https://www.youtube.com/watch?v=RqEzM0w5JEI
+https://www.youtube.com/watch?v=RtoZfmkbRsg
+https://www.youtube.com/watch?v=Ru7nnPNG6Ls
+https://www.youtube.com/watch?v=RvDw7trA9D8
+https://www.youtube.com/watch?v=RvgdMAmiDKA
+https://www.youtube.com/watch?v=Rx9d9ybo3Ac
+https://www.youtube.com/watch?v=S0L9pSw8aQ0
+https://www.youtube.com/watch?v=S60XdnLbS7g
+https://www.youtube.com/watch?v=S6a9Ql24fOk
+https://www.youtube.com/watch?v=S6bqNbpbZE8
+https://www.youtube.com/watch?v=S9DdMsFCHo8
+https://www.youtube.com/watch?v=S9Nnv74IjYk
+https://www.youtube.com/watch?v=SEk7c3rfPmI
+https://www.youtube.com/watch?v=SGJHopwfvC4
+https://www.youtube.com/watch?v=SOSjbDrtoX8
+https://www.youtube.com/watch?v=SPc47ZWt6YY
+https://www.youtube.com/watch?v=SQSCxDCaMnU
+https://www.youtube.com/watch?v=SRyvD2Tvvcc
+https://www.youtube.com/watch?v=ST2RtXFp9kc
+https://www.youtube.com/watch?v=SUH4Qs3ouhw
+https://www.youtube.com/watch?v=SX0AMupRfEA
+https://www.youtube.com/watch?v=SYQ_eiDL-Sc
+https://www.youtube.com/watch?v=S_MMLWUb4hg
+https://www.youtube.com/watch?v=SaQ53O0NwxI
+https://www.youtube.com/watch?v=ScjtKg3g4pM
+https://www.youtube.com/watch?v=SgqLsVBF0E8
+https://www.youtube.com/watch?v=Slr2W2rcBQA
+https://www.youtube.com/watch?v=SmvhMkUO4E0
+https://www.youtube.com/watch?v=SxCQAgm-Ac4
+https://www.youtube.com/watch?v=T-aReFWIPT8
+https://www.youtube.com/watch?v=T0inpYzZJfE
+https://www.youtube.com/watch?v=T6zZbjwKEm0
+https://www.youtube.com/watch?v=T7OGxbFEf7o
+https://www.youtube.com/watch?v=T7t4AlkGJ7k
+https://www.youtube.com/watch?v=T8-OpKELVHA
+https://www.youtube.com/watch?v=T8CjlKKViEo
+https://www.youtube.com/watch?v=TAmD032Llyk
+https://www.youtube.com/watch?v=TFvRD3C4WWc
+https://www.youtube.com/watch?v=TGl5TcRNfX0
+https://www.youtube.com/watch?v=TJPOcGxLito
+https://www.youtube.com/watch?v=TN4Y36v2Z1w
+https://www.youtube.com/watch?v=TU-PzxHstaw
+https://www.youtube.com/watch?v=TUQvJtF_ajA
+https://www.youtube.com/watch?v=TV428QbFkDM
+https://www.youtube.com/watch?v=TV8C6XYvsDk
+https://www.youtube.com/watch?v=TWaZpB_M4Kw
+https://www.youtube.com/watch?v=TWdW_SNjqfs
+https://www.youtube.com/watch?v=TaozP--ZNUY
+https://www.youtube.com/watch?v=TbWzYIjKPqc
+https://www.youtube.com/watch?v=TefOvGStYkE
+https://www.youtube.com/watch?v=ThdOz-pbZnE
+https://www.youtube.com/watch?v=TjAgWy7Y7dU
+https://www.youtube.com/watch?v=TjKfoC4bzLs
+https://www.youtube.com/watch?v=TkSXWRlG7Vo
+https://www.youtube.com/watch?v=TkXwB6FsX6c
+https://www.youtube.com/watch?v=Tl8NrY7uX3c
+https://www.youtube.com/watch?v=TlJPDsLDR4I
+https://www.youtube.com/watch?v=TnSeu1aCaK0
+https://www.youtube.com/watch?v=TnkSYj1pETo
+https://www.youtube.com/watch?v=TqNbhmEk0H0
+https://www.youtube.com/watch?v=Tt2g-NsqYxw
+https://www.youtube.com/watch?v=Tudj2z5PF3o
+https://www.youtube.com/watch?v=TwK5n867IWw
+https://www.youtube.com/watch?v=Tyo34J1C6pU
+https://www.youtube.com/watch?v=U-dQhpR_xbc
+https://www.youtube.com/watch?v=U-omALWIBos
+https://www.youtube.com/watch?v=U0ZCFFlIGXM
+https://www.youtube.com/watch?v=U3gCcfejPjs
+https://www.youtube.com/watch?v=U6fy1qY00qg
+https://www.youtube.com/watch?v=U8RavKj2sHQ
+https://www.youtube.com/watch?v=UD8TTLEUTgk
+https://www.youtube.com/watch?v=UHLPbaKArxM
+https://www.youtube.com/watch?v=UHUm2Q1NOkw
+https://www.youtube.com/watch?v=UIlTTTdv7c0
+https://www.youtube.com/watch?v=UIrd7iLwSC0
+https://www.youtube.com/watch?v=UIy9u0XZH7g
+https://www.youtube.com/watch?v=UJ8fHOpCnSw
+https://www.youtube.com/watch?v=UKnZVpFH8XE
+https://www.youtube.com/watch?v=ULBUyGYYrwE
+https://www.youtube.com/watch?v=ULNTjxktbTA
+https://www.youtube.com/watch?v=UWAhjcfqBcc
+https://www.youtube.com/watch?v=UX6ZJyTBrow
+https://www.youtube.com/watch?v=UXwDxa5CaSU
+https://www.youtube.com/watch?v=UYL4nkOt8GI
+https://www.youtube.com/watch?v=UYrXsMWIePg
+https://www.youtube.com/watch?v=U_JdaZyxdPM
+https://www.youtube.com/watch?v=U_uJg4zagZ4
+https://www.youtube.com/watch?v=Ub-GJimelCQ
+https://www.youtube.com/watch?v=UdjbsWFSwOU
+https://www.youtube.com/watch?v=Uf96xQ13Bdw
+https://www.youtube.com/watch?v=UgPOPYrtKb4
+https://www.youtube.com/watch?v=UhZS1cm0HGk
+https://www.youtube.com/watch?v=Uo8LTN5Embw
+https://www.youtube.com/watch?v=UoeplPuhtN0
+https://www.youtube.com/watch?v=UpAYn715Nt4
+https://www.youtube.com/watch?v=UpC_BhLhG4I
+https://www.youtube.com/watch?v=UqKVL56IJB8&list=RDUqKVL56IJB8&start_radio=1
+https://www.youtube.com/watch?v=UszmtHxyAMs
+https://www.youtube.com/watch?v=UwOCA2u8CEo
+https://www.youtube.com/watch?v=UxMc3YO3vYI
+https://www.youtube.com/watch?v=UyrD3Q9Rlng
+https://www.youtube.com/watch?v=UzVR741YmqY
+https://www.youtube.com/watch?v=V7Pa6z9O_FQ
+https://www.youtube.com/watch?v=VAMhciXcDa0
+https://www.youtube.com/watch?v=VD8dGb9XUTM
+https://www.youtube.com/watch?v=VE7MDwjEC_s
+https://www.youtube.com/watch?v=VFzzKVe2UW8
+https://www.youtube.com/watch?v=VH0kBfWXPLA
+https://www.youtube.com/watch?v=VHEm1LQbn8Y
+https://www.youtube.com/watch?v=VHHB4tOjdqM
+https://www.youtube.com/watch?v=VHy2k9CWYBU
+https://www.youtube.com/watch?v=VKqC41cTPiM
+https://www.youtube.com/watch?v=VLFG8s4rKCM
+https://www.youtube.com/watch?v=VNBBZaJvMC4
+https://www.youtube.com/watch?v=VNv6PPcDHMM
+https://www.youtube.com/watch?v=VOxiYLVC6sk
+https://www.youtube.com/watch?v=VQHcE7S1tlY
+https://www.youtube.com/watch?v=VUvFqnTU35k
+https://www.youtube.com/watch?v=VZvVinL6nS4
+https://www.youtube.com/watch?v=V_keXfUQPrQ
+https://www.youtube.com/watch?v=Vav-WX4Qru4
+https://www.youtube.com/watch?v=VcKXp5jGNTA
+https://www.youtube.com/watch?v=VcUYKyzDBCg
+https://www.youtube.com/watch?v=VcxPGkYbvCw
+https://www.youtube.com/watch?v=Ven2OcxemEg
+https://www.youtube.com/watch?v=Vf7XBCuY6qo
+https://www.youtube.com/watch?v=VgFau6dcDmo
+https://www.youtube.com/watch?v=VgeYBSgZ7-M
+https://www.youtube.com/watch?v=VkTyN6hRhnI
+https://www.youtube.com/watch?v=VosEkYGYurI
+https://www.youtube.com/watch?v=Vpy1nU02qrs
+https://www.youtube.com/watch?v=VqmMHRlHezU
+https://www.youtube.com/watch?v=VrWHZZxd8X0
+https://www.youtube.com/watch?v=VvhGtPFulJg
+https://www.youtube.com/watch?v=VvmCVAMv-zQ
+https://www.youtube.com/watch?v=VwnbiJadohY
+https://www.youtube.com/watch?v=Vx-Mt05Rpeo
+https://www.youtube.com/watch?v=VxEXp3t5kHE
+https://www.youtube.com/watch?v=VzBb0N4xshI
+https://www.youtube.com/watch?v=W1jMpIzXdhE
+https://www.youtube.com/watch?v=W3uymzwBjNA
+https://www.youtube.com/watch?v=W3z6ExomxsM
+https://www.youtube.com/watch?v=W4UDT0wLmoQ
+https://www.youtube.com/watch?v=W4fRwfFRV1s
+https://www.youtube.com/watch?v=W4swxiO6gdE
+https://www.youtube.com/watch?v=W6OquKcbuDw
+https://www.youtube.com/watch?v=W7O4_xsEIgU
+https://www.youtube.com/watch?v=WBKIMylmpYs
+https://www.youtube.com/watch?v=WENHgr4_bVc
+https://www.youtube.com/watch?v=WIbvhqkv5bM&list=RDWIbvhqkv5bM&start_radio=1
+https://www.youtube.com/watch?v=WLMFGft9Rx0
+https://www.youtube.com/watch?v=WNz7EEC1MO4
+https://www.youtube.com/watch?v=WOgXdJaAC6c
+https://www.youtube.com/watch?v=WOocNHfsltA
+https://www.youtube.com/watch?v=WQAKmFuVOaI
+https://www.youtube.com/watch?v=WR6by_FE3Qg
+https://www.youtube.com/watch?v=WSiiNGxNd6U
+https://www.youtube.com/watch?v=WX-vFy0UKRE
+https://www.youtube.com/watch?v=WX7dUj14Z00&list=RDWX7dUj14Z00&start_radio=1
+https://www.youtube.com/watch?v=WXzsz_AwoWE
+https://www.youtube.com/watch?v=WZ_rG9uuX_Q
+https://www.youtube.com/watch?v=W_pP5A41cb8
+https://www.youtube.com/watch?v=Wb5jHC4AsvI
+https://www.youtube.com/watch?v=WbbsDD1ZMhE
+https://www.youtube.com/watch?v=Wcz90s-4TlQ
+https://www.youtube.com/watch?v=WepCSpmOacc
+https://www.youtube.com/watch?v=WfWcGD6Bp8k
+https://www.youtube.com/watch?v=Wgv5lSDpEfg
+https://www.youtube.com/watch?v=WhQpEhXV0KU
+https://www.youtube.com/watch?v=WivFwrIj-OY
+https://www.youtube.com/watch?v=WnhhO06xMdo
+https://www.youtube.com/watch?v=WqcX-ZnL0EQ
+https://www.youtube.com/watch?v=Ws-6BPCqT5k
+https://www.youtube.com/watch?v=Wxjmz107Akk
+https://www.youtube.com/watch?v=Wy9CwmN15xc
+https://www.youtube.com/watch?v=WymYVLY93dk
+https://www.youtube.com/watch?v=X229cETkB8c
+https://www.youtube.com/watch?v=X27yUBRQqt4
+https://www.youtube.com/watch?v=X39Z0gnn-Vs
+https://www.youtube.com/watch?v=X3HjF1ogRyg
+https://www.youtube.com/watch?v=X3WhbRkmqWw
+https://www.youtube.com/watch?v=X4uwvM10O4g
+https://www.youtube.com/watch?v=X5IS4hbsPNE
+https://www.youtube.com/watch?v=X9rF43W9E-s&list=RDX9rF43W9E-s&start_radio=1
+https://www.youtube.com/watch?v=XCPpdz9W2Xw
+https://www.youtube.com/watch?v=XIRoaINDKN0
+https://www.youtube.com/watch?v=XMLPFwftU-E
+https://www.youtube.com/watch?v=XO1eyeSKmHs
+https://www.youtube.com/watch?v=XPffMoqXg9c
+https://www.youtube.com/watch?v=XRMZX6feGAw
+https://www.youtube.com/watch?v=XRdGLgyOzkg
+https://www.youtube.com/watch?v=XS7hT_UVO8g
+https://www.youtube.com/watch?v=XUlMMVHB_7g
+https://www.youtube.com/watch?v=XXtc9T924-0
+https://www.youtube.com/watch?v=XZuKHP6qyww
+https://www.youtube.com/watch?v=XbreD3aaaqs
+https://www.youtube.com/watch?v=XdNImdzwdxg
+https://www.youtube.com/watch?v=XdpjXsancCI
+https://www.youtube.com/watch?v=XeLhXm51duM
+https://www.youtube.com/watch?v=XgUK3TsoXWo
+https://www.youtube.com/watch?v=XgqnbrB4pEY
+https://www.youtube.com/watch?v=Xl9niKwJi9c
+https://www.youtube.com/watch?v=Xm6oOSt2TBs
+https://www.youtube.com/watch?v=XoA0M-Rb5ec
+https://www.youtube.com/watch?v=XoDciYtvv5E
+https://www.youtube.com/watch?v=XoZGC-xiPPM
+https://www.youtube.com/watch?v=XoozeIDm3H0
+https://www.youtube.com/watch?v=Xrw8Ca8TLTU
+https://www.youtube.com/watch?v=XyC5lt8_Pw8
+https://www.youtube.com/watch?v=Y0rMjHiNS-s
+https://www.youtube.com/watch?v=Y2y1pAQOdQA
+https://www.youtube.com/watch?v=Y4AmlhpSgwg
+https://www.youtube.com/watch?v=Y8N22ibKSEY
+https://www.youtube.com/watch?v=YA2_XwoACPU
+https://www.youtube.com/watch?v=YCR9RSOhl_w
+https://www.youtube.com/watch?v=YExXx3cH_zw
+https://www.youtube.com/watch?v=YFaRDZw54lQ
+https://www.youtube.com/watch?v=YFzlnUEyv8U
+https://www.youtube.com/watch?v=YGAoFcU9t20
+https://www.youtube.com/watch?v=YIIhn9dWikY
+https://www.youtube.com/watch?v=YIfnTIMthIw
+https://www.youtube.com/watch?v=YJjH75cXLaw
+https://www.youtube.com/watch?v=YL3R6jhicGw
+https://www.youtube.com/watch?v=YPV6BitbPmM
+https://www.youtube.com/watch?v=YQtUjcVRT2c
+https://www.youtube.com/watch?v=YS4e4q9oBaU
+https://www.youtube.com/watch?v=YSLJCdgcn5k
+https://www.youtube.com/watch?v=YURq3sjju8c
+https://www.youtube.com/watch?v=YW8XeZaNmEw
+https://www.youtube.com/watch?v=Y_dcgnkGSK4
+https://www.youtube.com/watch?v=YaG79mbAfFk
+https://www.youtube.com/watch?v=YahHGJQULDk
+https://www.youtube.com/watch?v=YcMCe39PHpU
+https://www.youtube.com/watch?v=YdaRI2zlhjU
+https://www.youtube.com/watch?v=Yhc5Uow0mcI
+https://www.youtube.com/watch?v=Yin4AeEkQAk
+https://www.youtube.com/watch?v=YjnhkYleLvw
+https://www.youtube.com/watch?v=Yk-gwAN3OvY
+https://www.youtube.com/watch?v=YmiZRXOLUdc
+https://www.youtube.com/watch?v=YnbdEXMhd0I
+https://www.youtube.com/watch?v=Yoxp5fFL3MI
+https://www.youtube.com/watch?v=Yp5INKZ_sXU
+https://www.youtube.com/watch?v=YsO-UI625es
+https://www.youtube.com/watch?v=YsjjHmVIo8Q
+https://www.youtube.com/watch?v=Yv7904rcq4M
+https://www.youtube.com/watch?v=Yw0CwADU-gQ
+https://www.youtube.com/watch?v=YwfOraWteJk
+https://www.youtube.com/watch?v=YwyQkGMz4Ao
+https://www.youtube.com/watch?v=Yx7iHOA2uLA
+https://www.youtube.com/watch?v=YxvSXQ2wByw
+https://www.youtube.com/watch?v=Z14QAv7aujc
+https://www.youtube.com/watch?v=Z44-Ohw3yts
+https://www.youtube.com/watch?v=Z4GqLmElFlc
+https://www.youtube.com/watch?v=Z6PWNHQyy6A
+https://www.youtube.com/watch?v=Z7deaezhQxU
+https://www.youtube.com/watch?v=ZCNfgdOBGPM
+https://www.youtube.com/watch?v=ZDflD_CqnEs
+https://www.youtube.com/watch?v=ZEDDoMXUuoA
+https://www.youtube.com/watch?v=ZFs6_BIBE7s
+https://www.youtube.com/watch?v=ZI4OnfDvOMo
+https://www.youtube.com/watch?v=ZOIwqrC3j9I
+https://www.youtube.com/watch?v=ZRtgBG0Fea4
+https://www.youtube.com/watch?v=ZRx7GCjsePo
+https://www.youtube.com/watch?v=ZSQjcYiq1Zc
+https://www.youtube.com/watch?v=ZUxFbq-Z2TQ
+https://www.youtube.com/watch?v=ZWVb0-lGrZM
+https://www.youtube.com/watch?v=ZWvSqNy9r6s
+https://www.youtube.com/watch?v=ZXmXxRvNjMY
+https://www.youtube.com/watch?v=ZcsSn6f8GyU
+https://www.youtube.com/watch?v=Zdh596b5RzY
+https://www.youtube.com/watch?v=ZdlCxSQwxyY
+https://www.youtube.com/watch?v=Ze-50KvrNL0
+https://www.youtube.com/watch?v=ZePM3q7mCuo
+https://www.youtube.com/watch?v=ZfIYnAPOnm8
+https://www.youtube.com/watch?v=ZfKfNvEHKcY
+https://www.youtube.com/watch?v=ZfbT9pjeaJc
+https://www.youtube.com/watch?v=ZiwXON2EXak
+https://www.youtube.com/watch?v=ZkfJBM55FB0
+https://www.youtube.com/watch?v=ZlNkY1P-lZI
+https://www.youtube.com/watch?v=Zl_gfquEAlE
+https://www.youtube.com/watch?v=ZqyoncGQxdE
+https://www.youtube.com/watch?v=ZvmbuKcfIJo
+https://www.youtube.com/watch?v=ZwQuMYx0wOc
+https://www.youtube.com/watch?v=_1gwFvpURw4
+https://www.youtube.com/watch?v=_2QILzdXN2c
+https://www.youtube.com/watch?v=_2ooN16tSeo
+https://www.youtube.com/watch?v=_9Aqiv-VQBA
+https://www.youtube.com/watch?v=_CuHBJY0dtI
+https://www.youtube.com/watch?v=_Dcmk9mEP9s
+https://www.youtube.com/watch?v=_GNkK5goSn4
+https://www.youtube.com/watch?v=_GsJyxBkl3M
+https://www.youtube.com/watch?v=_HOmf1EFu84
+https://www.youtube.com/watch?v=_JTQsDAZoPY
+https://www.youtube.com/watch?v=_JmirDndKIg
+https://www.youtube.com/watch?v=_Kv5oR8qVdA
+https://www.youtube.com/watch?v=_NkTKFun3X8
+https://www.youtube.com/watch?v=_OV_0E41XaQ
+https://www.youtube.com/watch?v=_PZ1yPBpPJM
+https://www.youtube.com/watch?v=_QW52d1fxi0
+https://www.youtube.com/watch?v=_UnyY5gvwS8
+https://www.youtube.com/watch?v=_Vs3iiJbhkQ
+https://www.youtube.com/watch?v=_WuLZDiXLV0
+https://www.youtube.com/watch?v=_Yhv6IhLj3Q
+https://www.youtube.com/watch?v=_fIe04mL1yA
+https://www.youtube.com/watch?v=_g3EIm98KCA
+https://www.youtube.com/watch?v=_jhynMzL9_0
+https://www.youtube.com/watch?v=_l3StCtBxvg
+https://www.youtube.com/watch?v=_me9TpyISMI
+https://www.youtube.com/watch?v=_nzLrI_4iI0
+https://www.youtube.com/watch?v=_r_4WzU5gjE
+https://www.youtube.com/watch?v=_t1508nEdTI
+https://www.youtube.com/watch?v=_tIxF8Z79e8
+https://www.youtube.com/watch?v=_zj73-1QJDk
+https://www.youtube.com/watch?v=a-FP01PkhV8
+https://www.youtube.com/watch?v=a-yU8NY_MpE
+https://www.youtube.com/watch?v=a1UZUMiok5c
+https://www.youtube.com/watch?v=a2TKPEtZM7U
+https://www.youtube.com/watch?v=a46LVE0Hius
+https://www.youtube.com/watch?v=a4TM-sNL-Qg
+https://www.youtube.com/watch?v=a4eKIvwko6s
+https://www.youtube.com/watch?v=a5Y17AsEw_M
+https://www.youtube.com/watch?v=a6yweJ4mtxs
+https://www.youtube.com/watch?v=a7lnl9Xb-so
+https://www.youtube.com/watch?v=a9B1v4a0GwY
+https://www.youtube.com/watch?v=a9k_9OMIIZk
+https://www.youtube.com/watch?v=aAtQQs_jvr4
+https://www.youtube.com/watch?v=aE8krfn0bmM
+https://www.youtube.com/watch?v=aElFY3ZrP3s
+https://www.youtube.com/watch?v=aGu_egzRL6w
+https://www.youtube.com/watch?v=aIVCoNVhg5c
+https://www.youtube.com/watch?v=aL4OkBFh174
+https://www.youtube.com/watch?v=aLKwnTWd7PQ
+https://www.youtube.com/watch?v=aMHL_2z5vyA
+https://www.youtube.com/watch?v=aMZhvFZBmvQ
+https://www.youtube.com/watch?v=aPAfE3H6cKg
+https://www.youtube.com/watch?v=aSRW_kCzOx0
+https://www.youtube.com/watch?v=aTqqnFLCFjE
+https://www.youtube.com/watch?v=aU3g15vO_Uk
+https://www.youtube.com/watch?v=aVBrnuf9prE
+https://www.youtube.com/watch?v=aW7nn9q9rG4
+https://www.youtube.com/watch?v=a_zv0iQaQa4
+https://www.youtube.com/watch?v=ac9vUkmPDEc
+https://www.youtube.com/watch?v=adG4cuHyOSY
+https://www.youtube.com/watch?v=aeXfA8edOG0
+https://www.youtube.com/watch?v=ae_-HlN63mg
+https://www.youtube.com/watch?v=aeuC1fggsgg
+https://www.youtube.com/watch?v=agl11NM9nUw
+https://www.youtube.com/watch?v=aguhOgnebE0
+https://www.youtube.com/watch?v=ajCa_GXn-vk
+https://www.youtube.com/watch?v=ammyD__nIrQ
+https://www.youtube.com/watch?v=an6a6slaq68
+https://www.youtube.com/watch?v=apoiU9RB160
+https://www.youtube.com/watch?v=aqB6-5FjMOs
+https://www.youtube.com/watch?v=awyyQyjtq8M
+https://www.youtube.com/watch?v=ax7BBm82pNM
+https://www.youtube.com/watch?v=b-3gSdvFpq0
+https://www.youtube.com/watch?v=b-Vqk65FLsA
+https://www.youtube.com/watch?v=b2gQ1Clzvt0
+https://www.youtube.com/watch?v=b39pPnktwao
+https://www.youtube.com/watch?v=bA0eQ9hpvjs
+https://www.youtube.com/watch?v=bAmcnLK_v8c
+https://www.youtube.com/watch?v=bD3B1I3Zgog&list=RDbD3B1I3Zgog&start_radio=1
+https://www.youtube.com/watch?v=bFxGr1b793M
+https://www.youtube.com/watch?v=bMKHmuiPtKE
+https://www.youtube.com/watch?v=bQTjKvrz350&list=RDbQTjKvrz350&start_radio=1
+https://www.youtube.com/watch?v=bS0j0eU7Fvo
+https://www.youtube.com/watch?v=bSKnjmM-lYs
+https://www.youtube.com/watch?v=bVd3P5xqO34
+https://www.youtube.com/watch?v=bZgIN5PXk2s
+https://www.youtube.com/watch?v=bZjhrypEzIU
+https://www.youtube.com/watch?v=b_OsGkbTkOc
+https://www.youtube.com/watch?v=bd_le5Uo-5k
+https://www.youtube.com/watch?v=bgQTVsN6gD4
+https://www.youtube.com/watch?v=biXR8e1fvuA
+https://www.youtube.com/watch?v=bo2LYrV45ZI
+https://www.youtube.com/watch?v=bqdVZI81U8w
+https://www.youtube.com/watch?v=bqqt5V6cgDc
+https://www.youtube.com/watch?v=brnCe8lL7l4
+https://www.youtube.com/watch?v=bujim0jxQhI
+https://www.youtube.com/watch?v=bvRY15E13RY
+https://www.youtube.com/watch?v=bw6eabnUn7Q
+https://www.youtube.com/watch?v=bxiAwehOH9w
+https://www.youtube.com/watch?v=bysX0wuu5a4
+https://www.youtube.com/watch?v=bzlLXdAxl_o
+https://www.youtube.com/watch?v=bzmn7VI7H1c
+https://www.youtube.com/watch?v=c0Ob0n453l0
+https://www.youtube.com/watch?v=c0XzXE9KKL4
+https://www.youtube.com/watch?v=c2uFik12yRQ
+https://www.youtube.com/watch?v=c3zUVRxHNdA
+https://www.youtube.com/watch?v=c4XAg5Mz8PE
+https://www.youtube.com/watch?v=c7ceEIgCQyQ
+https://www.youtube.com/watch?v=c8P-eZRsHzg
+https://www.youtube.com/watch?v=c8k8lNYlxTk
+https://www.youtube.com/watch?v=cAFJeYcLHQg
+https://www.youtube.com/watch?v=cAwzTNPy0WQ
+https://www.youtube.com/watch?v=cBb6MpYIJS0
+https://www.youtube.com/watch?v=cC8Nt0kfPn4
+https://www.youtube.com/watch?v=cC8iSlIl-r4
+https://www.youtube.com/watch?v=cCe_ueBirxc
+https://www.youtube.com/watch?v=cCfPmZA9yuk
+https://www.youtube.com/watch?v=cELLNEs4lvI
+https://www.youtube.com/watch?v=cGAuCjJbhqo
+https://www.youtube.com/watch?v=cHeixf9Y7-w
+https://www.youtube.com/watch?v=cHhRpQ93OtI
+https://www.youtube.com/watch?v=cI-sJDXJXfI
+https://www.youtube.com/watch?v=cJR4mv8wnTg
+https://www.youtube.com/watch?v=cJo2zNX41DA
+https://www.youtube.com/watch?v=cKxLF9_dJYE
+https://www.youtube.com/watch?v=cLdlGfi2OP0
+https://www.youtube.com/watch?v=cLvcURoou_w
+https://www.youtube.com/watch?v=cN1Wults_wY
+https://www.youtube.com/watch?v=cO-1CiAToWQ
+https://www.youtube.com/watch?v=cOXJOIu2uQk
+https://www.youtube.com/watch?v=cQ_Lyk-EdeA
+https://www.youtube.com/watch?v=cQzwk395UIc
+https://www.youtube.com/watch?v=cREhDgRaM2I
+https://www.youtube.com/watch?v=cSsIyNGgOe0
+https://www.youtube.com/watch?v=cT4v8HPYzSI
+https://www.youtube.com/watch?v=cUeg-KdNYS8
+https://www.youtube.com/watch?v=cZNOn0QZRjY
+https://www.youtube.com/watch?v=cZP1YmMruRU
+https://www.youtube.com/watch?v=c_GMcO6QcqQ
+https://www.youtube.com/watch?v=cddSt49FwRA
+https://www.youtube.com/watch?v=ce9RmzveyH8
+https://www.youtube.com/watch?v=cjRca0kZ5nM
+https://www.youtube.com/watch?v=cjU-KA8Ks5k
+https://www.youtube.com/watch?v=cjrKEBVOynM
+https://www.youtube.com/watch?v=cl9Y2vWFy8E
+https://www.youtube.com/watch?v=cmyg9SMMy7s
+https://www.youtube.com/watch?v=ctjnhRFUq14
+https://www.youtube.com/watch?v=cuHDQhDhvPE
+https://www.youtube.com/watch?v=d-npJd3w17s
+https://www.youtube.com/watch?v=d18e5pXC4j8
+https://www.youtube.com/watch?v=d2F1tbqFM9s
+https://www.youtube.com/watch?v=d3Ej0E7qZjA
+https://www.youtube.com/watch?v=d6MBrlYsbQo
+https://www.youtube.com/watch?v=d72mNvRWESQ
+https://www.youtube.com/watch?v=d73iki5gk8s
+https://www.youtube.com/watch?v=d9YLPGHdZ3w
+https://www.youtube.com/watch?v=dAEbHd3OWkA
+https://www.youtube.com/watch?v=dAQ1vx6Vv9I
+https://www.youtube.com/watch?v=dEu5ie25U0Y
+https://www.youtube.com/watch?v=dEzrFP7PCjY
+https://www.youtube.com/watch?v=dFKxrClL7B8
+https://www.youtube.com/watch?v=dIIu77hIUVs
+https://www.youtube.com/watch?v=dJMjv7EPl00
+https://www.youtube.com/watch?v=dMQ-Jf7dJUs
+https://www.youtube.com/watch?v=dNxJLECW3wg
+https://www.youtube.com/watch?v=dOXkiUa7PeY
+https://www.youtube.com/watch?v=dTX_ehChElY
+https://www.youtube.com/watch?v=dZ_sqVRjx2I
+https://www.youtube.com/watch?v=d_vG1rlIbEU
+https://www.youtube.com/watch?v=dbSQak6xeQI
+https://www.youtube.com/watch?v=dd97CLI5Zpg
+https://www.youtube.com/watch?v=dnZIIOCBgOo
+https://www.youtube.com/watch?v=doiHrXzloEk
+https://www.youtube.com/watch?v=dpgnXeDEqjo
+https://www.youtube.com/watch?v=dsSG3_qgccU
+https://www.youtube.com/watch?v=dt-ZodYWOdY
+https://www.youtube.com/watch?v=dvegPTdjLP8
+https://www.youtube.com/watch?v=dw0UfkX9L1k
+https://www.youtube.com/watch?v=dws4Yg8cC3s
+https://www.youtube.com/watch?v=dxVo4QE9rpw
+https://www.youtube.com/watch?v=dxvBsB6fOsU
+https://www.youtube.com/watch?v=dzm3Lw5xM0U
+https://www.youtube.com/watch?v=dzzh9Na0zO4
+https://www.youtube.com/watch?v=e-acbB0dzzY
+https://www.youtube.com/watch?v=e1O2IEyoIw8
+https://www.youtube.com/watch?v=e2oUws5fy2E
+https://www.youtube.com/watch?v=e4rnVD_s79c
+https://www.youtube.com/watch?v=e6If0SOaY2k
+https://www.youtube.com/watch?v=eGgv5JI0d9c
+https://www.youtube.com/watch?v=eIOTgmxMvmM
+https://www.youtube.com/watch?v=eIYBhwhNkvU
+https://www.youtube.com/watch?v=eMhuJ_vN6ks
+https://www.youtube.com/watch?v=eNyIjln8RK8
+https://www.youtube.com/watch?v=eQAfvvqDDCY
+https://www.youtube.com/watch?v=eTR2zRmKGjM
+https://www.youtube.com/watch?v=eTw332IqUCA
+https://www.youtube.com/watch?v=eUoF8VF-vas
+https://www.youtube.com/watch?v=eYkXrr4RZdk
+https://www.youtube.com/watch?v=ea1xtQ3jM4E
+https://www.youtube.com/watch?v=ea_kv3j4t0w
+https://www.youtube.com/watch?v=ebSdqBcpUN4
+https://www.youtube.com/watch?v=eeDuQgxxdqA&list=RDGMEMPipJmhsMq3GHGrfqf4WIqAVMeeDuQgxxdqA&start_radio=1
+https://www.youtube.com/watch?v=eg1l8fUMSZU
+https://www.youtube.com/watch?v=ehEzl-OxElc
+https://www.youtube.com/watch?v=ejmTGKaTwIk
+https://www.youtube.com/watch?v=epVOpUCjJDw
+https://www.youtube.com/watch?v=esndwnTJmTw
+https://www.youtube.com/watch?v=etuXKnr1yQY
+https://www.youtube.com/watch?v=f0g4SxxSbgw
+https://www.youtube.com/watch?v=f2XKBl2d3Hw
+https://www.youtube.com/watch?v=f4Cft5-DMDU
+https://www.youtube.com/watch?v=f5NHyviO2ww
+https://www.youtube.com/watch?v=f60LdHvYRN8
+https://www.youtube.com/watch?v=f667gHftEMo
+https://www.youtube.com/watch?v=f6vFtvzlocY
+https://www.youtube.com/watch?v=f7mUgZXTy7k
+https://www.youtube.com/watch?v=f8N86C38BsI
+https://www.youtube.com/watch?v=f8spHFoozI8
+https://www.youtube.com/watch?v=f9OxRELgX0I
+https://www.youtube.com/watch?v=fD8APOlrcII
+https://www.youtube.com/watch?v=fEAxOgKJE48
+https://www.youtube.com/watch?v=fGX1u1eqzFw
+https://www.youtube.com/watch?v=fHDiez-_gHQ
+https://www.youtube.com/watch?v=fIab91ZMWBA
+https://www.youtube.com/watch?v=fLPxbJoQUjA
+https://www.youtube.com/watch?v=fMk5RCMcYbA
+https://www.youtube.com/watch?v=fNU3NPEnETs
+https://www.youtube.com/watch?v=fNdO-_Y5uuE
+https://www.youtube.com/watch?v=fUcKRlCHcx0
+https://www.youtube.com/watch?v=fV6wXN7TaHY
+https://www.youtube.com/watch?v=fY2qhXqlLPU
+https://www.youtube.com/watch?v=fe4rrXIkui0
+https://www.youtube.com/watch?v=feB-sbaT5BY
+https://www.youtube.com/watch?v=feUB66yvUgI
+https://www.youtube.com/watch?v=ffN0G-3490c
+https://www.youtube.com/watch?v=fgVBEdz0AE0
+https://www.youtube.com/watch?v=fguCzrF93Cw
+https://www.youtube.com/watch?v=fhC2z_oKYNM
+https://www.youtube.com/watch?v=fjNO3hWsoAk
+https://www.youtube.com/watch?v=foeJuRYHR_o
+https://www.youtube.com/watch?v=fog6jfyQiYc
+https://www.youtube.com/watch?v=fp43Y4zQMko
+https://www.youtube.com/watch?v=fvG-Iwoex-0
+https://www.youtube.com/watch?v=fwhEYMaPAjQ
+https://www.youtube.com/watch?v=fxZwHx17vb8
+https://www.youtube.com/watch?v=fxuH2qZMLgY
+https://www.youtube.com/watch?v=fy_mHzttMq0
+https://www.youtube.com/watch?v=fyvu_nKrWXE
+https://www.youtube.com/watch?v=fzMPb7jKNe0
+https://www.youtube.com/watch?v=g1_hTNUH-v4
+https://www.youtube.com/watch?v=g3P95PaU-HE
+https://www.youtube.com/watch?v=g7Qc_sj6Jx8
+https://www.youtube.com/watch?v=gACC-IEDTI0
+https://www.youtube.com/watch?v=gDMDQou5sAk
+https://www.youtube.com/watch?v=gDyXG0oeK3I
+https://www.youtube.com/watch?v=gEDB8EK0Azo
+https://www.youtube.com/watch?v=gELwrZ2lMXE
+https://www.youtube.com/watch?v=gEx_-QSQ91Q
+https://www.youtube.com/watch?v=gF3ui_E5GJY
+https://www.youtube.com/watch?v=gFNv-OQ6k98
+https://www.youtube.com/watch?v=gG8z2s7odYw
+https://www.youtube.com/watch?v=gKAfHRaPoyE
+https://www.youtube.com/watch?v=gKMR8fzEuaE
+https://www.youtube.com/watch?v=gMK67DW0nb0
+https://www.youtube.com/watch?v=gQxAW5L22Ik
+https://www.youtube.com/watch?v=gS5tfkkLvO8
+https://www.youtube.com/watch?v=g_Irol-q54s
+https://www.youtube.com/watch?v=gaY3HZrDRHQ
+https://www.youtube.com/watch?v=gdGqmy-UyNo
+https://www.youtube.com/watch?v=gePfrJZByzY
+https://www.youtube.com/watch?v=gebbuGJdXrs
+https://www.youtube.com/watch?v=ggROET9cjow
+https://www.youtube.com/watch?v=ggwXPGrfMd8
+https://www.youtube.com/watch?v=giX3Mb6r1Jw
+https://www.youtube.com/watch?v=gl3gHPv0aAs
+https://www.youtube.com/watch?v=goCtcsTe5g8
+https://www.youtube.com/watch?v=gpUfOZP9MRg
+https://www.youtube.com/watch?v=gqLi5D9koZ4
+https://www.youtube.com/watch?v=gtI3tjpYR50
+https://www.youtube.com/watch?v=gv1LD-cVjOA
+https://www.youtube.com/watch?v=gwP2uIOmZi0
+https://www.youtube.com/watch?v=gzMkKgKzRx8
+https://www.youtube.com/watch?v=h0SLD3GcGE0
+https://www.youtube.com/watch?v=hCZ4HPdLOPY
+https://www.youtube.com/watch?v=hEMEiil24vY
+https://www.youtube.com/watch?v=hGKjqp2Z3_k
+https://www.youtube.com/watch?v=hIoMItHbU20
+https://www.youtube.com/watch?v=hKKnLyYkLXQ
+https://www.youtube.com/watch?v=hLVVxe-nAjo
+https://www.youtube.com/watch?v=hQUR8T1gvtY
+https://www.youtube.com/watch?v=hRQzdE4h3YI
+https://www.youtube.com/watch?v=hTFOXU-zfyI
+https://www.youtube.com/watch?v=hUdB232fIXM
+https://www.youtube.com/watch?v=hVFzstvcJU8
+https://www.youtube.com/watch?v=hVMTKduE_28
+https://www.youtube.com/watch?v=hVll9zaM56Q
+https://www.youtube.com/watch?v=hXAfW-vJJ08
+https://www.youtube.com/watch?v=h_Ye59ziTK8
+https://www.youtube.com/watch?v=he1l7RVTzZY
+https://www.youtube.com/watch?v=he9hx2QeUFY
+https://www.youtube.com/watch?v=hewhB3pZTow
+https://www.youtube.com/watch?v=hfCd07dv3Dw
+https://www.youtube.com/watch?v=hg6I8EWoO5M
+https://www.youtube.com/watch?v=hh9jEdZu2OY
+https://www.youtube.com/watch?v=hiPOS4WMFXg
+https://www.youtube.com/watch?v=hjvRIpU6acQ
+https://www.youtube.com/watch?v=hp12x1SK43Y
+https://www.youtube.com/watch?v=hrg7mG0-6WU
+https://www.youtube.com/watch?v=hxAGFLHRvxA
+https://www.youtube.com/watch?v=i2e_9Ms7Jg4
+https://www.youtube.com/watch?v=i7B6H2SGcic
+https://www.youtube.com/watch?v=i7SVZYv3vOY
+https://www.youtube.com/watch?v=i7tNtH4Ghqo
+https://www.youtube.com/watch?v=iCfyBGRhY0s
+https://www.youtube.com/watch?v=iD8MM7IoShk
+https://www.youtube.com/watch?v=iEDR67zjXWE
+https://www.youtube.com/watch?v=iElGjPtzrpY
+https://www.youtube.com/watch?v=iFxYoY3nMp0
+https://www.youtube.com/watch?v=iHIIuJE-tJ0
+https://www.youtube.com/watch?v=iLkIk9cZY_w
+https://www.youtube.com/watch?v=iMYGf54CJkw
+https://www.youtube.com/watch?v=iNkLJSVu9FY
+https://www.youtube.com/watch?v=iOwBkFOTMOU
+https://www.youtube.com/watch?v=iSIgzZYbr4E
+https://www.youtube.com/watch?v=iUptp2kt9Oc
+https://www.youtube.com/watch?v=iVCLg60ofKk
+https://www.youtube.com/watch?v=iVJNGEFE4ls
+https://www.youtube.com/watch?v=iWDtF_yPM1w
+https://www.youtube.com/watch?v=iWoUT4v6wIk
+https://www.youtube.com/watch?v=iZDjCI7OLAM
+https://www.youtube.com/watch?v=iZEGJXU4bbY
+https://www.youtube.com/watch?v=iZXBN6T7r9o
+https://www.youtube.com/watch?v=ia4JTX03rKA
+https://www.youtube.com/watch?v=icszQs4yTek
+https://www.youtube.com/watch?v=ihNynmlt-G4
+https://www.youtube.com/watch?v=ihafcvd-abI
+https://www.youtube.com/watch?v=ikUV9oRv0sE
+https://www.youtube.com/watch?v=ilP9OXAY5p8
+https://www.youtube.com/watch?v=inaJCO340nE
+https://www.youtube.com/watch?v=ir51YTUqI6M
+https://www.youtube.com/watch?v=itOvg8Y40Tg
+https://www.youtube.com/watch?v=ivBSVI-wIn8
+https://www.youtube.com/watch?v=ivoz6973BLs
+https://www.youtube.com/watch?v=ix2LqWxT-o4
+https://www.youtube.com/watch?v=j1U9-ZhE_Vs
+https://www.youtube.com/watch?v=j4lpc6jc8Sw
+https://www.youtube.com/watch?v=j5geVfbSr2M
+https://www.youtube.com/watch?v=j6ByqZQLfyc
+https://www.youtube.com/watch?v=j8U06veqxdU
+https://www.youtube.com/watch?v=jAv_ohrgjuw
+https://www.youtube.com/watch?v=jEKdxbzkeas
+https://www.youtube.com/watch?v=jEmvpTvMSVQ
+https://www.youtube.com/watch?v=jEvYQ35l4AQ
+https://www.youtube.com/watch?v=jHTq2m8umag
+https://www.youtube.com/watch?v=jJFGeHzj0KU
+https://www.youtube.com/watch?v=jJer-MBCI0A
+https://www.youtube.com/watch?v=jLyA4Xvmpls
+https://www.youtube.com/watch?v=jNpiAg61UKc
+https://www.youtube.com/watch?v=jOp9w44xTpM
+https://www.youtube.com/watch?v=jR2P1bTOjrY
+https://www.youtube.com/watch?v=jSLNHQETZMA
+https://www.youtube.com/watch?v=jUxsy85y77o
+https://www.youtube.com/watch?v=jVSjfoUfQLs
+https://www.youtube.com/watch?v=jYZesNcdakE
+https://www.youtube.com/watch?v=jYbSlvKoQGg
+https://www.youtube.com/watch?v=jaDp4JuTToQ
+https://www.youtube.com/watch?v=jb2g1fDBxsA
+https://www.youtube.com/watch?v=jbWl-SOreBQ
+https://www.youtube.com/watch?v=jcQ1OxtIyY0
+https://www.youtube.com/watch?v=jhapjH70noI
+https://www.youtube.com/watch?v=jhcoKu4Ycz0
+https://www.youtube.com/watch?v=jhlkBFAIGXc
+https://www.youtube.com/watch?v=jjc3FCgyQIY
+https://www.youtube.com/watch?v=jlVP384XMJQ
+https://www.youtube.com/watch?v=jm-2zhW710Q
+https://www.youtube.com/watch?v=jpkdo7qsFys
+https://www.youtube.com/watch?v=jwiG2gpeEXA
+https://www.youtube.com/watch?v=k0vDbMImTtA
+https://www.youtube.com/watch?v=k0zvZGhDWkk
+https://www.youtube.com/watch?v=k1iesEkvSPk
+https://www.youtube.com/watch?v=k1w22t5P_fg
+https://www.youtube.com/watch?v=k2DsBNv77us
+https://www.youtube.com/watch?v=k3JUJrPc9pQ
+https://www.youtube.com/watch?v=k5Kng3rPFDs
+https://www.youtube.com/watch?v=k7mAzEBs_Jc
+https://www.youtube.com/watch?v=kAE4uGOiw3I
+https://www.youtube.com/watch?v=kAr0pM8EXGE
+https://www.youtube.com/watch?v=kBH4KZZcsTk
+https://www.youtube.com/watch?v=kF2oTSyzYbg
+https://www.youtube.com/watch?v=kFQgbDtLwQM
+https://www.youtube.com/watch?v=kH_Vz9WEGr4
+https://www.youtube.com/watch?v=kI9__h7sqEQ
+https://www.youtube.com/watch?v=kIPHIa35sY0
+https://www.youtube.com/watch?v=kLbovyLYABY
+https://www.youtube.com/watch?v=kMr6b2f_co0
+https://www.youtube.com/watch?v=kPezmtr-CCc
+https://www.youtube.com/watch?v=kQ7sUNCEOdo
+https://www.youtube.com/watch?v=kW10o56Ak_0
+https://www.youtube.com/watch?v=kYQWoXhr4yw
+https://www.youtube.com/watch?v=ka66P3BHkTA
+https://www.youtube.com/watch?v=kc55-bHfcVY
+https://www.youtube.com/watch?v=kcVxnUz1I6w
+https://www.youtube.com/watch?v=kieBwHeOtUk
+https://www.youtube.com/watch?v=kitfAye9H2k
+https://www.youtube.com/watch?v=kqOybgUwTGY
+https://www.youtube.com/watch?v=krxm-_OU-Yc
+https://www.youtube.com/watch?v=ktqMWb7K9HY
+https://www.youtube.com/watch?v=kv3ZPEzHo60
+https://www.youtube.com/watch?v=kvkZK-tFs04
+https://www.youtube.com/watch?v=kxPu9kCComk
+https://www.youtube.com/watch?v=kyxtQPRdqYg
+https://www.youtube.com/watch?v=l-GH2bw54t0
+https://www.youtube.com/watch?v=l0Z5xJWl4VI
+https://www.youtube.com/watch?v=l0cEVx4w_CU
+https://www.youtube.com/watch?v=l2XhZ5Cb3rA
+https://www.youtube.com/watch?v=l2zNpqAOhjw
+https://www.youtube.com/watch?v=l4hzTMT-ljc
+https://www.youtube.com/watch?v=l5zJIFjv1TY
+https://www.youtube.com/watch?v=l7XQvRWHxbg
+https://www.youtube.com/watch?v=l9TdAhIo5a8
+https://www.youtube.com/watch?v=lAFVz5m77LE
+https://www.youtube.com/watch?v=lGKhD-Z4vOM
+https://www.youtube.com/watch?v=lLcELbae7II
+https://www.youtube.com/watch?v=lMyRr08mO_s
+https://www.youtube.com/watch?v=lScEBj84FrI
+https://www.youtube.com/watch?v=lT1nRP0Acc8
+https://www.youtube.com/watch?v=lTzp-SeEWBk
+https://www.youtube.com/watch?v=lUz6drk_QSE
+https://www.youtube.com/watch?v=lW3okUxmq3w
+https://www.youtube.com/watch?v=lW4ASnnbZ7Y
+https://www.youtube.com/watch?v=ldg9QbV1Srg
+https://www.youtube.com/watch?v=leQ_kJQfYwA
+https://www.youtube.com/watch?v=lh_1yj7JNwc
+https://www.youtube.com/watch?v=lhtpDcXdQsM
+https://www.youtube.com/watch?v=lmUeTanGcZ4
+https://www.youtube.com/watch?v=lrWDynnGYtA
+https://www.youtube.com/watch?v=lrgHPW37ous
+https://www.youtube.com/watch?v=ltTOn6bxXhU&list=RDltTOn6bxXhU&start_radio=1
+https://www.youtube.com/watch?v=lugF9EkxwSQ
+https://www.youtube.com/watch?v=lw3PKhH0PGs
+https://www.youtube.com/watch?v=lyRIbcJIjRQ
+https://www.youtube.com/watch?v=lz-zb4w-SW4
+https://www.youtube.com/watch?v=m-Wme0P22EA
+https://www.youtube.com/watch?v=m-t9vqNqCZo
+https://www.youtube.com/watch?v=m3Yz_cfYBHY
+https://www.youtube.com/watch?v=m8OaJOgW_-0
+https://www.youtube.com/watch?v=m8T7_6t-cqQ
+https://www.youtube.com/watch?v=mEEW1_-Zzv8
+https://www.youtube.com/watch?v=mFtpZH8BROg
+https://www.youtube.com/watch?v=mIpROtR3t3Q
+https://www.youtube.com/watch?v=mP7Io4Jtjyk
+https://www.youtube.com/watch?v=mVLFNHq3B6A
+https://www.youtube.com/watch?v=mVQ1hN1tW3Y
+https://www.youtube.com/watch?v=mXkz5boNvng
+https://www.youtube.com/watch?v=mbF2izbbxjw&list=RDMMmbF2izbbxjw&start_radio=1
+https://www.youtube.com/watch?v=men1COILWu8
+https://www.youtube.com/watch?v=mgz3hAVIYxw
+https://www.youtube.com/watch?v=miXWXvPRTPE
+https://www.youtube.com/watch?v=mjc-f-4XiQU
+https://www.youtube.com/watch?v=mk43v1g7DAM
+https://www.youtube.com/watch?v=moTEc6FubXg
+https://www.youtube.com/watch?v=mpdd-x-SuTA
+https://www.youtube.com/watch?v=mpfbf6c6DRo
+https://www.youtube.com/watch?v=mpkHMtqIUGI
+https://www.youtube.com/watch?v=mqI94G6EwtE
+https://www.youtube.com/watch?v=mrMI2xiDvwI
+https://www.youtube.com/watch?v=mti2cyD14fc
+https://www.youtube.com/watch?v=mu5Ee-fs_9M
+https://www.youtube.com/watch?v=mxW7qOJ0PAs
+https://www.youtube.com/watch?v=mxzY1yNzeQg
+https://www.youtube.com/watch?v=mzjSKq8iqKg
+https://www.youtube.com/watch?v=n0RCLeHS0XI
+https://www.youtube.com/watch?v=n4pqq8lNcdk
+https://www.youtube.com/watch?v=n9SDe3BEcok
+https://www.youtube.com/watch?v=nCYp6q-TLVo
+https://www.youtube.com/watch?v=nGKYL-i8d_8
+https://www.youtube.com/watch?v=nHbxbX3dMLQ
+https://www.youtube.com/watch?v=nL5xgz6OQys
+https://www.youtube.com/watch?v=nLbjWV5GyEk
+https://www.youtube.com/watch?v=nMPFPB7IHs0
+https://www.youtube.com/watch?v=nPzFy_NNPqk
+https://www.youtube.com/watch?v=nQWhhQQZ9DM
+https://www.youtube.com/watch?v=nRUroDLTEIs&list=RDnRUroDLTEIs&start_radio=1
+https://www.youtube.com/watch?v=nYKtprw615o
+https://www.youtube.com/watch?v=nYsnLfRRorc
+https://www.youtube.com/watch?v=ncvnwpJrVmg
+https://www.youtube.com/watch?v=nd6pVd0rWkk
+https://www.youtube.com/watch?v=ndqKrHduHlU
+https://www.youtube.com/watch?v=nf2WtzcDmtA
+https://www.youtube.com/watch?v=ngpWLma3_p8
+https://www.youtube.com/watch?v=nlKIdetdwe8
+https://www.youtube.com/watch?v=nnv_ENVxDoo
+https://www.youtube.com/watch?v=nrxx5hCpIN8
+https://www.youtube.com/watch?v=nsTGR64IQJM
+https://www.youtube.com/watch?v=nshxbKoL3AU
+https://www.youtube.com/watch?v=ntt68N2uR24
+https://www.youtube.com/watch?v=nugwqqtiv2I
+https://www.youtube.com/watch?v=o-mib1LXYUE
+https://www.youtube.com/watch?v=o0eHMaqjk6Q
+https://www.youtube.com/watch?v=o4H7LFQLEy0
+https://www.youtube.com/watch?v=o5MXgIS7K5s
+https://www.youtube.com/watch?v=o5SAVQibMWo
+https://www.youtube.com/watch?v=o5VKMzoBFVs
+https://www.youtube.com/watch?v=o9Uq6fD5q7A
+https://www.youtube.com/watch?v=oBELyoKtyxI
+https://www.youtube.com/watch?v=oCL_BymlM4A
+https://www.youtube.com/watch?v=oHR8vStUXUY
+https://www.youtube.com/watch?v=oNbSHXd3GbA
+https://www.youtube.com/watch?v=oPwI_rtzqkE
+https://www.youtube.com/watch?v=oQnBDrc6SKw
+https://www.youtube.com/watch?v=oRBp3xneiQ8
+https://www.youtube.com/watch?v=oSOHjBeGdyI
+https://www.youtube.com/watch?v=oTyjnwc2ytk
+https://www.youtube.com/watch?v=oWyxaFLrV4g
+https://www.youtube.com/watch?v=oXDnLopMXao
+https://www.youtube.com/watch?v=oXZfl1Ayw24
+https://www.youtube.com/watch?v=oXe1x8v_xdY
+https://www.youtube.com/watch?v=oZ3tlkjzbAs
+https://www.youtube.com/watch?v=o_4q_okr-gE
+https://www.youtube.com/watch?v=o_rJ-72e78Q
+https://www.youtube.com/watch?v=oa7xrDESw9Q
+https://www.youtube.com/watch?v=obYoJAIytlA
+https://www.youtube.com/watch?v=odjvKLDgOCc
+https://www.youtube.com/watch?v=oe7YodKZJ58
+https://www.youtube.com/watch?v=oenVWHje7UI
+https://www.youtube.com/watch?v=ok09VNlO8ss
+https://www.youtube.com/watch?v=ondt51cbhxg
+https://www.youtube.com/watch?v=or6QzoskI34
+https://www.youtube.com/watch?v=osv50Za7Dns
+https://www.youtube.com/watch?v=oud3LpCc69E
+https://www.youtube.com/watch?v=oyOX7xweebE
+https://www.youtube.com/watch?v=oyPBcUNbdjc
+https://www.youtube.com/watch?v=p-dXZI3fXBk
+https://www.youtube.com/watch?v=p3UBvqT3Fc4
+https://www.youtube.com/watch?v=p5gYiNBmTQQ
+https://www.youtube.com/watch?v=p5ivrB5x3V0
+https://www.youtube.com/watch?v=pAG-5fAKL-A
+https://www.youtube.com/watch?v=pBrfxtlehCo
+https://www.youtube.com/watch?v=pCd7RU5_8QQ
+https://www.youtube.com/watch?v=pDNnh84GTAA
+https://www.youtube.com/watch?v=pDf0fyrupnI
+https://www.youtube.com/watch?v=pE9TuV8K1YY
+https://www.youtube.com/watch?v=pEYDeK-_aKU
+https://www.youtube.com/watch?v=pH7OtHyQcVE
+https://www.youtube.com/watch?v=pHbRmCzSd8A
+https://www.youtube.com/watch?v=pKB2S1Wabbo
+https://www.youtube.com/watch?v=pLlNsd7NbQE
+https://www.youtube.com/watch?v=pQ21lDbh-iY
+https://www.youtube.com/watch?v=pTMLAw6s9PM
+https://www.youtube.com/watch?v=pTpHL6XGbYM
+https://www.youtube.com/watch?v=pUSCxRl6QI0
+https://www.youtube.com/watch?v=pVm52jLImKo
+https://www.youtube.com/watch?v=pWRCZ8u5ZCE
+https://www.youtube.com/watch?v=pYRL2kMjSTU
+https://www.youtube.com/watch?v=p_ddjofmdzo
+https://www.youtube.com/watch?v=paruhM9I3qc
+https://www.youtube.com/watch?v=pd6L4g1RLMo
+https://www.youtube.com/watch?v=pgMNuPz6pMQ
+https://www.youtube.com/watch?v=pgtoyAdhDLw
+https://www.youtube.com/watch?v=piGC-T8cU3k
+https://www.youtube.com/watch?v=pkovF-56u_o
+https://www.youtube.com/watch?v=pljllLDxTac
+https://www.youtube.com/watch?v=poYJHGi0bFg
+https://www.youtube.com/watch?v=pplEZ7qiLBw
+https://www.youtube.com/watch?v=prgWhp7RWkI
+https://www.youtube.com/watch?v=ptDiYSuTsUQ
+https://www.youtube.com/watch?v=pvInfz_-JVM
+https://www.youtube.com/watch?v=pwUANph11O8
+https://www.youtube.com/watch?v=pwppefaQGfI
+https://www.youtube.com/watch?v=pwrZirid6JE
+https://www.youtube.com/watch?v=pxQjj3oDvz4
+https://www.youtube.com/watch?v=pzn4t_hMn18
+https://www.youtube.com/watch?v=q1Q9KdjPTYw
+https://www.youtube.com/watch?v=q3Gj1v3Y9vQ
+https://www.youtube.com/watch?v=qACTvCW_yDc
+https://www.youtube.com/watch?v=qBZcxoIiAUs
+https://www.youtube.com/watch?v=qDhQMb7zv0A
+https://www.youtube.com/watch?v=qDwc3CC0Nk4
+https://www.youtube.com/watch?v=qE0oLyNns4w
+https://www.youtube.com/watch?v=qEhvxwhBX9Q
+https://www.youtube.com/watch?v=qF-Kk--ENUU
+https://www.youtube.com/watch?v=qG1j_Kzm85A
+https://www.youtube.com/watch?v=qGJsUkoSX9Y
+https://www.youtube.com/watch?v=qH7vJCBcr-4
+https://www.youtube.com/watch?v=qK5ExrZHqlA
+https://www.youtube.com/watch?v=qMqvJRh6VIo
+https://www.youtube.com/watch?v=qQXXI5QFUfw
+https://www.youtube.com/watch?v=qRml9X0XRsg
+https://www.youtube.com/watch?v=qUdt6GwEEpY
+https://www.youtube.com/watch?v=qYZf-JJz5gY
+https://www.youtube.com/watch?v=qYseaIgfL-g
+https://www.youtube.com/watch?v=qZERe0i3Ijk
+https://www.youtube.com/watch?v=qZKkTvBAR0k
+https://www.youtube.com/watch?v=qZrIkZFe0WU
+https://www.youtube.com/watch?v=q_nwy8PDRPQ
+https://www.youtube.com/watch?v=qbTgHFXhTnQ
+https://www.youtube.com/watch?v=qcbLhuXRtQ8
+https://www.youtube.com/watch?v=qgqDFwxsbn0
+https://www.youtube.com/watch?v=qi-AXPnSn2Q
+https://www.youtube.com/watch?v=qiwupgsnFeY
+https://www.youtube.com/watch?v=qjUMHm6LVi8
+https://www.youtube.com/watch?v=qkKVGf9xUz0
+https://www.youtube.com/watch?v=qkizpWP58sU
+https://www.youtube.com/watch?v=qooSKCQ4Qtk
+https://www.youtube.com/watch?v=qp159K0kh7E
+https://www.youtube.com/watch?v=qpjS6jiakZc
+https://www.youtube.com/watch?v=qreiotvNYMg
+https://www.youtube.com/watch?v=qySCByyE8uM
+https://www.youtube.com/watch?v=r1zlgBB8DiE
+https://www.youtube.com/watch?v=r37sRZu4WRw
+https://www.youtube.com/watch?v=r3VjBAnNV4s
+https://www.youtube.com/watch?v=r7tMehsb5yo
+https://www.youtube.com/watch?v=r8yPxFENjoI
+https://www.youtube.com/watch?v=rE4QFhpjnr8
+https://www.youtube.com/watch?v=rGCpDIZ3upk
+https://www.youtube.com/watch?v=rJt5k5ad6K0
+https://www.youtube.com/watch?v=rM3ayEV31B8
+https://www.youtube.com/watch?v=rM8zGaMty-g
+https://www.youtube.com/watch?v=rO7Caru1VN0
+https://www.youtube.com/watch?v=rO9vAEqR2Wk
+https://www.youtube.com/watch?v=rTenTSRcPd4
+https://www.youtube.com/watch?v=rU5Ob8hlI7A
+https://www.youtube.com/watch?v=rV1LzdxoUOw
+https://www.youtube.com/watch?v=rWkQ9Azx3FU
+https://www.youtube.com/watch?v=rYfN8OWstNM
+https://www.youtube.com/watch?v=rZwHY0J1lAE
+https://www.youtube.com/watch?v=rbTRDbOy2sI
+https://www.youtube.com/watch?v=rbyhmxxZVrM
+https://www.youtube.com/watch?v=reZs61O73qM
+https://www.youtube.com/watch?v=reqXBnVmvSY
+https://www.youtube.com/watch?v=rf0voomTIH4
+https://www.youtube.com/watch?v=rhhk2GX1zAw
+https://www.youtube.com/watch?v=rj_hj3mMpsc
+https://www.youtube.com/watch?v=rmKYvgoAFDc
+https://www.youtube.com/watch?v=ro6H_jm7DvE
+https://www.youtube.com/watch?v=rpaTYoBCCsY
+https://www.youtube.com/watch?v=rtxdYzOc6S4
+https://www.youtube.com/watch?v=rv4-8mTiwjA
+https://www.youtube.com/watch?v=rvhERmfedlo
+https://www.youtube.com/watch?v=rwC11OOdrYA
+https://www.youtube.com/watch?v=rw_UprGn1fM
+https://www.youtube.com/watch?v=s-1j8pVCHlQ
+https://www.youtube.com/watch?v=s-mpgEp6Xdc
+https://www.youtube.com/watch?v=s255KxrpjdA
+https://www.youtube.com/watch?v=s2_M4QRDz7w
+https://www.youtube.com/watch?v=s510fPRV-DM
+https://www.youtube.com/watch?v=s6Qlr8lrz5o
+https://www.youtube.com/watch?v=s93llZpXezY
+https://www.youtube.com/watch?v=s9WcSZi1Tso
+https://www.youtube.com/watch?v=sA48Sfw0xZs
+https://www.youtube.com/watch?v=sASQ2xCevCc
+https://www.youtube.com/watch?v=sBzJJNzJ1bU
+https://www.youtube.com/watch?v=sKgIJKtN7j0
+https://www.youtube.com/watch?v=sML4g4ETrbw
+https://www.youtube.com/watch?v=sMxmohjNIXQ
+https://www.youtube.com/watch?v=sP8rxKTjk1E
+https://www.youtube.com/watch?v=sPcsu10eqF8
+https://www.youtube.com/watch?v=sPqJ-XbSrtI
+https://www.youtube.com/watch?v=sQJ4AfDz6tM
+https://www.youtube.com/watch?v=sTeH47EP3uk
+https://www.youtube.com/watch?v=sUyWhZALQaU
+https://www.youtube.com/watch?v=sb4PgBZPAFA
+https://www.youtube.com/watch?v=sjdvrGXiYsM
+https://www.youtube.com/watch?v=slV8rpFa-4Y
+https://www.youtube.com/watch?v=smuq1h5pc4Y
+https://www.youtube.com/watch?v=ssEGVouj-gs
+https://www.youtube.com/watch?v=sssMcDu9P-k
+https://www.youtube.com/watch?v=stK-cugwKRY
+https://www.youtube.com/watch?v=stK6Ft_94Xo
+https://www.youtube.com/watch?v=swxcxLn0LzU
+https://www.youtube.com/watch?v=swyVZ-ChEI4
+https://www.youtube.com/watch?v=sz3aiMNHOv8
+https://www.youtube.com/watch?v=t2oIPoT9N-8
+https://www.youtube.com/watch?v=t4t_K1ea3gM
+https://www.youtube.com/watch?v=t6_Fp8mUuGg
+https://www.youtube.com/watch?v=t8d-CbyObI8
+https://www.youtube.com/watch?v=t9K34Jp0xNE
+https://www.youtube.com/watch?v=tAehXLbByys
+https://www.youtube.com/watch?v=tApKzxAYw6o
+https://www.youtube.com/watch?v=tDEq-JaFAUA
+https://www.youtube.com/watch?v=tFGqKts3b4A
+https://www.youtube.com/watch?v=tFKLInBh26Y
+https://www.youtube.com/watch?v=tHLaNDbBxSk
+https://www.youtube.com/watch?v=tHzksoE9Dy8
+https://www.youtube.com/watch?v=tP1eGuNyZhA
+https://www.youtube.com/watch?v=tSOvSVrNKXc
+https://www.youtube.com/watch?v=tV0xQoAAeV4
+https://www.youtube.com/watch?v=taMzM1LdYb4
+https://www.youtube.com/watch?v=tc97nNGswzA
+https://www.youtube.com/watch?v=td86KIDw6WI
+https://www.youtube.com/watch?v=tdMAgp_9IJs
+https://www.youtube.com/watch?v=tfKsLF7cB3A
+https://www.youtube.com/watch?v=tgPAgLbHvWI
+https://www.youtube.com/watch?v=tgPFC9KcvX0
+https://www.youtube.com/watch?v=tgYIxF2vth4
+https://www.youtube.com/watch?v=tglUASlOMZw
+https://www.youtube.com/watch?v=th2Fbykuaio
+https://www.youtube.com/watch?v=toqAgxruDE8
+https://www.youtube.com/watch?v=tqOHhBkLqrE
+https://www.youtube.com/watch?v=tr_jBjjtyhU
+https://www.youtube.com/watch?v=tsv12ClrTG4
+https://www.youtube.com/watch?v=tux1lgAgyRs
+https://www.youtube.com/watch?v=twADDr7sEuM
+https://www.youtube.com/watch?v=tyKaHfGTmDc
+https://www.youtube.com/watch?v=tzQmv_T1FkY
+https://www.youtube.com/watch?v=u1GzYswYT_s
+https://www.youtube.com/watch?v=u7OK_t4O0mk
+https://www.youtube.com/watch?v=u7eOWYhjdx8
+https://www.youtube.com/watch?v=u8czdHwAKZ4
+https://www.youtube.com/watch?v=uBRkkL0pSQM
+https://www.youtube.com/watch?v=uBTnaVLPCG0
+https://www.youtube.com/watch?v=uC_Gx2h5MVU
+https://www.youtube.com/watch?v=uImCPbwh6pI
+https://www.youtube.com/watch?v=uKcdti8qzDs
+https://www.youtube.com/watch?v=uKe54poudaw
+https://www.youtube.com/watch?v=uMXKGrDJT5E
+https://www.youtube.com/watch?v=uN4_NGKqqSE
+https://www.youtube.com/watch?v=uNXeCx5P8go
+https://www.youtube.com/watch?v=uOhSLRpxAy0
+https://www.youtube.com/watch?v=uPhXyLBzWCs
+https://www.youtube.com/watch?v=uQIO7LHCE9s
+https://www.youtube.com/watch?v=uS5d5ui3GJc
+https://www.youtube.com/watch?v=uTbnMk8VuTY
+https://www.youtube.com/watch?v=uVFHpXXVYeM
+https://www.youtube.com/watch?v=uYJJ8Z0wg3U
+https://www.youtube.com/watch?v=uYgE9vH65uY
+https://www.youtube.com/watch?v=uZPfeQ1EhNo
+https://www.youtube.com/watch?v=u_XVyDXs6fQ
+https://www.youtube.com/watch?v=u_vgcM6P9Q0
+https://www.youtube.com/watch?v=u_vwLHt61YM
+https://www.youtube.com/watch?v=uaybF6LGEpg
+https://www.youtube.com/watch?v=uf7UHXMyGZU
+https://www.youtube.com/watch?v=uggLXDf-SAs
+https://www.youtube.com/watch?v=uif_a0CjK3I
+https://www.youtube.com/watch?v=uqL5i_OxQws
+https://www.youtube.com/watch?v=uqmUBKKztMU
+https://www.youtube.com/watch?v=urC2cNV2b6k
+https://www.youtube.com/watch?v=uwJ6uew1_CE
+https://www.youtube.com/watch?v=uxq0ZQBObA0
+https://www.youtube.com/watch?v=v0OfanMiyUI
+https://www.youtube.com/watch?v=v2Jp6puLsY0
+https://www.youtube.com/watch?v=v3a0427awTc
+https://www.youtube.com/watch?v=v6DEfdOTRDw
+https://www.youtube.com/watch?v=v88JosVYfbM
+https://www.youtube.com/watch?v=v8D59cLh4-s
+https://www.youtube.com/watch?v=vAnTgYFOP1k
+https://www.youtube.com/watch?v=vCbc0zNSHVY
+https://www.youtube.com/watch?v=vHwKdfNW3gc
+https://www.youtube.com/watch?v=vIsdfC-sdHY
+https://www.youtube.com/watch?v=vLnPwxZdW4Y
+https://www.youtube.com/watch?v=vMpIHH3qTRk
+https://www.youtube.com/watch?v=vNd-rFQYzxU
+https://www.youtube.com/watch?v=vORtGw0n-aQ
+https://www.youtube.com/watch?v=vRA-gDFJMSk
+https://www.youtube.com/watch?v=vS1KHWKB6co
+https://www.youtube.com/watch?v=vS2Cy00x-9w
+https://www.youtube.com/watch?v=vVknKNZJs1U
+https://www.youtube.com/watch?v=vWkpGCHPKc0
+https://www.youtube.com/watch?v=vZXv1CECnaA
+https://www.youtube.com/watch?v=va3jK5VvOro
+https://www.youtube.com/watch?v=vfkTat_Z3NY
+https://www.youtube.com/watch?v=vj1PZu8kxuQ
+https://www.youtube.com/watch?v=vq1D1oGKWVY
+https://www.youtube.com/watch?v=vseAsZH1vlw
+https://www.youtube.com/watch?v=vtiXCAIylQM
+https://www.youtube.com/watch?v=vx9R8S3bLVk
+https://www.youtube.com/watch?v=vyox8JKm7nU
+https://www.youtube.com/watch?v=vyz1V9iiPQ8
+https://www.youtube.com/watch?v=w1c0-0z1Rqs
+https://www.youtube.com/watch?v=w335Ft_KFo8
+https://www.youtube.com/watch?v=w3vHranases
+https://www.youtube.com/watch?v=w4aFRNxilaU
+https://www.youtube.com/watch?v=w5hIbarbCso
+https://www.youtube.com/watch?v=w6uNS5zA-4Q
+https://www.youtube.com/watch?v=w7pT7PSX2-A
+https://www.youtube.com/watch?v=wGsXxSRx8ws
+https://www.youtube.com/watch?v=wHM6oGel6oA
+https://www.youtube.com/watch?v=wJ3sthmSVPw
+https://www.youtube.com/watch?v=wKVl402wvNw
+https://www.youtube.com/watch?v=wLTzTWXhYhE
+https://www.youtube.com/watch?v=wLvSvUVtmlI
+https://www.youtube.com/watch?v=wMAuIaiTInw
+https://www.youtube.com/watch?v=wMyHj9pOSiA
+https://www.youtube.com/watch?v=wOs1-EhsGeo
+https://www.youtube.com/watch?v=wQLZj35VwYg
+https://www.youtube.com/watch?v=wZZ27KC_2o0
+https://www.youtube.com/watch?v=waM7UXIfLeA
+https://www.youtube.com/watch?v=wbJb9_hHb1E
+https://www.youtube.com/watch?v=weTZ1VuetRY
+https://www.youtube.com/watch?v=wgEE40RD8sI
+https://www.youtube.com/watch?v=wi7ynoG9D4g
+https://www.youtube.com/watch?v=wixKXQmyg9M
+https://www.youtube.com/watch?v=wiyxMkaG4mc
+https://www.youtube.com/watch?v=wjZ2f6RwBRA
+https://www.youtube.com/watch?v=wnti7T9w0rk
+https://www.youtube.com/watch?v=wpQ0n9be2Ew
+https://www.youtube.com/watch?v=wqJ0qc5MnGY
+https://www.youtube.com/watch?v=wr0To_LS-mk
+https://www.youtube.com/watch?v=wrOtavfG2GM
+https://www.youtube.com/watch?v=wtt2VstOygg
+https://www.youtube.com/watch?v=wtyZIcAhvTc
+https://www.youtube.com/watch?v=wuNIM6injNs
+https://www.youtube.com/watch?v=wvSeb1Qt710
+https://www.youtube.com/watch?v=wx7Ug8lXpDI
+https://www.youtube.com/watch?v=wxsmkVa5BAY
+https://www.youtube.com/watch?v=x0MRlk6fGhg
+https://www.youtube.com/watch?v=x18_pzIdNpY
+https://www.youtube.com/watch?v=x2x3YRgQhgw
+https://www.youtube.com/watch?v=x5vhB_lEoEE
+https://www.youtube.com/watch?v=xBM9zZaVLIE
+https://www.youtube.com/watch?v=xCqnzEVixIc
+https://www.youtube.com/watch?v=xHByozO1n2I
+https://www.youtube.com/watch?v=xHv1muPKH6Y
+https://www.youtube.com/watch?v=xIJjcPHJFCI
+https://www.youtube.com/watch?v=xJL0NPxztgc
+https://www.youtube.com/watch?v=xLKAZhk95Pg
+https://www.youtube.com/watch?v=xLPcZW66-A0
+https://www.youtube.com/watch?v=xL_-G0Z-5h4
+https://www.youtube.com/watch?v=xOJwa7Ks19A
+https://www.youtube.com/watch?v=xPKU5WkLOqA
+https://www.youtube.com/watch?v=xPxzv-A06jY
+https://www.youtube.com/watch?v=xR8ruY8D_vE
+https://www.youtube.com/watch?v=xRk5vjDRKko
+https://www.youtube.com/watch?v=xTXK76ZfCvU
+https://www.youtube.com/watch?v=xUFo5gguGo4
+https://www.youtube.com/watch?v=xVDJkEvNfaU
+https://www.youtube.com/watch?v=xcP4Gv6LavE
+https://www.youtube.com/watch?v=xczA6Qvt_qs
+https://www.youtube.com/watch?v=xePoXhdtMlU
+https://www.youtube.com/watch?v=xejhczZlz60
+https://www.youtube.com/watch?v=xglLTwPXMjg
+https://www.youtube.com/watch?v=xgxqC4wmlE8
+https://www.youtube.com/watch?v=xhITLdy4p8g
+https://www.youtube.com/watch?v=xisnSDvrLkI
+https://www.youtube.com/watch?v=xtgapOPSyrE
+https://www.youtube.com/watch?v=xxsRenWzDJU
+https://www.youtube.com/watch?v=xzS-rlA5MQs
+https://www.youtube.com/watch?v=y-M1C3cbYdA
+https://www.youtube.com/watch?v=y0l5lp0PHG0
+https://www.youtube.com/watch?v=y1GlG6gKNPk
+https://www.youtube.com/watch?v=y4qg6D5FQTQ
+https://www.youtube.com/watch?v=y57kfjNNFmg
+https://www.youtube.com/watch?v=y92jZpMxXtc
+https://www.youtube.com/watch?v=y9_J1igaL5M
+https://www.youtube.com/watch?v=yA-5dDjVQnk
+https://www.youtube.com/watch?v=yDSNeok16E8
+https://www.youtube.com/watch?v=yDU0BDacfTI
+https://www.youtube.com/watch?v=yDdtFbWuCfQ
+https://www.youtube.com/watch?v=yGbnCZfYI7Y
+https://www.youtube.com/watch?v=yLwHb_Cj7U4
+https://www.youtube.com/watch?v=yO17MzitNIY
+https://www.youtube.com/watch?v=yPHKeD_xpQM
+https://www.youtube.com/watch?v=yRVnW9dUvLk
+https://www.youtube.com/watch?v=yVGBv8ruQpU
+https://www.youtube.com/watch?v=yXyVreNnv40
+https://www.youtube.com/watch?v=y_NcClXsbAw
+https://www.youtube.com/watch?v=yajUbh0H6-s
+https://www.youtube.com/watch?v=yalxekRlAuU
+https://www.youtube.com/watch?v=yb8MA1lOosA
+https://www.youtube.com/watch?v=ydQlBDLPiac
+https://www.youtube.com/watch?v=yda5kOUIFp8
+https://www.youtube.com/watch?v=yddp6vjeVYM
+https://www.youtube.com/watch?v=ydkgBksj6Nw
+https://www.youtube.com/watch?v=yeLHszVaL3I
+https://www.youtube.com/watch?v=yf-RDb-S70c
+https://www.youtube.com/watch?v=yjN2L7_PL5s
+https://www.youtube.com/watch?v=ymPmeT-6kOg
+https://www.youtube.com/watch?v=ymmq1n0htp4
+https://www.youtube.com/watch?v=yp3SFL3eWL8
+https://www.youtube.com/watch?v=ypBNKzfq3bc&list=RDypBNKzfq3bc&start_radio=1
+https://www.youtube.com/watch?v=ypjo--73Cb8
+https://www.youtube.com/watch?v=ysQcwpwki7Y
+https://www.youtube.com/watch?v=yuS_oBqeoKg
+https://www.youtube.com/watch?v=yvECDYLag94
+https://www.youtube.com/watch?v=ywc7LNS3wNM
+https://www.youtube.com/watch?v=yyUHQIec83I
+https://www.youtube.com/watch?v=yzBoZY7Up0k
+https://www.youtube.com/watch?v=yzxav9vF0ik
+https://www.youtube.com/watch?v=z-TAfbNge5E
+https://www.youtube.com/watch?v=z0GbohOk9BU
+https://www.youtube.com/watch?v=z2XXW2d7xug
+https://www.youtube.com/watch?v=z4JnQkMSSF4
+https://www.youtube.com/watch?v=z4LLLaa1P0k
+https://www.youtube.com/watch?v=z4n4LpikUhg
+https://www.youtube.com/watch?v=z5CQ_nie8vY
+https://www.youtube.com/watch?v=z97DkoH7Q8o
+https://www.youtube.com/watch?v=zCUlTqv_UgM
+https://www.youtube.com/watch?v=zDIIhDCAIxA
+https://www.youtube.com/watch?v=zIVy9nIB8hY
+https://www.youtube.com/watch?v=zJRtJeRxCsc
+https://www.youtube.com/watch?v=zJljzbcrWUQ
+https://www.youtube.com/watch?v=zJme1VK9Zm8
+https://www.youtube.com/watch?v=zKp7s4U4dP0
+https://www.youtube.com/watch?v=zL4_cJ61w6o
+https://www.youtube.com/watch?v=zM5Gyc4ux8k
+https://www.youtube.com/watch?v=zRxVLlbtP14
+https://www.youtube.com/watch?v=zTVWViDiqjA
+https://www.youtube.com/watch?v=zTjSSNamOJI
+https://www.youtube.com/watch?v=zUpJ5zaCcb8
+https://www.youtube.com/watch?v=zW2aUjBehNg
+https://www.youtube.com/watch?v=zZhUeW09T0Q
+https://www.youtube.com/watch?v=z_bRX6Qxwcs
+https://www.youtube.com/watch?v=zm4QwJNWMjk
+https://www.youtube.com/watch?v=zmLrn1co__Q
+https://www.youtube.com/watch?v=znDNuu7Xkh8
+https://www.youtube.com/watch?v=znggtLHHmcc
+https://www.youtube.com/watch?v=zoZ7nVPDiFg
+https://www.youtube.com/watch?v=zpoDK3ocIZ8
+https://www.youtube.com/watch?v=zrBybRWT4B8
+https://www.youtube.com/watch?v=zryIHgkKK_c
+https://www.youtube.com/watch?v=ztjbjFX79hs
+https://www.youtube.com/watch?v=zuvZqkn0S64
+https://www.youtube.com/watch?v=zxK_Lh8iHMU
+https://www.youtube.com/watch?v=zxgXmTl1P5w
+https://www.youtube.com/watch?v=zydmlEN0Ojo
